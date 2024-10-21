@@ -1,0 +1,5449 @@
+f.movieid,m.title,rating_count,average_rating
+79132,inception,320,4.6
+318,"shawshank redemption, the",232,4.16
+2959,fight club,231,4.24
+296,pulp fiction,219,4.45
+260,star wars: episode iv - a new hope,217,4.34
+202439,parasite,206,4.42
+4878,donnie darko,177,4.32
+2571,"matrix, the",169,4.71
+48780,"prestige, the",161,4.45
+72998,avatar,149,4.15
+109487,interstellar,145,4.43
+4226,memento,141,4.39
+58559,"dark knight, the",140,4.23
+257755,friend of the world,137,4.5
+7361,eternal sunshine of the spotless mind,133,4.62
+5618,spirited away,131,4.52
+122912,avengers: infinity war - part i,131,2.86
+204698,joker,129,4.05
+593,"silence of the lambs, the",125,4.32
+356,forrest gump,125,4.67
+6874,kill bill: vol. 1,124,3.92
+50,"usual suspects, the",123,4.45
+1258,"shining, the",116,3.58
+187593,deadpool 2,105,4.57
+4848,mulholland drive,105,4.19
+164179,arrival,104,4.27
+48394,pan's labyrinth,103,3.65
+4973,amelie,102,4.39
+5952,"lord of the rings: the two towers, the",101,4.67
+1265,groundhog day,101,4.17
+68237,moon,100,4.46
+2288,"thing, the",98,4.14
+106920,her,97,4.2
+7153,"lord of the rings: the return of the king, the",95,4.28
+1214,alien,95,4.62
+1682,"truman show, the",95,4.85
+140956,ready player one,95,4.0
+47,seven,95,3.94
+79702,scott pilgrim vs. the world,93,4.39
+122914,avengers: infinity war - part ii,92,3.17
+185029,a quiet place,92,3.84
+116797,the imitation game,89,4.28
+201646,midsommar,89,4.03
+2858,american beauty,88,3.83
+68157,inglourious basterds,87,4.0
+208703,1917,85,3.98
+1206,"clockwork orange, a",85,4.32
+183611,game night,85,4.18
+4993,"lord of the rings: the fellowship of the ring, the",84,4.56
+32587,sin city,83,3.37
+27773,old boy,81,4.19
+1136,monty python and the holy grail,81,4.13
+4262,scarface,79,4.58
+91500,the hunger games,79,3.8
+217465,tenet,78,3.7
+112552,whiplash,78,3.99
+1089,reservoir dogs,78,4.1
+60684,watchmen,78,3.96
+924,2001: a space odyssey,78,4.29
+4995,"beautiful mind, a",78,4.03
+1197,"princess bride, the",77,4.49
+99114,django unchained,77,4.21
+293,léon: the professional,77,4.69
+122904,deadpool,77,3.97
+55247,into the wild,76,4.32
+3949,requiem for a dream,76,4.21
+48516,"departed, the",75,3.79
+527,schindler's list,75,3.95
+254726,dune,75,4.39
+60069,wall·e,74,4.37
+251086,the suicide squad,73,3.44
+5989,catch me if you can,73,4.69
+189203,upgrade,73,3.97
+3000,princess mononoke,72,4.59
+115569,nightcrawler,72,4.75
+541,blade runner,71,4.03
+1748,dark city,71,4.07
+88129,drive,71,4.52
+207313,knives out,70,4.34
+122906,black panther,70,3.72
+122882,mad max: fury road,68,4.01
+134130,the martian,67,4.43
+30810,"life aquatic with steve zissou, the",67,3.87
+1196,star wars: episode v - the empire strikes back,67,4.78
+5995,"pianist, the",67,4.08
+89745,"avengers, the",66,2.89
+179819,star wars: the last jedi,66,2.42
+207830,terminator: dark fate,66,3.81
+56367,juno,65,4.09
+1199,brazil,65,4.5
+270698,everything everywhere all at once,65,4.27
+115713,ex machina,65,4.75
+44555,"lives of others, the",64,4.57
+858,"godfather, the",63,4.61
+1704,good will hunting,63,4.37
+94959,moonrise kingdom,63,4.19
+192385,a star is born,63,3.67
+1225,amadeus,62,4.51
+5445,minority report,62,4.27
+108729,enemy,61,4.39
+73321,"book of eli, the",61,3.64
+205156,jojo rabbit,61,4.11
+1200,aliens,61,4.58
+34405,serenity,61,4.43
+79357,mr. nobody,61,4.51
+175303,it,60,3.73
+1653,gattaca,60,4.13
+68954,up,60,4.1
+225173,soul,60,4.13
+134853,inside out,60,4.29
+80463,"social network, the",59,3.68
+74458,shutter island,59,3.43
+3471,close encounters of the third kind,59,3.47
+263009,the matrix resurrections,59,2.85
+1210,star wars: episode vi - return of the jedi,59,4.63
+5903,equilibrium,59,4.37
+6711,lost in translation,59,3.86
+189333,mission: impossible - fallout,58,4.69
+55820,no country for old men,58,3.78
+192803,bohemian rhapsody,58,3.61
+1732,"big lebowski, the",58,4.18
+197175,alita: battle angel,58,4.01
+364,"lion king, the",57,4.5
+197711,us,57,4.29
+179401,jumanji: welcome to the jungle,57,3.38
+1270,back to the future,57,4.61
+201340,the lighthouse,56,3.79
+48385,borat: cultural learnings of america for make benefit glorious nation of kazakhstan,56,3.34
+68358,star trek,56,4.39
+82461,tron: legacy,55,3.68
+187031,jurassic world: fallen kingdom,55,2.85
+288,natural born killers,55,4.05
+166643,hidden figures,54,3.95
+71535,zombieland,54,4.25
+912,casablanca,54,4.39
+187595,solo: a star wars story,54,3.58
+51540,zodiac,53,4.3
+70286,district 9,53,4.37
+57669,in bruges,52,4.31
+96610,looper,52,3.61
+224280,no time to die,52,4.04
+96079,skyfall,51,4.27
+1203,12 angry men,51,3.95
+69757, days of summer,51,2.96
+213347,a quiet place part ii,51,3.6
+44191,v for vendetta,51,3.7
+166635,passengers,51,3.78
+195159,spider-man: into the spider-verse,51,4.5
+92259,intouchables,51,4.57
+117176,the theory of everything,50,4.35
+202429,once upon a time in hollywood,50,3.92
+263007,spider-man: no way home,50,3.25
+226270,the trial of the chicago 7,50,4.84
+103228,pacific rim,50,2.56
+69134,antichrist,49,4.57
+8961,"incredibles, the",49,4.34
+206857,the irishman,49,3.98
+6942,love actually,49,3.04
+109374,"grand budapest hotel, the",49,4.41
+4011,snatch,49,3.87
+128360,the hateful eight,49,4.44
+5418,"bourne identity, the",48,4.25
+104841,gravity,48,3.93
+183869,hereditary,48,4.35
+174055,dunkirk,48,3.68
+104879,prisoners,48,4.23
+33794,batman begins,48,4.01
+69122,"hangover, the",47,2.78
+263407,don't look up,47,3.85
+3967,billy elliot,47,3.93
+90376,we need to talk about kevin,47,2.88
+112183,birdman: or,46,3.46
+59126,religulous,46,3.82
+3578,gladiator,46,4.07
+589,terminator 2: judgment day,46,4.87
+49272,casino royale,46,4.1
+32,twelve monkeys,45,3.83
+164909,la la land,45,3.99
+6539,pirates of the caribbean: the curse of the black pearl,45,4.3
+608,fargo,45,3.97
+1587,conan the barbarian,44,4.15
+81591,black swan,44,3.82
+8533,"notebook, the",44,3.86
+8874,shaun of the dead,44,4.3
+111759,edge of tomorrow,44,4.56
+2028,saving private ryan,44,3.18
+1252,chinatown,44,3.88
+111,taxi driver,44,4.45
+187541,incredibles 2,44,4.13
+171763,baby driver,43,4.72
+7235,ichi the killer,43,4.5
+163134,your name.,43,4.73
+203375,ford v. ferrari,43,4.28
+48774,children of men,43,3.98
+4975,vanilla sky,43,3.8
+91529,"dark knight rises, the",43,3.84
+1721,titanic,43,3.97
+120466,chappie,43,3.65
+189713,blackkklansman,43,4.05
+2762,"sixth sense, the",43,4.24
+7318,"passion of the christ, the",43,3.23
+94864,prometheus,42,3.76
+3948,meet the parents,42,2.94
+31364,memories of murder,42,4.13
+119145,kingsman: the secret service,42,3.31
+68319,x-men origins: wolverine,42,3.57
+38061,kiss kiss bang bang,42,4.49
+2324,life is beautiful,42,4.18
+81845,"king's speech, the",42,3.87
+55908,"man from earth, the",42,4.25
+8957,saw,42,4.33
+1625,"game, the",42,3.86
+1219,psycho,41,4.87
+76093,how to train your dragon,41,4.45
+51255,hot fuzz,41,3.95
+168250,get out,41,4.51
+204352,ad astra,41,3.24
+1345,carrie,41,4.32
+59315,iron man,41,3.38
+42011,fun with dick and jane,40,3.61
+26079,david and lisa,40,4.5
+4310,pearl harbor,40,3.18
+4873,waking life,40,4.08
+51662,300,40,2.44
+77561,iron man 2,40,3.23
+182715,annihilation,40,3.74
+192245,bad times at the el royale,40,3.31
+2918,ferris bueller's day off,40,4.59
+46578,little miss sunshine,39,3.92
+485,last action hero,39,3.41
+2502,office space,39,3.81
+104374,about time,39,4.33
+140267,the witch,39,3.69
+110,braveheart,39,4.08
+194951,bird box,39,2.5
+8914,primer,39,4.31
+4306,shrek,39,4.24
+112623,dawn of the planet of the apes,39,4.72
+46976,stranger than fiction,39,4.5
+188749,the equalizer 2,39,4.5
+3793,x-men,39,3.56
+59387,"fall, the",38,4.28
+2640,superman,38,4.07
+89492,moneyball,38,4.05
+2916,total recall,38,4.32
+176419,mother!,38,3.95
+7099,nausicaä of the valley of the wind,38,4.75
+2628,star wars: episode i - the phantom menace,38,3.8
+1246,dead poets society,38,4.49
+2529,planet of the apes,37,4.0
+112556,gone girl,37,4.68
+1527,"fifth element, the",37,4.77
+2021,dune,37,3.28
+47099,"pursuit of happyness, the",37,4.28
+2791,airplane!,37,3.97
+86332,thor,37,3.66
+97938,life of pi,37,4.2
+1,toy story,37,4.0
+152077,10 cloverfield lane,37,3.95
+1240,"terminator, the",36,4.31
+1213,goodfellas,36,4.68
+64614,gran torino,36,3.89
+6870,mystic river,36,3.42
+1193,one flew over the cuckoo's nest,36,4.33
+63992,twilight,36,2.22
+188301,ant-man and the wasp,36,4.4
+168492,call me by your name,36,4.88
+223,clerks,36,4.44
+184253,the cloverfield paradox,36,3.11
+7438,kill bill: vol. 2,36,3.75
+1201,"good, the bad and the ugly, the",36,4.26
+96737,dredd,36,4.0
+102903,now you see me,36,3.97
+77307,dogtooth,35,4.81
+33493,star wars: episode iii - revenge of the sith,35,4.07
+6564,lara croft tomb raider: the cradle of life,35,2.0
+44115,shinobi: heart under blade,35,4.0
+41566,"chronicles of narnia: the lion, the witch and the wardrobe, the",35,3.8
+106782,"wolf of wall street, the",35,3.97
+2712,eyes wide shut,35,4.03
+904,rear window,35,4.51
+97921,silver linings playbook,35,4.84
+6365,"matrix reloaded, the",35,4.19
+2997,being john malkovich,35,4.3
+78772,"twilight saga: eclipse, the",35,3.14
+74545,"ghost writer, the",35,2.81
+56174,i am legend,35,3.81
+30707,million dollar baby,35,3.5
+1968,"breakfast club, the",34,4.5
+34048,war of the worlds,34,2.34
+195497,vice,34,3.94
+212461,the invisible man,34,3.43
+83134,tucker & dale vs evil,34,4.19
+95167,brave,34,3.79
+5388,insomnia,34,3.59
+106489,"hobbit: the desolation of smaug, the",34,4.01
+4437,suspiria,34,3.34
+2515,children of the corn ii: the final sacrifice,34,2.0
+88810,"help, the",34,4.21
+115122,what we do in the shadows,34,4.28
+4963,ocean's eleven,34,4.25
+6377,finding nemo,34,3.99
+61323,burn after reading,34,3.82
+268642,the batman,34,3.91
+2010,metropolis,33,4.65
+163645,hacksaw ridge,33,4.05
+122886,star wars: episode vii - the force awakens,33,4.11
+778,trainspotting,33,4.35
+3556,"virgin suicides, the",33,3.76
+122910,captain marvel,33,3.38
+480,jurassic park,33,4.15
+31658,howl's moving castle,33,3.74
+91658,"girl with the dragon tattoo, the",33,3.58
+52328,sunshine,33,3.74
+204542,it: chapter two,33,3.86
+133771,the lobster,33,4.0
+210569,birds of prey,32,3.58
+1198,raiders of the lost ark,32,4.3
+176371,blade runner 2049,32,4.22
+1209,once upon a time in the west,32,3.92
+139385,the revenant,32,3.86
+555,true romance,32,3.52
+2160,rosemary's baby,32,4.33
+173291,valerian and the city of a thousand planets,32,3.13
+3702,mad max,32,3.05
+101864,oblivion,32,4.03
+208205,star wars: the rise of skywalker,32,1.61
+44199,inside man,31,4.37
+221886,shiva baby,31,2.26
+84954,"adjustment bureau, the",31,4.1
+76251,kick-ass,31,4.26
+67197,knowing,31,2.76
+193449,mid90s,31,4.0
+152081,zootopia,31,4.16
+1617,l.a. confidential,31,4.39
+64839,"wrestler, the",31,3.27
+189363,ocean's 8,31,3.08
+115617,big hero 6,31,4.16
+908,north by northwest,31,4.69
+43560,nanny mcphee,31,1.89
+112290,boyhood,31,3.89
+33679,mr. & mrs. smith,31,3.65
+54259,stardust,30,4.1
+183897,isle of dogs,30,4.03
+8984,ocean's twelve,30,3.3
+55765,american gangster,30,4.63
+97752,cloud atlas,30,4.22
+194448,green book,30,4.52
+8376,napoleon dynamite,30,3.63
+169984,alien: covenant,30,3.6
+2395,rushmore,30,4.25
+866,bound,30,4.3
+115210,fury,30,3.92
+61240,let the right one in,30,4.17
+1261,evil dead ii,30,4.6
+177593,"three billboards outside ebbing, missouri",29,4.16
+200822,dark phoenix,29,3.14
+66097,coraline,29,4.21
+36529,lord of war,29,4.19
+2076,blue velvet,29,3.74
+5971,my neighbor totoro,29,4.03
+168254,kong: skull island,29,3.14
+3052,dogma,29,4.34
+88163,"crazy, stupid, love.",29,3.72
+3481,high fidelity,29,4.05
+212361,sound of metal,29,4.4
+89753,tinker tailor soldier spy,29,4.4
+209965,uncut gems,29,3.57
+1232,stalker,29,3.83
+116897,wild tales,29,4.93
+79293,salt,29,2.79
+90405,in time,29,4.03
+6,heat,29,4.22
+4105,"evil dead, the",29,4.26
+6934,"matrix revolutions, the",29,3.53
+50872,ratatouille,29,4.14
+192389,venom,29,2.81
+2291,edward scissorhands,28,4.0
+551,"nightmare before christmas, the",28,3.66
+113741,coherence,28,4.48
+200306,booksmart,28,4.04
+2617,"mummy, the",28,4.0
+201773,spider-man: far from home,28,2.39
+108190,divergent,28,2.61
+190339,white fang,28,4.5
+1215,army of darkness,28,3.5
+195209,code 8,28,4.0
+157699,snowden,28,5.0
+45499,x-men: the last stand,28,2.77
+206246,the platform,28,4.3
+3698,"running man, the",28,3.73
+52885,paprika,28,3.93
+1293,gandhi,28,4.39
+3916,remember the titans,28,4.66
+2692,run lola run,28,4.5
+92058,"human centipede ii, the",28,5.0
+741,ghost in the shell,28,4.55
+109848,under the skin,28,2.05
+5291,rashomon,28,4.41
+86882,midnight in paris,27,3.39
+112852,guardians of the galaxy,27,3.39
+88405,friends with benefits,27,3.72
+176751,american made,27,3.98
+31696,constantine,27,4.44
+98607,redline,27,3.81
+33171,mysterious skin,27,4.85
+1288,this is spinal tap,27,4.59
+72601,teenage mutant ninja turtles: turtles forever,27,3.0
+85367,just go with it,27,3.2
+7587,"samouraï, le",27,4.5
+80210,"end of poverty, the",27,5.0
+114180,"maze runner, the",27,3.87
+204704,ready or not,27,4.02
+1237,"seventh seal, the",27,4.06
+4896,harry potter and the sorcerer's stone,27,4.48
+226202,free guy,27,2.87
+202103,i am mother,27,4.85
+183421,red sparrow,27,3.56
+6818,come and see,27,2.57
+1464,lost highway,27,4.31
+158783,the handmaiden,27,4.09
+1298,pink floyd: the wall,26,4.98
+7068,last year at marienbad,26,4.5
+94777,men in black iii,26,4.4
+122916,thor: ragnarok,26,4.12
+1274,akira,26,4.25
+117529,jurassic world,26,3.19
+71530,surrogates,26,2.62
+132046,tomorrowland,26,3.98
+79553,ip man 2,26,4.0
+90647,puss in boots,26,3.83
+140110,the intern,26,4.6
+4886,"monsters, inc.",26,4.44
+90866,hugo,26,3.44
+248912,army of the dead,26,1.92
+2716,ghostbusters,26,4.06
+8361,"day after tomorrow, the",26,2.98
+110730,transcendence,26,2.96
+66665,away we go,26,3.6
+2313,"elephant man, the",26,4.48
+592,batman,26,3.44
+205072,zombieland: double tap,25,4.06
+52722,spider-man 3,25,2.82
+72226,fantastic mr. fox,25,4.14
+161032,the grandmother,25,5.0
+2232,cube,25,3.96
+6323,identity,25,3.08
+497,much ado about nothing,25,4.04
+87306,super 8,25,3.64
+210867,underwater,25,2.56
+97304,argo,25,3.76
+159403,neo tokyo,25,3.0
+55442,persepolis,25,4.68
+166528,rogue one: a star wars story,25,3.9
+1172,cinema paradiso,25,3.96
+92920,"hunter, the",25,4.0
+47997,idiocracy,25,4.02
+7013,"night of the hunter, the",25,3.6
+285597,rye lane,25,4.5
+95510,"amazing spider-man, the",25,3.76
+4553,they live,25,4.12
+56145,"mist, the",25,4.36
+79879,piranha,25,2.22
+2361,pink flamingos,25,5.0
+49932,inland empire,24,4.15
+275245,nope,24,3.92
+126046,franz kafka's a country doctor,24,5.0
+76175,clash of the titans,24,3.88
+81564,megamind,24,4.19
+86644,fast five,24,2.83
+48043,"fountain, the",24,4.79
+71033,"secret in their eyes, the",24,4.94
+80906,inside job,24,4.21
+53519,death proof,24,2.81
+177765,coco,24,4.23
+175569,wind river,24,4.31
+2657,"rocky horror picture show, the",24,3.94
+110553,the amazing spider-man 2,24,3.33
+3174,man on the moon,24,3.5
+45722,pirates of the caribbean: dead man's chest,24,4.21
+4643,planet of the apes,24,2.42
+1221,"godfather: part ii, the",24,4.73
+5349,spider-man,24,2.83
+61132,tropic thunder,24,4.35
+186587,rampage,24,3.38
+91630,mission: impossible - ghost protocol,24,4.42
+750,dr. strangelove or: how i learned to stop worrying and love the bomb,24,4.17
+3703,"road warrior, the",24,1.88
+235,ed wood,23,3.24
+3307,city lights,23,3.91
+104913,rush,23,4.2
+73211,pontypool,23,4.04
+73017,sherlock holmes,23,4.41
+104241,kick-ass 2,23,3.28
+31410,downfall,23,3.3
+114935,predestination,23,4.46
+234418,legend of the mountain,23,5.0
+122926,untitled spider-man reboot,23,3.22
+143347,aquaman,23,3.43
+2019,seven samurai,23,4.43
+87430,green lantern,23,3.33
+111921,the fault in our stars,23,4.37
+205383,el camino: a breaking bad movie,23,4.22
+179331,only the brave,23,3.83
+189449,macross frontier: the false songstress,23,4.5
+46972,night at the museum,23,3.37
+1208,apocalypse now,23,4.41
+4223,enemy at the gates,23,3.5
+8529,"terminal, the",23,4.37
+4754,"wicker man, the",23,4.07
+6299,winged migration,23,4.0
+2542,"lock, stock & two smoking barrels",23,3.33
+33683,high tension,23,2.72
+70361,12 rounds,23,3.7
+1291,indiana jones and the last crusade,23,4.41
+377,speed,23,4.15
+27801,ong-bak: the thai warrior,23,3.22
+106918,"secret life of walter mitty, the",23,4.59
+2140,"dark crystal, the",23,4.87
+241272,nobody,23,4.02
+1672,"rainmaker, the",23,4.11
+225145,nomadland,23,3.57
+276929,prey,23,4.07
+493,menace ii society,23,4.22
+4533,"return of the living dead, the",23,4.28
+89030,fright night,23,2.89
+50641,house,23,3.63
+2329,american history x,22,4.43
+1912,out of sight,22,3.98
+73268,daybreakers,22,3.68
+30793,charlie and the chocolate factory,22,3.16
+143896,how to change the world,22,5.0
+173145,war for the planet of the apes,22,3.98
+89470,contagion,22,4.05
+181315,phantom thread,22,4.0
+77866,robin hood,22,4.14
+151759,requiem for the american dream,22,4.84
+8784,garden state,22,3.5
+42418,"new world, the",22,4.16
+5040,conan the destroyer,22,3.57
+63131,role models,22,3.89
+2360,"celebration, the",22,4.18
+508,philadelphia,22,3.77
+5410,silent running,22,2.0
+140715,straight outta compton,22,4.86
+200938,the dead don't die,22,3.11
+16,casino,22,4.52
+93840,"cabin in the woods, the",22,4.0
+195777,mortal engines,22,2.05
+59731,"bigger, stronger, faster*",22,4.5
+1584,contact,22,3.05
+160080,ghostbusters,22,3.7
+116823,the hunger games: mockingjay - part 1,22,3.11
+1676,starship troopers,22,4.2
+3527,predator,22,3.2
+69406,"proposal, the",22,4.68
+136020,spectre,22,3.61
+84152,limitless,22,4.25
+89864,50/50,22,4.07
+5010,black hawk down,22,3.89
+6664,commando,22,3.32
+88744,rise of the planet of the apes,21,3.5
+1961,rain man,21,3.98
+171093,waiting for the hearse,21,5.0
+75985,repo men,21,4.29
+171495,cosmos,21,4.88
+90746,"adventures of tintin, the",21,4.02
+223876,my octopus teacher,21,5.0
+2011,back to the future part ii,21,4.36
+3176,"talented mr. ripley, the",21,3.14
+98809,"hobbit: an unexpected journey, the",21,4.5
+106487,the hunger games: catching fire,21,3.95
+3147,"green mile, the",21,2.86
+122892,avengers: age of ultron,21,2.79
+6016,city of god,21,4.62
+159415,swiss army man,21,3.38
+2427,"thin red line, the",21,4.05
+1407,scream,21,4.67
+157198,macross frontier: the wings of goodbye,21,4.5
+7455,"mudge boy, the",21,4.5
+159817,planet earth,21,5.0
+36517,"constant gardener, the",21,4.19
+8638,before sunset,21,3.64
+6796,boyz n the hood,21,4.62
+1080,monty python's life of brian,21,3.52
+69526,transformers: revenge of the fallen,21,2.86
+8970,finding neverland,21,3.86
+1645,the devil's advocate,21,4.07
+45186,mission: impossible iii,21,4.55
+212373,i'm thinking of ending things,21,1.33
+501,naked,21,4.12
+161582,hell or high water,21,4.6
+6440,barton fink,21,4.14
+7454,van helsing,21,3.45
+6373,bruce almighty,21,3.6
+2302,my cousin vinny,21,4.17
+6333,x2: x-men united,21,4.4
+58998,forgetting sarah marshall,21,3.29
+1320,alien³,21,3.93
+71135,pandorum,20,2.95
+2706,american pie,20,3.68
+35836,"40-year-old virgin, the",20,3.95
+3362,dog day afternoon,20,3.68
+177689,the killing of a sacred deer,20,4.58
+97923,flight,20,4.2
+27904,"scanner darkly, a",20,3.95
+2966,"straight story, the",20,3.63
+189443,macross: do you remember love?,20,5.0
+26326,"holy mountain, the",20,4.2
+44665,lucky number slevin,20,3.73
+78893,"last airbender, the",20,2.13
+71282,"food, inc.",20,4.05
+64957,"curious case of benjamin button, the",20,4.23
+173941,atomic blonde,20,4.45
+6502,28 days later,20,4.05
+7327,persona,20,4.08
+225625,borat subsequent moviefilm,20,3.4
+97306,seven psychopaths,20,3.4
+96811,end of watch,20,4.75
+58103,vantage point,20,2.75
+53322,ocean's thirteen,20,3.65
+49961,notes on a scandal,20,3.35
+115149,john wick,20,3.83
+274053,top gun: maverick,20,3.93
+2064,roger & me,20,3.3
+2641,superman ii,20,3.08
+2642,superman iii,20,2.1
+1307,when harry met sally...,20,4.58
+30745,gozu,20,4.05
+3730,"conversation, the",20,2.78
+184017,mute,20,3.28
+7817,zardoz,20,3.38
+4720,"others, the",20,4.4
+118696,the hobbit: the battle of the five armies,20,3.43
+5319,nine queens,20,4.45
+4979,"royal tenenbaums, the",19,3.53
+77414,"last song, the",19,1.0
+252590,the tomorrow war,19,3.45
+1233,"boot, das",19,4.68
+169864,life,19,3.55
+253,interview with the vampire: the vampire chronicles,19,3.58
+105844,12 years a slave,19,4.61
+6807,monty python's the meaning of life,19,3.66
+102880,after earth,19,2.61
+6530,"tenant, the",19,4.68
+134368,spy,19,4.58
+90249,real steel,19,2.42
+67255,"girl with the dragon tattoo, the",19,3.66
+5690,grave of the fireflies,19,4.92
+1690,alien: resurrection,19,4.29
+55721,elite squad,19,4.5
+7371,dogville,19,4.34
+150,apollo 13,19,4.37
+2643,superman iv: the quest for peace,19,1.5
+278824,"argentina, 1985",19,4.5
+2268,"few good men, a",19,4.63
+47404,mind game,19,5.0
+96821,"perks of being a wallflower, the",19,3.13
+47610,"illusionist, the",19,4.45
+189551,macross dynamite seven,19,3.5
+63113,quantum of solace,19,3.79
+8582,manufacturing consent: noam chomsky and the media,19,5.0
+81834,harry potter and the deathly hallows: part 1,19,3.45
+1590,event horizon,19,2.11
+87232,x-men: first class,19,3.89
+72489,ninja assassin,19,3.76
+72641,"blind side, the",19,3.58
+79251,"serbian film, a",19,4.32
+63082,slumdog millionaire,19,3.39
+80969,never let me go,19,3.82
+903,vertigo,19,4.53
+3020,falling down,19,3.87
+7482,enter the dragon,19,4.05
+7445,man on fire,19,4.55
+279412,enola holmes 2,19,4.5
+201588,toy story 4,19,4.03
+177615,lady bird,19,4.76
+33004,"hitchhiker's guide to the galaxy, the",19,2.58
+204878,dolemite is my name,19,4.08
+279182,smile,19,2.58
+4022,cast away,19,3.92
+97860,killing them softly,19,3.58
+99007,warm bodies,19,3.53
+93510,21 jump street,19,3.05
+6659,tremors,19,4.11
+70,from dusk till dawn,19,3.95
+74698,tooth fairy,19,3.11
+2023,"godfather: part iii, the",18,2.42
+202159,crawl,18,3.89
+192379,first man,18,4.69
+122920,captain america: civil war,18,2.69
+109187,"zero theorem, the",18,4.44
+78316,letters to juliet,18,1.0
+33437,unleashed,18,4.19
+85414,source code,18,4.72
+39183,brokeback mountain,18,4.03
+27156,neon genesis evangelion: the end of evangelion,18,4.0
+1289,koyaanisqatsi,18,4.06
+135288,mr. holmes,18,4.44
+1228,raging bull,18,3.75
+176101,kingsman: the golden circle,18,2.94
+7147,big fish,18,4.5
+179491,mayhem,18,4.25
+198,strange days,18,3.33
+80398,22 bullets,18,4.0
+65088,bedtime stories,18,4.69
+539,sleepless in seattle,18,4.14
+86298,rio,18,3.64
+244178,the northman,18,3.72
+167832,the invisible guest,18,4.94
+192693,the most unknown,18,4.0
+51935,shooter,18,4.69
+91976,"grey, the",18,3.0
+183613,thoroughbreds,18,3.5
+192283,crazy rich asians,18,3.58
+87869,horrible bosses,18,3.42
+165969,hypernormalisation,18,4.0
+84942,drive angry,18,1.0
+45447,"da vinci code, the",18,3.31
+193065,roma,18,4.58
+27846,"corporation, the",18,5.0
+8873,"motorcycle diaries, the",18,3.39
+86548,water for elephants,18,2.61
+25,leaving las vegas,18,4.19
+64969,yes man,18,3.64
+64034,"boy in the striped pajamas, the",18,4.5
+139644,sicario,17,4.15
+2700,"south park: bigger, longer and uncut",17,3.0
+107953,dragon ball z: battle of gods,17,2.0
+122918,guardians of the galaxy 2,17,4.5
+597,pretty woman,17,3.5
+930,notorious,17,4.06
+6350,laputa: castle in the sky,17,4.0
+66934,dr. horrible's sing-along blog,17,5.0
+117364,virunga,17,5.0
+69784,brüno,17,3.5
+175485,death note,17,3.5
+65230,marley & me,17,4.06
+4546,"vanishing, the",17,3.91
+2273,rush hour,17,4.91
+243642,zack snyder's justice league,17,2.76
+2297,what dreams may come,17,4.41
+189447,macross zero,17,5.0
+4016,"emperor's new groove, the",17,4.5
+8865,sky captain and the world of tomorrow,17,4.47
+26082,harakiri,17,4.74
+54962,"nines, the",17,1.0
+79057,predators,17,2.85
+79592,"other guys, the",17,4.68
+53996,transformers,17,4.26
+3033,spaceballs,17,3.79
+173369,you were never really here,17,4.41
+30812,"aviator, the",17,3.79
+100714,before midnight,17,3.88
+1994,poltergeist,17,4.0
+85056,i am number four,17,3.24
+6774,videodrome,17,3.71
+227258,the midnight sky,17,4.09
+428,"bronx tale, a",17,4.76
+140795,midori,17,4.5
+7317,eurotrip,17,4.82
+79695,"expendables, the",17,2.53
+4148,hannibal,17,2.71
+6270,akira kurosawa's dreams,17,0.5
+122900,ant-man,17,3.32
+53125,pirates of the caribbean: at world's end,17,3.88
+5816,harry potter and the chamber of secrets,17,3.76
+4744,jeepers creepers,17,3.38
+62434,zack and miri make a porno,17,4.06
+44613,take the lead,17,3.5
+193944,the ballad of buster scruggs,17,3.68
+74795,green zone,17,4.0
+280218,avatar: the way of water,17,3.97
+168248,john wick: chapter two,17,4.47
+27831,layer cake,17,3.5
+1259,stand by me,17,4.35
+2428,"faculty, the",17,4.5
+3550,the hunger,17,3.76
+64229,cadillac records,17,3.85
+68952,drag me to hell,16,4.0
+74111,arn: the kingdom at road's end,16,4.0
+73868,garbage warrior,16,4.5
+72393,"fourth kind, the",16,2.0
+71057,9,16,3.97
+222477,wonder woman 1984,16,2.75
+34162,wedding crashers,16,3.13
+210861,the gentlemen,16,4.56
+1036,die hard,16,3.91
+1086,dial m for murder,16,4.53
+284293,the covenant,16,4.5
+179247,revenge,16,4.56
+1449,waiting for guffman,16,4.47
+48082,"science of sleep, the",16,3.44
+1729,jackie brown,16,4.16
+162594,morgan,16,3.13
+136864,batman v superman: dawn of justice,16,2.63
+135426,fantastic beasts and where to find them 2,16,2.84
+2318,happiness,16,4.06
+278578,all quiet on the western front,16,3.38
+145,bad boys,16,4.72
+27727,head-on,16,5.0
+3693,"toxic avenger, the",16,4.5
+247150,stowaway,16,3.38
+80489,"town, the",16,3.31
+78105,prince of persia: the sands of time,16,4.0
+1997,"exorcist, the",16,4.78
+2105,tron,16,4.38
+200540,aladdin,16,3.0
+182723,cosmos: a spacetime odissey,16,5.0
+38886,"squid and the whale, the",16,3.34
+61742,maradona by kusturica,16,3.5
+1217,ran,16,4.22
+168344,king arthur: legend of the sword,16,4.0
+168252,logan,16,4.38
+431,carlito's way,16,4.78
+129354,focus,16,3.75
+1680,sliding doors,16,3.47
+3030,yojimbo,16,4.5
+27660,"animatrix, the",16,4.03
+80363,resident evil: afterlife,16,1.5
+3114,toy story 2,16,4.19
+3160,magnolia,16,5.0
+86320,melancholia,16,4.75
+253138,fear street part one: 1994,16,4.25
+3535,american psycho,16,4.44
+8972,national treasure,16,3.84
+207233,jumanji: the next level,16,3.28
+74948,harry brown,16,3.0
+1544,"lost world: jurassic park, the",16,2.41
+3996,"crouching tiger, hidden dragon",16,3.75
+4014,chocolat,16,4.81
+81562,127 hours,16,3.53
+63072,"road, the",16,3.72
+8464,super size me,16,3.38
+4367,lara croft: tomb raider,16,3.88
+179085,the ritual,16,2.81
+242204,riders of justice,16,3.72
+102993,"way, way back, the",16,4.13
+102407,"great gatsby, the",16,3.53
+213397,promising young woman,16,3.56
+69306,"taking of pelham 1 2 3, the",16,3.38
+5956,gangs of new york,16,3.59
+4932,dressed to kill,16,3.31
+595,beauty and the beast,16,4.19
+163,desperado,16,3.59
+1923,there's something about mary,15,3.87
+135536,suicide squad,15,1.8
+316,stargate,15,3.67
+31892,"no retreat, no surrender",15,1.5
+60072,wanted,15,3.67
+85397,red riding hood,15,4.53
+189555,dragon ball z - the fall of men,15,3.5
+1097,e.t. the extra-terrestrial,15,4.6
+45950,"inconvenient truth, an",15,3.27
+85131,battle: los angeles,15,3.57
+183011,the commuter,15,3.7
+2644,dracula,15,4.0
+113345,jupiter ascending,15,2.93
+260243,the power of the dog,15,3.83
+190939,a simple favor,15,3.53
+2730,barry lyndon,15,4.23
+201162,divide and conquer: the story of roger ailes,15,3.5
+178521,the babysitter,15,4.73
+3462,modern times,15,4.3
+3476,jacob's ladder,15,2.9
+205441,marriage story,15,4.5
+71579,"education, an",15,4.5
+84187,evangelion: 2.0 you can advance,15,4.4
+77364,"losers, the",15,3.4
+105429,inequality for all,15,5.0
+63062,changeling,15,4.0
+2905,sanjuro,15,4.17
+2987,who framed roger rabbit?,15,3.0
+60857,"tracey fragments, the",15,4.0
+283139,sisu,15,3.2
+192953,ghost in the shell: stand alone complex - individual eleven,15,4.0
+8910,i heart huckabees,15,4.0
+33166,crash,15,4.3
+3897,almost famous,15,4.0
+3910,dancer in the dark,15,4.4
+6367,down with love,15,3.0
+7022,battle royale,15,3.73
+6938,billabong odyssey,15,4.0
+3070,"adventures of buckaroo banzai across the 8th dimension, the",15,3.0
+102125,iron man 3,15,2.6
+68791,terminator salvation,15,2.67
+218537,palm springs,15,4.5
+57368,cloverfield,15,4.1
+1573,face/off,15,4.1
+271232,fantastic beasts: the secrets of dumbledore,15,3.03
+81788,"next three days, the",15,3.8
+53972,live free or die hard,15,3.07
+206845,the laundromat,15,5.0
+175661,the hitman's bodyguard,15,4.13
+5902,adaptation,15,3.67
+111364,godzilla,15,4.03
+5378,star wars: episode ii - attack of the clones,15,4.2
+27798,ju-on: the grudge 2,15,4.5
+158759,10 billion: what's on your plate,15,5.0
+7766,throne of blood,15,4.0
+106100,dallas buyers club,15,3.27
+83302,last night,15,3.6
+70533,evangelion: 1.0 you are alone,15,4.43
+143345,shazam!,15,3.6
+7254,the butterfly effect,15,3.93
+38320,valerie and her week of wonders,15,5.0
+5617,secretary,15,4.53
+8368,harry potter and the prisoner of azkaban,15,4.23
+31685,hitch,15,4.2
+188187,breaking in,15,2.1
+122898,justice league,15,2.73
+26547,police story,15,3.87
+3969,pay it forward,15,4.87
+255335,shang-chi and the legend of the ten rings,15,4.0
+84944,rango,15,5.0
+69951,"imaginarium of doctor parnassus, the",15,3.5
+122922,doctor strange,15,4.47
+1278,young frankenstein,15,3.63
+169400,gantz: o,15,4.0
+185473,blockers,14,4.0
+1247,"graduate, the",14,3.75
+170945,it comes at night,14,3.07
+171765,okja,14,3.64
+54001,harry potter and the order of the phoenix,14,3.82
+112138,22 jump street,14,3.71
+143511,human,14,5.0
+4865,from hell,14,3.64
+91542,sherlock holmes: a game of shadows,14,4.36
+3740,big trouble in little china,14,3.0
+122924,x-men: apocalypse,14,1.89
+52042,black book,14,3.14
+5772,my dinner with andré,14,4.68
+210271,6 underground,14,3.43
+71129,green lantern: first flight,14,4.0
+4776,training day,14,4.61
+85510,sucker punch,14,3.5
+4728,rat race,14,2.86
+103688,"conjuring, the",14,3.64
+205297,gemini man,14,2.79
+72378,2012,14,2.07
+78499,toy story 3,14,4.21
+648,mission: impossible,14,4.43
+66203,he's just not that into you,14,3.89
+51086,"number 23, the",14,3.5
+246,hoop dreams,14,4.07
+8917,team america: world police,14,3.29
+220380,the green knight,14,3.25
+55555,"edge of heaven, the",14,5.0
+68848,"brothers bloom, the",14,3.5
+118244,wanderers,14,5.0
+4369,"fast and the furious, the",14,4.36
+138036,the man from u.n.c.l.e.,14,4.36
+922,sunset blvd.,14,3.79
+1095,glengarry glen ross,14,4.21
+72696,old dogs,14,3.0
+114795,dracula untold,14,5.0
+1619,seven years in tibet,14,4.0
+154220,the war of the worlds: next century,14,4.0
+91517,"death king, the",14,4.0
+288513,barbie,14,2.29
+171011,planet earth ii,14,5.0
+183695,marrowbone,14,4.0
+3354,mission to mars,14,2.75
+242894,godzilla vs. kong,14,3.64
+34319,"island, the",14,3.36
+104243,riddick,14,4.0
+8808,"princess diaries 2: royal engagement, the",14,4.75
+77843,"disappearance of alice creed, the",14,4.5
+52281,grindhouse,14,2.21
+224841,console wars,14,3.5
+1387,jaws,14,3.04
+2413,clue,14,3.21
+3246,malcolm x,14,4.86
+69844,harry potter and the half-blood prince,14,3.57
+2872,excalibur,14,4.25
+30825,meet the fockers,14,2.54
+80549,easy a,14,3.71
+5500,top secret!,14,3.75
+5459,men in black ii,14,3.36
+1304,butch cassidy and the sundance kid,14,3.5
+8781,"manchurian candidate, the",14,3.36
+802,phenomenon,13,4.0
+107406,snowpiercer,13,4.12
+2671,notting hill,13,4.15
+173925,seven sisters,13,3.19
+244334,wrath of man,13,3.38
+78856,"world according to monsanto, the",13,4.5
+71450,capitalism: a love story,13,4.85
+4447,legally blonde,13,4.42
+54503,superbad,13,4.15
+1876,deep impact,13,4.38
+286357,evil dead rise,13,4.0
+2455,"fly, the",13,3.58
+45672,click,13,3.0
+103253,elysium,13,4.46
+49957,"history boys, the",13,4.5
+6797,bugsy,13,4.0
+113348,teenage mutant ninja turtles,13,3.5
+2411,rocky iv,13,4.08
+2404,rambo iii,13,3.73
+6280,"man apart, a",13,3.0
+2012,back to the future part iii,13,3.15
+919,"wizard of oz, the",13,4.15
+207405,doctor sleep,13,3.69
+83349,"green hornet, the",13,2.85
+176105,flatliners,13,1.5
+170745,13 reasons why,13,3.5
+27604,suicide club,13,4.5
+4246,bridget jones's diary,13,3.19
+6281,phone booth,13,3.5
+277066,triangle of sadness,13,4.38
+105835,"double, the",13,4.15
+56782,there will be blood,13,4.5
+7143,"last samurai, the",13,4.12
+2186,strangers on a train,13,3.88
+76293,date night,13,2.58
+38198,darwin's nightmare,13,4.0
+69830,iron maiden: flight 666,13,3.0
+8981,closer,13,3.19
+8977,alexander,13,2.65
+215,before sunrise,13,3.46
+3741,badlands,13,4.77
+258451,last night in soho,13,3.54
+220362,uncle frank,13,4.46
+64497,"day the earth stood still, the",13,1.92
+158092,magnetic rose,13,4.0
+159755,popstar: never stop never stopping,13,3.0
+3300,pitch black,13,4.27
+183411,the secret rules of modern living: algorithms,13,4.5
+44195,thank you for smoking,13,4.15
+201368,long shot,13,3.88
+2731,"400 blows, the",13,3.19
+81276,south of the border,13,4.5
+80693,it's kind of a funny story,13,3.73
+4025,miss congeniality,13,4.35
+70336,g.i. joe: the rise of cobra,13,2.0
+79134,grown ups,13,4.04
+71254,gamer,13,4.0
+71520,"invention of lying, the",13,2.38
+72011,up in the air,13,3.81
+7451,mean girls,13,2.19
+4642,hedwig and the angry inch,13,4.92
+102445,star trek into darkness,13,4.23
+72720,"single man, a",13,4.0
+53318,cashback,13,3.54
+8644,"i, robot",13,4.12
+2699,arachnophobia,13,3.69
+261131,king richard,13,4.23
+1921,pi,13,4.92
+48,pocahontas,13,3.65
+48231,taxidermia,13,4.0
+2726,"killing, the",13,3.96
+96281,paranorman,13,3.35
+1566,hercules,13,4.81
+47465,tideland,13,5.0
+177867,borg vs mcenroe,13,4.0
+1350,"omen, the",13,4.88
+1343,cape fear,13,3.38
+1302,field of dreams,13,3.46
+1285,heathers,13,4.46
+59040,gabriel,13,3.5
+1275,highlander,13,4.27
+5630,red dragon,13,3.46
+43871,firewall,13,4.5
+91485,"expendables 2, the",13,2.08
+153,batman forever,13,1.27
+78039,blue valentine,13,4.5
+8207,"day of the jackal, the",13,4.54
+278702,glass onion: a knives out mystery,13,3.77
+89000,carancho,13,3.0
+8950,the machinist,13,3.5
+143367,silence,13,4.62
+2917,body heat,13,4.46
+194396,overlord,13,3.15
+88125,harry potter and the deathly hallows: part 2,13,3.88
+87520,transformers: dark of the moon,13,2.0
+39446,saw ii,13,2.62
+74789,alice in wonderland,13,3.77
+928,rebecca,13,4.0
+85412,"troll hunter, the",13,4.08
+913,"maltese falcon, the",13,4.31
+7090,hero,13,4.35
+899,singin' in the rain,13,4.62
+202749,portrait of a lady on fire,13,4.92
+59418,"american crime, an",12,4.5
+51317,kamchatka,12,3.5
+8641,anchorman: the legend of ron burgundy,12,4.0
+118900,wild,12,4.33
+67784,"cake eaters, the",12,4.0
+3503,solaris,12,4.33
+79897,get low,12,2.0
+3911,best in show,12,4.0
+59615,indiana jones and the kingdom of the crystal skull,12,3.75
+27266,2046,12,4.0
+104283,"wind rises, the",12,4.5
+70183,"ugly truth, the",12,4.0
+1059,william shakespeare's romeo + juliet,12,4.25
+242774,black widow,12,4.08
+84601,unknown,12,4.0
+87660,too big to fail,12,4.75
+144976,bone tomahawk,12,2.46
+143385,bridge of spies,12,4.33
+69027,oss 117 - lost in rio,12,3.13
+106491,47 ronin,12,4.5
+4641,ghost world,12,4.04
+103306,europa report,12,4.42
+200638,tolkien,12,4.0
+103883,2 guns,12,3.17
+103249,world war z,12,3.5
+54286,"bourne ultimatum, the",12,4.5
+190,safe,12,4.0
+180297,the disaster artist,12,3.5
+4370,a.i. artificial intelligence,12,3.33
+184015,when we first met,12,3.0
+95875,total recall,12,3.08
+54075,arn: the knight templar,12,3.83
+70663,"i love you, beth cooper",12,4.0
+2403,first blood,12,4.58
+49824,dreamgirls,12,3.5
+7458,troy,12,3.5
+4823,serendipity,12,4.25
+187067,super troopers 2,12,4.5
+163993,tell me how i die,12,5.0
+253498,fear street part two: 1978,12,4.5
+8947,"grudge, the",12,4.42
+2003,gremlins,12,4.33
+188317,uncle drew,12,3.0
+3424,do the right thing,12,4.71
+122902,fantastic four,12,2.17
+586,home alone,12,4.33
+89554,zindagi na milegi dobara,12,5.0
+7387,dawn of the dead,12,3.75
+221042,8 days: to the moon and back,12,4.0
+3968,bedazzled,12,4.58
+149334,nocturnal animals,12,4.33
+26158,closely watched trains,12,5.0
+81537,due date,12,3.5
+3983,you can count on me,12,4.0
+220792,project power,12,3.17
+205303,sherlock: the abominable bride,12,4.63
+861,supercop,12,2.5
+1580,men in black,12,3.46
+1204,lawrence of arabia,12,4.29
+26431,opening night,12,2.92
+62644,"wave, the",12,3.42
+55241,mr. woodcock,12,3.5
+215173,sound of freedom,12,4.0
+105504,captain phillips,12,4.67
+165491,into the inferno,12,4.42
+1025,"sword in the stone, the",12,3.58
+77191,death at a funeral,12,4.13
+176801,suspiria,12,3.63
+53129,mr. brooks,12,3.67
+4255,freddy got fingered,12,1.63
+6645,thx 1138,12,3.5
+8665,"bourne supremacy, the",12,4.67
+56949,27 dresses,12,3.42
+192843,earth: the power of the planet,12,5.0
+837,matilda,12,3.79
+4326,mississippi burning,12,4.04
+3917,hellraiser,12,3.88
+261271,the harder they fall,12,4.5
+47629,the queen,12,3.67
+4967,no man's land,12,4.04
+166461,moana,12,3.67
+103483,v/h/s/2,12,4.0
+7802,"warriors, the",12,4.58
+273133,hustle,12,3.88
+200820,godzilla: king of the monsters,12,3.42
+43267,on probation,12,4.5
+6977,new jack city,12,3.25
+71156,"men who stare at goats, the",12,3.71
+1907,mulan,12,4.33
+86835,priest,12,4.5
+7001,invasion of the body snatchers,12,5.0
+97950,"man with the iron fists, the",11,1.5
+66691,thick as thieves,11,3.23
+65642,timecrimes,11,2.77
+102066,resolution,11,3.5
+2068,fanny and alexander,11,4.0
+4890,shallow hal,11,3.18
+197203,triple frontier,11,3.91
+2176,rope,11,4.82
+1222,full metal jacket,11,4.91
+367,"mask, the",11,3.55
+5062,seconds,11,5.0
+32296,miss congeniality 2: armed and fabulous,11,3.41
+2616,dick tracy,11,3.14
+49286,"holiday, the",11,3.59
+51709,"host, the",11,2.82
+31223,racing stripes,11,3.0
+3396,"muppet movie, the",11,4.5
+1562,batman & robin,11,0.5
+39,clueless,11,4.0
+90888,immortals,11,4.27
+1088,dirty dancing,11,4.45
+286131,the super mario bros. movie,11,3.5
+187583,the game changers,11,5.0
+91079,like crazy,11,4.0
+91094,"muppets, the",11,2.73
+2431,patch adams,11,4.09
+185585,pacific rim: uprising,11,3.18
+128838,crimson peak,11,3.73
+160271,central intelligence,11,3.5
+8965,"polar express, the",11,3.55
+5294,frailty,11,2.14
+8899,hardcore,11,4.0
+188833,the man who killed don quixote,11,3.59
+8870,"forgotten, the",11,3.5
+74532,cop out,11,2.59
+1970,"nightmare on elm street 3: dream warriors, a",11,4.32
+168122,raw,11,4.5
+74228,triangle,11,4.0
+81229,red,11,4.27
+8622,fahrenheit 9/11,11,3.36
+1754,fallen,11,4.14
+82169,"chronicles of narnia: the voyage of the dawn treader, the",11,2.0
+278446,the banshees of inisherin,11,3.77
+2083,"muppet christmas carol, the",11,4.27
+71500,trick 'r treat,11,4.59
+58105,"spiderwick chronicles, the",11,2.0
+103042,man of steel,11,2.18
+44761,brick,11,4.45
+212853,vfw,11,4.0
+79242,"kids are all right, the",11,3.5
+53956,death at a funeral,11,4.18
+2530,beneath the planet of the apes,11,2.91
+118924,top five,11,3.5
+111781,mission: impossible - rogue nation,11,5.0
+6301,straw dogs,11,1.0
+123,chungking express,11,4.09
+2353,enemy of the state,11,3.55
+107771,only lovers left alive,11,4.0
+54736,"kingdom, the",11,3.95
+51884,"namesake, the",11,3.0
+2951,"fistful of dollars, a",11,4.18
+103299,american mary,11,4.68
+148626,"big short, the",11,4.23
+260667,encanto,11,3.32
+160718,piper,11,4.41
+49772,"painted veil, the",11,3.64
+7346,"girl next door, the",11,3.23
+1635,"ice storm, the",11,4.0
+5893,"last seduction, the",11,3.86
+96314,celeste and jesse forever,11,4.5
+176567,the endless,11,4.0
+177245,same kind of different as me,11,4.5
+6765,under the tuscan sun,11,4.0
+1405,beavis and butt-head do america,11,3.45
+179817,darkest hour,11,3.45
+253972,fear street: 1666,11,4.5
+184427,keep watching,11,2.45
+1241,dead alive,11,3.64
+189393,97% owned,11,5.0
+1127,"abyss, the",11,4.36
+1120,"people vs. larry flynt, the",11,3.5
+3499,misery,11,3.91
+190755,the little stranger,11,3.0
+41569,king kong,11,3.36
+41285,match point,11,3.86
+40614,derailed,11,2.27
+3677,baraka,11,4.41
+953,it's a wonderful life,11,3.82
+63479,sex drive,11,4.0
+83910,"dilemma, the",11,2.09
+7293,50 first dates,11,4.14
+4552,"tetsuo, the ironman",11,3.68
+220956,adú,11,4.86
+33660,cinderella man,11,4.5
+31545,"trou, le",11,4.73
+70293,julie & julia,11,4.0
+4816,zoolander,11,3.86
+78469,"a-team, the",11,4.64
+5299,my big fat greek wedding,11,3.95
+4265,driven,11,3.5
+74754,"room, the",11,1.73
+4327,"magnificent seven, the",11,3.64
+6214,irreversible,11,3.64
+2581,never been kissed,11,3.77
+118082,the voices,11,4.05
+27728,ghost in the shell 2: innocence,10,4.0
+8798,collateral,10,3.5
+252214,werewolves within,10,3.5
+242906,the unbearable weight of massive talent,10,3.45
+457,"fugitive, the",10,3.65
+213355,antlers,10,4.0
+588,aladdin,10,2.9
+208737,midway,10,3.45
+203691,the edge of democracy,10,4.5
+203218,good boys,10,3.1
+784,"cable guy, the",10,2.4
+201594,brightburn,10,3.2
+200838,pokémon: detective pikachu,10,2.8
+197883,the farewell,10,4.0
+954,mr. smith goes to washington,10,4.6
+1035,"sound of music, the",10,4.8
+1090,platoon,10,3.7
+187501,leave no trace,10,5.0
+187231,american animals,10,3.5
+1272,patton,10,3.85
+182823,bright,10,2.4
+1552,con air,10,3.55
+173919,legend of the galactic heroes: golden wings,10,3.5
+169528,saint seiya: warriors of the final holy battle,10,3.5
+1909,"x-files: fight the future, the",10,5.0
+1945,on the waterfront,10,3.85
+162578,kubo and the two strings,10,4.0
+2000,lethal weapon,10,4.35
+155078,lo chiamavano jeeg robot,10,4.0
+2078,"jungle book, the",10,4.9
+140174,room,10,4.3
+130636,unfriended,10,4.5
+2402,rambo: first blood part ii,10,3.4
+2412,rocky v,10,4.1
+2527,westworld,10,3.9
+2572,10 things i hate about you,10,5.0
+2701,wild wild west,10,3.2
+106696,frozen,10,3.9
+101070,wadjda,10,4.4
+3022,"general, the",10,3.55
+93838,the raid: redemption,10,4.0
+165,die hard: with a vengeance,10,3.6
+93297,act of valor,10,4.0
+92234,red tails,10,3.5
+3365,"searchers, the",10,3.9
+3398,"muppets take manhattan, the",10,4.25
+3435,double indemnity,10,4.0
+86880,pirates of the caribbean: on stranger tides,10,2.9
+86190,hanna,10,3.95
+3819,tampopo,10,4.25
+81784,morning glory,10,2.5
+81270,my soul to take,10,1.5
+80219,machete,10,4.5
+78637,shrek forever after,10,3.85
+4976,iris,10,2.5
+68793,night at the museum: battle of the smithsonian,10,2.0
+68135,17 again,10,4.0
+67408,monsters vs. aliens,10,2.8
+62437,w.,10,4.0
+58025,jumper,10,2.75
+55269,"darjeeling limited, the",10,4.1
+54995,planet terror,10,3.7
+54290,bratz: the movie,10,0.5
+6105,moonlighting,10,4.0
+6183,pillow talk,10,4.3
+53835,journey to italy,10,3.6
+6283,cowboy bebop: the movie,10,4.0
+53123,once,10,4.0
+6868,wonderland,10,2.5
+6952,gothika,10,2.25
+37380,doom,10,2.85
+35957,red eye,10,4.45
+33145,"lot like love, a",10,3.5
+31107,mikey and nicky,10,4.15
+173309,legend of the galactic heroes: overture to a new war,10,4.5
+225,disclosure,10,3.0
+196,species,10,2.2
+174407,an inconvenient sequel,10,4.1
+3005,"bone collector, the",10,4.3
+5108,john q,10,4.55
+162606,the accountant,10,4.0
+62586,"american carol, an",10,0.5
+161634,don't breathe,10,4.0
+287633,asteroid city,10,2.6
+204158,weathering with you,10,4.0
+33646,"longest yard, the",10,4.45
+53466,nancy drew,10,3.5
+219059,archive,10,3.5
+53974,license to wed,10,3.9
+79551,shifty,10,3.5
+3263,white men can't jump,10,3.5
+169524,saint seiya: the heated battle of the gods,10,3.5
+3425,mo' better blues,10,3.5
+2394,"prince of egypt, the",10,4.5
+170401,table 19,10,4.5
+54999,shoot 'em up,10,3.5
+26002,confidential report,10,4.4
+3623,mission: impossible ii,10,3.75
+1175,delicatessen,10,4.7
+780,independence day,10,2.3
+3686,flatliners,10,4.1
+55267,dan in real life,10,3.5
+206959,frozen ii,10,2.0
+267456,the whale,10,3.8
+280202,talk to me,10,3.5
+74530,percy jackson & the olympians: the lightning thief,10,3.0
+171007,the book of henry,10,2.5
+189041,sicario: day of the soldado,10,4.0
+1393,jerry maguire,10,4.5
+56339,"orphanage, the",10,4.1
+137445,the riverman,10,4.0
+56587,"bucket list, the",10,4.4
+87485,bad teacher,10,3.0
+87234,submarine,10,5.0
+91690,friends with kids,10,3.5
+48032,"tiger and the snow, the",10,5.0
+179437,bad match,10,3.0
+71573,whiteout,10,3.5
+175621,tonight she comes,10,4.0
+286401,fleshtone,10,3.0
+161,crimson tide,10,3.15
+733,"rock, the",10,3.75
+107,muppet treasure island,10,3.75
+7444,13 going on 30,10,4.1
+93610,space battleship yamato,10,3.5
+4874,k-pax,10,4.0
+2193,willow,10,3.4
+221576,enola holmes,10,5.0
+101739,evil dead,10,5.0
+143859,"hail, caesar!",10,3.0
+1952,midnight cowboy,10,4.5
+2161,"neverending story, the",10,4.5
+94018,battleship,10,2.5
+112171,"equalizer, the",10,4.5
+140711,american ultra,10,4.0
+357,four weddings and a funeral,10,3.95
+2599,election,10,3.5
+2648,frankenstein,10,3.85
+2694,big daddy,10,3.45
+2696,"dinner game, the",10,4.35
+149412,legend of the galactic heroes: my conquest is the sea of stars,10,4.0
+259659,the last duel,10,3.5
+259217,fucking with nobody,10,4.0
+2803,"pelican brief, the",10,3.3
+947,my man godfrey,10,4.3
+5009,ali,9,5.0
+65290,shadow company,9,4.0
+84273,zeitgeist: moving forward,9,3.5
+67267,sunshine cleaning,9,3.33
+1096,sophie's choice,9,4.06
+191367,the predator,9,3.0
+69481,"hurt locker, the",9,3.83
+189587,the idiot cycle,9,5.0
+82459,true grit,9,4.11
+187723,set it up,9,4.0
+72407,"twilight saga: new moon, the",9,1.5
+189451,macross: flash back 2012,9,3.5
+76763,"runaways, the",9,3.0
+77427,"human centipede, the",9,1.0
+1485,liar liar,9,3.83
+80831,let me in,9,5.0
+79224,"karate kid, the",9,4.5
+147,"basketball diaries, the",9,3.5
+174909,logan lucky,9,3.89
+114461,"snails, the",9,4.5
+121231,it follows,9,4.0
+169520,saint seiya heaven chapter: overture,9,4.0
+1777,"wedding singer, the",9,3.56
+288279,cobweb,9,3.0
+1810,primary colors,9,3.5
+1419,walkabout,9,4.0
+180221,walk with me,9,3.0
+111360,lucy,9,2.78
+111235,jodorowsky's dune,9,4.44
+2167,blade,9,4.0
+185,"net, the",9,2.28
+2289,"player, the",9,4.0
+180031,the shape of water,9,2.83
+2340,meet joe black,9,4.06
+264962,mother/android,9,2.5
+2352,"big chill, the",9,3.5
+108945,robocop,9,4.5
+2420,"karate kid, the",9,4.28
+135133,the hunger games: mockingjay - part 2,9,3.0
+179647,the young karl marx,9,3.5
+3075,repulsion,9,4.22
+135567,independence day: resurgence,9,3.0
+3275,"boondock saints, the",9,3.94
+3745,titan a.e.,9,4.0
+3753,"patriot, the",9,3.33
+4023,"family man, the",9,4.5
+4308,moulin rouge,9,2.72
+5540,clash of the titans,9,2.44
+5872,die another day,9,4.06
+6155,how to lose a guy in 10 days,9,4.44
+6157,daredevil,9,2.67
+96252,i am bruce lee,9,3.5
+6568,camp,9,3.5
+177243,marshall,9,3.5
+7616,body double,9,3.78
+146423,the falling,9,4.5
+7891,"last man on earth, the",9,4.0
+8360,shrek 2,9,4.5
+8371,"chronicles of riddick, the",9,3.5
+208773,i lost my body,9,3.0
+208469,just mercy,9,4.5
+8911,raise your voice,9,4.0
+26393,sorcerer,9,4.78
+204152,vivarium,9,3.33
+89535,"havre, le",9,1.0
+186381,campeones,9,4.5
+34072,march of the penguins,9,4.56
+36289,asterix & obelix vs. caesar,9,3.28
+88812,30 minutes or less,9,3.06
+200818,john wick: chapter 3 – parabellum,9,3.5
+282649,knock at the cabin,9,1.94
+196417,how to train your dragon: the hidden world,9,3.06
+49524,"nativity story, the",9,4.44
+194664,they shall not grow old,9,4.56
+52418,sky fighters,9,2.0
+155976,kryptonita,9,4.0
+192921,monster,9,3.5
+58078,"air i breathe, the",9,2.17
+85342,elite squad: the enemy within,9,4.56
+59900,you don't mess with the zohan,9,3.61
+60950,vicky cristina barcelona,9,4.89
+61160,star wars: the clone wars,9,4.0
+62511,"synecdoche, new york",9,4.56
+4297,pelle the conqueror,9,4.0
+78266,splice,9,3.83
+79428,dinner for schmucks,9,3.33
+63876,milk,9,3.0
+3785,scary movie,9,3.44
+60756,step brothers,9,4.44
+3545,cabaret,9,4.5
+3468,"hustler, the",9,4.33
+3448,"good morning, vietnam",9,4.17
+59333,made of honor,9,3.33
+59220,outsourced,9,4.5
+5606,society,9,4.17
+5673,punch-drunk love,9,3.17
+3262,twin peaks: fire walk with me,9,4.83
+170,hackers,9,3.39
+5791,frida,9,4.06
+95441,ted,9,3.5
+56805,walk hard: the dewey cox story,9,3.5
+99305,kumaré,9,3.83
+102991,berberian sound studio,9,1.56
+106868,breaking the girls ,9,3.0
+31184,appleseed,9,4.0
+251606,hitman's wife's bodyguard,9,1.5
+107000,"challenger disaster, the",9,4.0
+339,while you were sleeping,9,3.22
+27788,"jacket, the",9,3.17
+108981,nymphomaniac: volume ii,9,5.0
+2788,monty python's and now for something completely different,9,3.94
+2707,arlington road,9,3.61
+290573,the creator,9,4.0
+2662,"war of the worlds, the",9,3.5
+114078,seinto seiya: legend of sanctuary,9,4.0
+7982,"tale of two sisters, a",9,5.0
+2424,you've got mail,9,3.5
+130448,poltergeist,9,4.5
+2183,"man who knew too much, the",9,3.44
+50954,it's a boy girl thing,9,3.56
+155509,mr. right,9,4.89
+161922,the edge of seventeen,9,4.06
+162148,friend request,9,2.0
+169522,saint seiya: evil goddess eris,9,3.5
+169526,saint seiya: legend of crimson youth,9,4.0
+1784,as good as it gets,9,4.72
+49013,"santa clause 3: the escape clause, the",9,5.0
+171439,a dark song,9,4.5
+1717,scream 2,9,4.0
+48414,open season,9,3.22
+175197,the dark tower,9,2.0
+176933,the foreigner,9,4.0
+178667,gerald's game,9,3.0
+2,jumanji,9,3.94
+282161,a man called otto,9,2.94
+7925,"hidden fortress, the",9,4.0
+1263,"deer hunter, the",9,2.56
+269872,moonfall,9,2.17
+184721,first reformed,9,4.5
+43836,"pink panther, the",9,4.67
+185499,the occupation of the american mind,9,4.5
+1227,once upon a time in america,9,4.39
+1129,escape from new york,9,2.83
+192383,beautiful boy,9,4.78
+192787,what keeps you alive,9,3.5
+192963,ftl,9,4.0
+40815,harry potter and the goblet of fire,9,3.72
+10,goldeneye,9,4.83
+968,night of the living dead,9,4.06
+914,my fair lady,9,5.0
+38038,wallace & gromit in the curse of the were-rabbit,9,4.33
+201586,men in black: international,9,2.5
+7123,naked lunch,9,5.0
+724,"craft, the",9,3.0
+620,scream of stone,9,4.5
+212074,guns akimbo,9,2.94
+33903,"edukators, the",9,3.0
+220370,the dalai lama: scientist,9,4.0
+224943,i care a lot,9,3.78
+26052,pickpocket,9,4.5
+32031,robots,9,3.56
+226698,monster hunter,9,1.0
+31687,pooh's heffalump movie,9,4.5
+69169,"song is born, a",9,4.0
+7263,miracle,9,4.17
+233555,the little things,9,3.5
+67957,superstar: the karen carpenter story,9,3.0
+67801,revanche,8,4.13
+130842,power/rangers,8,4.0
+138202,burying the ex,8,4.5
+436,color of night,8,2.94
+2144,sixteen candles,8,1.5
+141749,the danish girl,8,5.0
+142598,last shift,8,2.5
+197537,velvet buzzsaw,8,3.5
+7045,"witches, the",8,3.5
+158966,captain fantastic,8,3.88
+2002,lethal weapon 3,8,4.31
+39234,north country,8,3.5
+4888,tape,8,5.0
+168534,dibu: la película,8,1.5
+200332,rocketman,8,4.5
+264201,i want my mtv,8,3.0
+4645,cure,8,2.0
+49530,blood diamond,8,3.94
+49130,"good year, a",8,2.31
+69849,roots,8,5.0
+25827,mr. deeds goes to town,8,4.13
+4639,america's sweethearts,8,3.0
+173139,the bad batch,8,2.0
+174395,better watch out,8,4.0
+4558,twins,8,3.94
+174423,rakka,8,4.0
+7375,"prince & me, the",8,4.0
+1616,"peacemaker, the",8,3.0
+175671,birth of the dragon,8,3.31
+176561,"sister, sister",8,3.5
+5014,i am sam,8,4.5
+47200,crank,8,2.81
+177495,score: a film music documentary,8,4.0
+66509,funny people,8,3.56
+206847,paris to pittsburgh,8,3.5
+78349,exam,8,3.5
+78836,enter the void,8,4.5
+180591,jane,8,4.5
+4062,mystic pizza,8,3.0
+3966,detour,8,3.88
+64032,four christmases,8,4.25
+81847,tangled,8,4.13
+1354,breaking the waves,8,3.0
+240452,mortal kombat,8,2.13
+85401,super,8,4.0
+273891,bullet train,8,3.63
+274971,thor: love and thunder,8,3.5
+88235,"guard, the",8,3.0
+88589,messiah of evil,8,3.5
+407,in the mouth of madness,8,5.0
+3546,what ever happened to baby jane?,8,3.06
+61248,death race,8,3.56
+182813,saving capitalism,8,4.5
+69069,fired up,8,3.5
+6820,ginger snaps,8,5.0
+46335,"fast and the furious: tokyo drift, the",8,3.38
+46062,high school musical,8,3.5
+89896,"turin horse, the",8,5.0
+1295,"unbearable lightness of being, the",8,5.0
+182825,all the money in the world,8,4.0
+3355,"ninth gate, the",8,3.63
+3328,ghost dog: the way of the samurai,8,5.0
+91823,kung fu panda holiday special,8,3.5
+91935,albatross,8,3.0
+59118,happy-go-lucky,8,3.69
+92681,journey 2: the mysterious island,8,2.63
+59018,"visitor, the",8,4.0
+1268,pump up the volume,8,3.0
+213207,onward,8,3.5
+44193,she's the man,8,5.0
+93766,wrath of the titans,8,4.0
+250010,bo burnham: inside,8,3.5
+3203,dead calm,8,4.5
+183843,mandy,8,3.25
+3178,"hurricane, the",8,4.0
+4532,return of the living dead part ii,8,2.0
+57640,hellboy ii: the golden army,8,3.5
+5881,solaris,8,2.75
+3104,midnight run,8,4.56
+96510,"apparition, the",8,1.0
+216326,planet of the humans,8,3.81
+75446,little ashes,8,3.5
+100745,tpb afk: the pirate bay away from keyboard,8,4.0
+224264,connected,8,4.0
+5954,25th hour,8,3.88
+104457,you're next,8,5.0
+1248,touch of evil,8,4.0
+76091,mother,8,4.69
+2901,phantasm,8,3.0
+8807,harold and kumar go to white castle,8,4.0
+4446,final fantasy: the spirits within,8,4.5
+456,fresh,8,5.0
+107069,lone survivor,8,2.69
+6059,"recruit, the",8,4.25
+54276,no reservations,8,4.0
+42094,"spirit of the beehive, the",8,2.75
+189481,stink bomb,8,3.5
+2790,"final conflict, the",8,3.0
+32914,carrie,8,3.5
+257627,untold: deal with the devil,8,3.5
+2709,muppets from space,8,3.56
+67867,dragonball evolution,8,1.5
+77455,exit through the gift shop,8,4.5
+112727,deliver us from evil,8,2.0
+193175,mowgli,8,3.75
+41014,"bird with the crystal plumage, the",8,4.0
+116799,inherent vice,8,3.63
+53189,eagle vs shark,8,3.88
+8520,deep cover,8,4.0
+118252,all cheerleaders die,8,5.0
+40819,walk the line,8,3.88
+2505,8mm,8,4.06
+195115,uncanny valley,8,3.5
+2391,"simple plan, a",8,4.5
+6331,spellbound,8,4.0
+127319,the loft,8,2.63
+135569,star trek beyond,8,3.63
+90576,what's your number?,8,4.19
+3266,man bites dog,8,3.81
+254366,superior,8,4.5
+3189,my dog skip,8,3.5
+6378,"italian job, the",8,4.75
+191495,white boy rick,8,3.5
+197651,the king,8,4.0
+26776,porco rosso,8,4.88
+97836,here comes the boom,8,4.38
+204294,the great hack,8,4.63
+3082,"world is not enough, the",8,3.56
+106002,ender's game,8,4.0
+183833,early man,8,5.0
+71429,world's greatest dad,8,3.5
+2145,pretty in pink,8,3.0
+120799,terminator genisys,8,1.75
+2150,"gods must be crazy, the",8,4.0
+442,demolition man,8,4.13
+76,screamers,8,2.19
+265460,the black phone,8,3.19
+149532,marco polo: one hundred eyes,8,4.5
+189483,cannon fodder,8,3.5
+923,citizen kane,8,3.13
+57044,two sons of francisco,8,4.5
+62374,body of lies,8,3.88
+84772,paul,8,3.38
+201729,ma,8,3.81
+1408,"last of the mohicans, the",8,4.0
+34552,"girl in the café, the",8,3.0
+1517,austin powers: international man of mystery,8,4.0
+2579,following,8,4.25
+1321,"american werewolf in london, an",8,4.5
+156609,neighbors 2: sorority rising,8,2.0
+2490,payback,8,4.88
+1260,m,8,4.44
+190741,summer of 84,8,3.63
+73929,legion,8,3.5
+177469,the last face,8,2.0
+74677,"yes men fix the world, the",8,4.88
+74946,she's out of my league,8,3.0
+86142,13 assassins,8,4.44
+6615,freddy vs. jason,8,4.0
+140160,descendants,8,4.0
+68554,angels & demons,8,4.5
+7419,after hours,8,4.13
+4701,rush hour 2,8,5.0
+1028,mary poppins,8,4.56
+77719,voyager,8,5.0
+54997,3:10 to yuma,8,3.5
+6014,national security,8,2.5
+54780,"nanny diaries, the",8,3.5
+139859,ghost in the shell arise - border 2: ghost whispers,8,4.0
+155968,the night manager,8,4.63
+68269,"young victoria, the",8,3.5
+4531,red heat,8,3.0
+162348,the 9th life of louis drax,8,3.5
+193025,hyperlight,8,4.0
+165347,jack reacher: never go back,8,3.88
+51573,meshes of the afternoon,8,4.5
+317,"santa clause, the",8,4.5
+99728,gangster squad,8,4.0
+1722,tomorrow never dies,8,4.0
+127202,me and earl and the dying girl,8,4.38
+68159,state of play,8,3.0
+167640,a cure for wellness,8,3.0
+124494,the fabulous dorseys,8,2.5
+60040,"incredible hulk, the",8,2.38
+189885,the guilty,8,3.69
+168568,the film critic,8,4.0
+4041,"officer and a gentleman, an",8,3.5
+1347,"nightmare on elm street, a",8,5.0
+247988,luca,8,4.0
+170913,here alone,8,3.0
+5669,bowling for columbine,8,3.94
+99910,"last stand, the",8,4.38
+5066,"walk to remember, a",8,5.0
+8949,sideways,8,2.63
+59295,expelled: no intelligence allowed,8,0.5
+47970,"last kiss, the",8,2.69
+272525,doctor strange in the multiverse of madness,8,3.75
+64030,transporter 3,8,3.13
+136564,macbeth,8,3.5
+45720,"devil wears prada, the",8,4.94
+1257,better off dead...,8,4.25
+45501,"break-up, the",8,4.63
+196891,the lego movie 2: the second part,8,4.0
+45081,silent hill,8,4.5
+7063,aguirre: the wrath of god,8,4.88
+88299,no impact man: the documentary,8,4.38
+42946,project a,8,3.5
+180045,molly's game,8,4.25
+2115,indiana jones and the temple of doom,8,3.19
+55118,eastern promises,7,3.21
+266,legends of the fall,7,4.5
+5508,24 hour party people,7,5.0
+97172,frankenweenie,7,2.5
+184997,"love, simon",7,4.29
+154051,the last man on the moon,7,4.0
+280100,the guardians of the galaxy holiday special,7,3.36
+6889,brother bear,7,4.0
+287377,fast x,7,3.0
+67087,"i love you, man",7,3.86
+151941,an inspector calls,7,3.5
+2006,"mask of zorro, the",7,3.71
+81191,waiting for 'superman',7,3.5
+79091,despicable me,7,3.0
+1212,"third man, the",7,3.86
+80083,dragon ball z: dead zone,7,3.0
+5047,kung pow: enter the fist,7,4.0
+142488,spotlight,7,3.86
+47999,jesus camp,7,4.0
+105653,escape plan,7,2.57
+1882,godzilla,7,3.57
+191695,be vaght sham,7,5.0
+26342,"farewell, my lovely",7,3.5
+7087,"passage to india, a",7,4.0
+165105,ouija: origin of evil,7,3.5
+100383,side effects,7,3.93
+65596,mesrine: killer instinct,7,3.5
+3247,sister act,7,4.0
+165933,the ivory game,7,4.0
+99437,john dies at the end,7,4.14
+233953,the woman in the window,7,2.21
+82852,little fockers,7,3.0
+177213,max headroom - 20 minutes into the future,7,4.5
+7951,nightbreed,7,4.5
+88572,fred: the movie,7,0.5
+26736,riki-oh: the story of ricky,7,2.5
+7981,infernal affairs,7,4.64
+2134,weird science,7,4.0
+198157,a rainy day in new york,7,4.36
+111622,begin again,7,4.0
+3705,bird on a wire,7,3.5
+41627,samurai rebellion,7,4.5
+27392,run ronnie run,7,1.5
+5502,signs,7,2.21
+27592,sympathy for mr. vengeance,7,5.0
+1917,armageddon,7,2.71
+106072,thor: the dark world,7,3.93
+209315,little women,7,4.71
+951,his girl friday,7,4.79
+166918,the great wall,7,2.5
+27746,ginger snaps: unleashed,7,5.0
+67788,confessions of a shopaholic,7,4.36
+193507,where's the money?,7,3.5
+7126,"killing of a chinese bookie, the",7,5.0
+175199,annabelle: creation,7,3.5
+2995,house on haunted hill,7,1.5
+926,all about eve,7,4.0
+4210,manhunter,7,3.5
+6550,johnny english,7,2.79
+88785,"change-up, the",7,3.5
+106766,inside llewyn davis,7,5.0
+199207,the curse of la llorona,7,1.86
+266310,the big squeeze,7,3.0
+151113,a man called ove,7,4.0
+186,nine months,7,3.86
+221160,spree,7,3.5
+2843,"black cat, white cat",7,3.0
+175795,descendants 2,7,3.5
+82095,skyline,7,2.21
+785,kingpin,7,3.0
+37846,daltry calhoun,7,4.0
+89590,scott walker: 30 century man,7,4.5
+137859,dragon ball z gaiden: the plot to destroy the saiyans,7,3.5
+225758,david attenborough: a life on our planet,7,4.71
+58743,alatriste,7,3.0
+168554,iboy,7,4.5
+3510,frequency,7,4.14
+91128,"rum diary, the",7,4.0
+66371,departures,7,4.5
+194400,widows,7,4.0
+110102,captain america: the winter soldier,7,2.21
+201664,into the dark: all that we destroy,7,3.5
+32335,wild horses,7,4.0
+8640,king arthur,7,4.43
+32371,call northside 777,7,3.0
+95182,dragon ball z the movie: the tree of might,7,4.5
+196997,black mirror: bandersnatch,7,3.07
+58301,funny games u.s.,7,4.0
+170813,baywatch,7,3.0
+6534,hulk,7,1.57
+143365,the circle,7,4.5
+1991,child's play,7,5.0
+6985,"passion of joan of arc, the",7,3.0
+109483,that awkward moment,7,2.0
+59501,"chronicles of narnia: prince caspian, the",7,2.5
+33836,bewitched,7,2.86
+140247,the gift,7,3.93
+177763,murder on the orient express,7,2.21
+95309,seeking a friend for the end of the world,7,3.5
+189561,homo sapiens,7,4.0
+149011,he never died,7,4.57
+270696,the adam project,7,3.21
+8831,suspect zero,7,1.5
+7352,wilbur wants to kill himself,7,4.14
+65261,ponyo,7,4.0
+90890,jack and jill,7,3.07
+256,junior,7,3.43
+344,ace ventura: pet detective,7,3.0
+48738,"last king of scotland, the",7,4.29
+171583,super dark times,7,4.0
+70159,orphan,7,4.21
+171647,pink floyd: live at pompeii,7,5.0
+3863,"cell, the",7,4.0
+291483,sebastian star bear: first mission,7,2.5
+29,"city of lost children, the",7,4.0
+300,quiz show,7,3.07
+441,dazed and confused,7,4.71
+1014,pollyanna,7,4.64
+1015,homeward bound: the incredible journey,7,4.0
+1245,miller's crossing,7,3.93
+1301,forbidden planet,7,3.71
+1342,candyman,7,4.5
+1409,michael,7,2.07
+1840,he got game,7,5.0
+1895,can't hardly wait,7,3.93
+1913,picnic at hanging rock,7,5.0
+1965,repo man,7,4.36
+2122,children of the corn,7,4.71
+2181,marnie,7,3.79
+2459,"texas chainsaw massacre, the",7,4.79
+2528,logan's run,7,3.93
+2722,deep blue sea,7,4.14
+2805,mickey blue eyes,7,3.29
+2810,perfect blue,7,4.0
+2877,tommy,7,4.14
+3248,sister act 2: back in the habit,7,4.5
+3253,wayne's world,7,3.43
+3358,defending your life,7,3.5
+3706,angel heart,7,3.79
+3752,"me, myself & irene",7,3.79
+3773,house party,7,5.0
+4183,"unbelievable truth, the",7,3.79
+4444,"way of the dragon, the",7,3.14
+6595,s.w.a.t.,7,4.79
+6887,radio,7,3.5
+6963,devil's playground,7,3.5
+7070,red river,7,3.79
+7949,"yakuza, the",7,2.5
+8636,spider-man 2,7,3.71
+26554,"quiet earth, the",7,3.0
+27793,starship troopers 2: hero of the federation,7,1.64
+27803,"sea inside, the",7,4.14
+33499,monster-in-law,7,3.21
+37830,final fantasy vii: advent children,7,3.0
+42632,lady vengeance,7,4.0
+45728,clerks ii,7,2.29
+48909,5 fingers,7,3.5
+52458,disturbia,7,4.0
+53953,1408,7,3.29
+55290,gone baby gone,7,3.36
+59037,speed racer,7,4.5
+59336,redbelt,7,3.0
+59421,what happens in vegas...,7,3.07
+59549,shelter,7,3.5
+60126,get smart,7,3.64
+62198,marjoe,7,4.5
+65982,outlander,7,4.5
+67734,adventureland,7,3.64
+68835,were the world mine,7,3.64
+69278,land of the lost,7,2.0
+70157,"gang's all here, the",7,2.5
+70535,love hina christmas special: silent eve,7,3.5
+74750,[rec]²,7,4.5
+80241,going the distance,7,2.0
+80615,legend of the guardians: the owls of ga'hoole,7,4.0
+81932,"fighter, the",7,3.5
+85022,hall pass,7,3.5
+88954,"very harold & kumar 3d christmas, a",7,3.0
+89930,superheroes,7,4.0
+90430,carnage,7,4.0
+90630,miss representation,7,4.0
+92420,chronicle,7,4.14
+92954,prayers for bobby,7,5.0
+96861,taken 2,7,3.07
+97936,anna karenina,7,4.43
+98122,indie game: the movie,7,4.0
+100272,snow white,7,5.0
+114197,noam chomsky: distorted morality,7,4.5
+124575,the wind in the willows,7,4.5
+127118,i am michael,7,5.0
+127198,dope,7,4.86
+130446,the coconut revolution,7,4.5
+135184,gunnm,7,3.71
+135825,dragon ball: yo! son goku and friends return!!,7,1.0
+137863,dragon ball z: resurrection of f,7,3.5
+138944,dragon ball: episode of bardock,7,4.5
+152970,hunt for the wilderpeople,7,4.71
+156000,justice league vs. teen titans,7,3.0
+158530,leatherface,7,4.5
+159093,now you see me 2,7,3.21
+162082,train to busan,7,3.57
+164821,colossal,7,3.5
+166534,split,7,3.71
+169902,sleight,7,5.0
+169992,free fire,7,3.0
+170729,louis c.k. 2017,7,5.0
+170809,the spacewalker,7,3.5
+170885,burning sands,7,4.0
+171925,hounds of love,7,2.5
+172547,despicable me 3,7,4.5
+175643,zygote,7,4.5
+176929,happy death day,7,4.5
+179133,loving vincent,7,4.21
+179285,tragedy girls,7,3.0
+183909,a futile & stupid gesture,7,4.0
+185997,life of the party,7,4.0
+187601,anon,7,4.36
+188189,sorry to bother you,7,3.5
+188797,tag,7,3.5
+189559,a species odyssey,7,4.5
+189563,birth of civilization,7,4.0
+189873,bao,7,4.36
+193395,slice,7,3.5
+195163,bumblebee,7,3.5
+198147,five feet apart,7,4.43
+203934,freaks,7,4.0
+204826,the kitchen,7,2.0
+211221,"el pepe, a supreme life",7,4.5
+216402,the king of staten island,7,4.43
+217655,hamilton,7,3.93
+222011,greenland,7,2.21
+226204,kiss the ground,7,5.0
+243412,hey there!,7,4.0
+247330,the case of the naves brothers,7,4.5
+261759,red notice,7,3.14
+263405,nightmare alley,7,3.5
+6708,matchstick men,6,3.33
+80551,eat pray love,6,1.5
+244368,seaspiracy,6,5.0
+27134,dark portals: the chronicles of vidocq,6,4.5
+1686,red corner,6,3.5
+79469,"northerners, the",6,4.0
+281096,puss in boots: the last wish,6,4.0
+7376,walking tall,6,4.75
+250098,stone pillow,6,4.0
+251384,opal,6,3.5
+77359,red riding: 1983,6,4.5
+251616,breaking boundaries: the science of our planet,6,5.0
+26010,carousel,6,3.5
+329,star trek: generations,6,4.5
+6857,ninja scroll,6,4.0
+74696,last train home,6,4.0
+189893,terrifier,6,4.0
+43919,date movie,6,0.5
+259575,schumacher,6,4.42
+8684,"man escaped, a",6,4.0
+260933,blood brothers: malcolm x and muhammad ali,6,3.5
+180435,jeepers creepers 3,6,3.42
+73569,project a 2,6,3.5
+263481,finch,6,2.25
+170697,gifted,6,4.5
+8132,gladiator,6,4.0
+279762,sanctuary,6,4.0
+72405,bad lieutenant: port of call new orleans,6,3.5
+8496,"panic in needle park, the",6,3.0
+8477,"jetée, la",6,2.75
+1394,raising arizona,6,4.08
+191687,teen titans go! to the movies,6,3.5
+169654,don't hang up,6,4.0
+36850,police story 2,6,4.0
+1900,"children of heaven, the",6,2.83
+7055,swing time,6,4.5
+1967,labyrinth,6,4.67
+161852,king cobra,6,2.5
+193954,the nutcracker and the four realms,6,1.5
+36533,cry_wolf,6,1.0
+177651,the florida project,6,5.0
+27778,ginger snaps back: the beginning,6,4.5
+2009,soylent green,6,4.25
+157222,a boyfriend for my wife,6,4.0
+40723,wolf creek,6,0.5
+26491,to be or not to be,6,4.5
+156369,zero days,6,4.5
+197157,standing in the dust,6,4.5
+177441,el patrón: anatomy of a crime,6,4.0
+197179,chaos walking,6,1.5
+56775,national treasure: book of secrets,6,4.17
+197351,the last hangover,6,4.0
+7018,presumed innocent,6,3.5
+60336,bad blood,6,4.5
+152071,race,6,3.5
+198151,uncharted: drake's fortune,6,1.5
+198913,inside einstein's mind: the enigma of space and time,6,4.5
+56176,alvin and the chipmunks,6,5.0
+5951,morvern callar,6,5.0
+34437,broken flowers,6,4.17
+55872,august rush,6,4.0
+920,gone with the wind,6,4.5
+141712,addicted to fresno,6,3.0
+34336,must love dogs,6,3.33
+177237,battle of the sexes,6,4.0
+736,twister,6,4.0
+26242,duel,6,4.0
+178907,blade runner: black out 2022,6,4.5
+1518,breakdown,6,3.83
+66198,"international, the",6,4.0
+179295,my friend dahmer,6,3.5
+139575,baahubali: the beginning,6,5.0
+5969,my girl 2,6,2.5
+136562,steve jobs,6,2.83
+206160,the search for life in space,6,4.5
+206162,our planet: behind the scenes,6,4.5
+206166,death dive to saturn,6,5.0
+135190,mission blue,6,5.0
+206449,saint maud,6,4.5
+282147,m3gan,6,2.67
+127098,louis c.k.: live at the comedy store,6,4.5
+2421,"karate kid, part ii, the",6,3.17
+647,courage under fire,6,3.5
+118702,unbroken,6,4.33
+209917,bombshell,6,3.0
+17,sense and sensibility,6,4.5
+117981,pool of london,6,4.0
+27706,lemony snicket's a series of unfortunate events,6,4.0
+5167,my favorite brunette,6,3.5
+7206,mon oncle,6,5.0
+2600,existenz,6,3.58
+114818,stretch,6,3.5
+183423,alphago,6,3.5
+52435,how the grinch stole christmas!,6,4.5
+110771,"other woman, the",6,5.0
+68659,fanboys,6,3.0
+107958,foosball,6,1.5
+175221,the story of high noon,6,4.5
+5069,escaflowne: the movie,6,3.0
+2906,random hearts,6,2.5
+51357,citizen x,6,3.5
+2932,days of heaven,6,3.67
+174933,firebase,6,4.25
+103772,"wolverine, the",6,3.0
+5008,witness for the prosecution,6,3.17
+2961,"story of us, the",6,4.0
+100106,"pervert's guide to ideology, the",6,2.67
+222137,the devil all the time,6,4.5
+222153,encirclement - neo-liberalism ensnares democracy,6,4.5
+96655,robot & frank,6,4.5
+222743,games people play,6,3.5
+222907,the babysitter: killer queen,6,4.5
+223994,somebody,6,3.5
+49284,10 items or less,6,3.5
+224262,love and monsters,6,4.0
+174727,good time,6,4.42
+3156,bicentennial man,6,4.08
+481,kalifornia,6,4.0
+49278,déjà vu,6,4.0
+471,"hudsucker proxy, the",6,3.83
+3252,scent of a woman,6,2.83
+93721,jiro dreams of sushi,6,3.0
+3256,patriot games,6,3.67
+93363,john carter,6,4.0
+1673,boogie nights,6,2.75
+227482,sightless,6,4.5
+228563,news of the world,6,3.0
+48600,one night with the king,6,3.25
+3364,"asphalt jungle, the",6,3.92
+231057,the dig,6,4.0
+89904,the artist,6,4.25
+39435,"legend of zorro, the",6,4.0
+3489,hook,6,3.58
+3639,"man with the golden gun, the",6,4.25
+3681,for a few dollars more,6,3.67
+7256,touching the void,6,4.83
+236257,varsity show,6,4.0
+3770,dreamscape,6,3.5
+3786,but i'm a cheerleader,6,5.0
+7323,"good bye, lenin!",6,4.75
+273439,yeah right!,6,4.5
+7258,"perfect score, the",6,4.0
+502,"next karate kid, the",6,2.5
+5577,igby goes down,6,4.0
+5574,"transporter, the",6,3.0
+68522,earth,6,5.0
+6637,thrashin',6,3.5
+6749,"prince and the pauper, the",6,4.5
+6867,"station agent, the",6,5.0
+98203,"twilight saga: breaking dawn - part 2, the",6,5.0
+6879,runaway jury,6,2.0
+286355,beau is afraid,6,4.0
+6996,highlander ii: the quickening,6,2.0
+143657,the invitation,6,4.75
+216817,scoob!,6,3.0
+7044,wild at heart,6,3.5
+7059,national velvet,6,4.5
+7101,doc hollywood,6,4.0
+93855,god bless america,6,4.5
+100498,"good day to die hard, a",6,2.5
+215525,artemis fowl,6,2.0
+233993,judas and the black messiah,6,4.33
+1266,unforgiven,6,4.25
+4902,"devil's backbone, the",6,3.5
+184637,the ravenous,6,3.5
+213990,i still believe,6,5.0
+7255,win a date with tad hamilton!,6,5.0
+36,dead man walking,6,4.25
+4855,dirty harry,6,4.58
+284489,creed iii,6,4.0
+4734,jay and silent bob strike back,6,4.42
+342,muriel's wedding,6,2.5
+182819,father figures,6,4.0
+7573,never say never again,6,4.25
+7579,pride and prejudice,6,4.0
+1226,"quiet man, the",6,4.5
+118700,selma,6,3.33
+180745,project: metalbeast,6,1.5
+8456,investigation of a citizen above suspicion,6,3.75
+116855,the way he looks,6,5.0
+4133,masters of the universe,6,4.0
+147252,the untold history of the united states,6,5.0
+4019,finding forrester,6,4.25
+4018,what women want,6,3.0
+4008,born on the fourth of july,6,4.5
+8810,avp: alien vs. predator,6,4.17
+61167,henry poole is here,6,4.5
+137234,hypnotized,6,4.5
+120138,pk,6,4.0
+8879,murder on the orient express,6,3.0
+276897,don't worry darling,6,2.33
+105213,don jon,6,3.75
+3717,gone in 60 seconds,6,3.75
+9010,love me if you dare,6,5.0
+116138,leviathan,6,4.0
+136485,robot chicken: star wars,6,4.5
+181355,robot chicken: star wars episode ii,6,4.5
+3633,on her majesty's secret service,6,3.5
+1610,"hunt for red october, the",6,4.0
+3504,network,6,4.83
+3285,"beach, the",6,4.67
+158238,the nice guys,6,4.17
+3175,galaxy quest,6,3.25
+282983,you people,6,3.5
+90374,martha marcy may marlene,6,2.5
+3089,bicycle thieves,6,4.08
+255655,candyman,6,5.0
+257037,drive my car,6,4.17
+1377,batman returns,6,4.25
+27850,"yes men, the",6,4.25
+203244,shaft,6,4.5
+2912,"limey, the",6,3.0
+2710,"blair witch project, the",6,3.42
+2613,night of the comet,6,3.5
+260669,halloween kills,6,2.0
+201354,machorka-muff,6,3.0
+2495,"fantastic planet, the",6,4.08
+2448,virus,6,3.0
+108727,nymphomaniac: volume i,6,5.0
+1220,"blues brothers, the",6,5.0
+263973,house of gucci,6,3.42
+1466,donnie brasco,6,4.42
+97,hate,6,4.58
+37741,capote,6,4.17
+151597,racing extinction,6,5.0
+1363,"preacher's wife, the",6,3.5
+199073,captive state,6,2.0
+41571,memoirs of a geisha,6,3.17
+198673,into the dark: down,6,3.0
+42176,"ear, the",6,4.0
+2090,"rescuers, the",6,4.5
+197343,escape room,6,3.42
+2089,"rescuers down under, the",6,3.5
+2088,popeye,6,3.5
+2025,lolita,6,3.0
+44974,hard candy,6,4.5
+111778,tracks,6,4.0
+162,crumb,6,3.67
+1918,lethal weapon 4,6,4.67
+1884,fear and loathing in las vegas,6,4.17
+183497,the polka king,6,3.08
+47868,ronja robbersdaughter,6,4.0
+1801,"man in the iron mask, the",6,3.5
+171607,bad girl,6,3.5
+131724,the jinx: the life and deaths of robert durst,6,4.92
+86911,"hangover part ii, the",6,2.67
+194785,living in the future's past,6,4.5
+1500,grosse pointe blank,6,4.5
+193451,lords of chaos,6,3.0
+129737,unfinished business,6,0.5
+51698,"last mimzy, the",6,4.5
+113829,"one i love, the",6,4.0
+51931,reign over me,6,4.33
+165551,lion,6,4.0
+181357,robot chicken: star wars episode iii,6,4.5
+161580,bad moms,6,2.5
+188623,burning,6,3.75
+82,antonia's line,6,3.0
+175143,chasing coral,6,4.0
+175179,bill nye: science guy,6,4.5
+55814,"diving bell and the butterfly, the",6,3.5
+160010,honesty: the truth about lies,6,4.5
+74416,fish tank,6,4.5
+74275,i love you phillip morris,6,4.5
+1207,to kill a mockingbird,6,4.08
+73276,"age of stupid, the",6,5.0
+73042,alvin and the chipmunks: the squeakquel,6,5.0
+57370,mad money,6,3.75
+57504,"girl who leapt through time, the",6,4.17
+57951,fool's gold,6,3.5
+71264,cloudy with a chance of meatballs,6,3.67
+58293,"10,000 bc",6,2.5
+58295,"bank job, the",6,2.75
+1101,top gun,6,3.25
+58972,nim's island,6,4.0
+114847,autómata,6,4.5
+192649,my hero academia the movie: the two heroes,6,4.5
+59784,kung fu panda,6,4.25
+83613,cowboys & aliens,6,3.5
+96588,pitch perfect,6,3.33
+223204,the french dispatch,6,4.0
+285593,guardians of the galaxy volume 3,6,4.0
+192307,the meg,6,1.5
+68959,fullmetal alchemist the movie: conqueror of shamballa,6,2.5
+5970,my girl,6,3.5
+5957,two weeks notice,6,5.0
+225970,mank,6,3.17
+201242,the perfection,6,3.5
+6311,"other side of heaven, the",5,3.5
+26064,"bad sleep well, the",5,2.0
+88140,captain america: the first avenger,5,2.1
+216745,the wrong missy,5,1.9
+45068,mirage,5,4.5
+3555,u-571,5,3.5
+45106,american dreamz,5,3.5
+141688,legend,5,4.5
+7023,"wedding banquet, the",5,3.5
+205509,the goldfinch,5,4.0
+205955,memory: the origins of alien,5,3.5
+252930,old,5,2.7
+261,little women,5,5.0
+1982,halloween,5,3.6
+1951,oliver!,5,4.0
+3671,blazing saddles,5,3.2
+1936,mrs. miniver,5,3.5
+1924,plan 9 from outer space,5,2.0
+1010,"love bug, the",5,4.5
+6332,"lizzie mcguire movie, the",5,3.0
+46530,superman returns,5,2.0
+3704,mad max beyond thunderdome,5,3.5
+262,"little princess, a",5,4.0
+5859,southern comfort,5,3.5
+250830,léthé,5,4.0
+3736,ace in the hole,5,4.3
+285131,loving highsmith,5,3.5
+1837,"odd couple ii, the",5,3.0
+143647,an inspector calls,5,3.0
+1831,lost in space,5,2.5
+3742,battleship potemkin,5,3.6
+3751,chicken run,5,4.2
+1822,meet the deedles,5,2.5
+596,pinocchio,5,4.0
+1779,sphere,5,3.5
+3783,croupier,5,3.5
+286897,spider-man: across the spider-verse,5,4.5
+6987,"cabinet of dr. caligari, the",5,3.5
+187115,mannequin in red,5,3.9
+249122,oxygen,5,3.0
+277,miracle on 34th street,5,4.0
+3994,unbreakable,5,3.4
+208747,the good liar,5,2.5
+1012,old yeller,5,3.0
+112868,"signal, the",5,2.0
+192315,slaughterhouse rulez,5,2.0
+247252,caught by a wave,5,5.0
+233095,palmer,5,4.5
+84392,"lincoln lawyer, the",5,4.5
+6803,phenomena,5,4.5
+65359,earthsea,5,4.0
+1757,fallen angels,5,4.5
+168612,ghost in the shell,5,2.0
+103984,"great beauty, the",5,3.9
+64620,frost/nixon,5,4.4
+246604,evangelion: 3.0+1.0 thrice upon a time,5,2.5
+8501,"hitcher, the",5,3.0
+281136,a czechoslovak fairy tale,5,3.5
+4212,death on the nile,5,3.0
+51063,trailer park boys: the movie,5,3.0
+59995,boy a,5,4.5
+5135,monsoon wedding,5,3.0
+4270,"mummy returns, the",5,3.4
+138118,call me,5,3.0
+210573,the king's man,5,3.0
+7943,"killers, the",5,4.0
+166015,the african doctor,5,4.0
+69529,home,5,5.0
+103539,the spectacular now,5,3.8
+5799,exodus,5,3.0
+288353,god is a bullet,5,0.5
+94799,sound of my voice,5,4.0
+211490,friend request pending,5,4.0
+4438,fist of fury,5,3.4
+52287,meet the robinsons,5,4.0
+65130,revolutionary road,5,4.3
+129514,george carlin: it's bad for ya!,5,5.0
+163555,ingrid bergman in her own words,5,3.0
+185319,prospect,5,3.7
+95088,safety not guaranteed,5,3.9
+162602,the girl on the train,5,3.5
+128620,victoria,5,4.5
+327,tank girl,5,3.5
+53464,fantastic four: rise of the silver surfer,5,2.0
+117533,citizenfour,5,4.6
+161348,the love witch,5,3.5
+6040,darkness falls,5,1.0
+7767,"best of youth, the",5,5.0
+86408,welcome to the south,5,3.5
+4535,"man from snowy river, the",5,4.0
+7701,look who's talking too,5,2.5
+54256,hot rod,5,3.8
+7700,"wages of fear, the",5,4.0
+275467,the gray man,5,2.0
+1066,shall we dance,5,4.5
+54768,daddy day camp,5,2.0
+4638,jurassic park iii,5,3.5
+7570,octopussy,5,4.2
+7562,dobermann,5,3.7
+4658,santa sangre,5,4.5
+93326,this means war,5,4.0
+77709,"sky crawlers, the",5,3.5
+103017,the body,5,3.2
+77496,night train to munich,5,3.5
+6754,underworld,5,4.6
+141544,turbo kid,5,4.0
+345,"adventures of priscilla, queen of the desert, the",5,4.0
+55280,lars and the real girl,5,4.8
+76077,hot tub time machine,5,2.5
+75805,"bounty hunter, the",5,5.0
+97665,asterix & obelix: god save britannia,5,3.0
+4814,don't say a word,5,1.5
+102684,only god forgives,5,4.0
+175367,the truth is in the stars,5,3.0
+239042,stump the guesser,5,4.0
+6379,wrong turn,5,3.0
+143355,wonder woman,5,4.0
+5478,eight legged freaks,5,3.0
+96367,hit and run,5,5.0
+158611,the weight of chains,5,4.5
+288571,blue beetle,5,4.0
+73778,"story of a cheat, the",5,3.0
+6832,regarding henry,5,3.5
+226280,pg,5,3.0
+7225,pumping iron,5,4.0
+6242,ringu,5,4.0
+4954,ocean's eleven,5,4.0
+57274,[rec],5,4.2
+4957,sudden impact,5,3.0
+2429,mighty joe young,5,2.5
+150254,the devil's candy,5,4.5
+134170,kung fury,5,4.5
+6251,piglet's big movie,5,3.5
+33639,mad hot ballroom,5,3.0
+910,some like it hot,5,2.0
+7164,peter pan,5,3.5
+289695,between the shadows,5,4.0
+192265,the witch: part 1. the subversion,5,4.0
+226888,the dark and the wicked,5,4.0
+2325,orgazmo,5,2.5
+98019,vexille,5,3.5
+88932,final destination 5,5,4.5
+2501,october sky,5,4.5
+187613,the kissing booth,5,4.5
+2597,lost & found,5,1.5
+2607,get real,5,4.5
+32017,"pacifier, the",5,4.6
+215229,trolls world tour,5,2.5
+2263,"seventh sign, the",5,5.0
+201811,yesterday,5,3.0
+31878,kung fu hustle,5,4.9
+2248,say anything...,5,4.0
+65181,nobel son,5,3.5
+2639,mommie dearest,5,2.0
+2691,"legend of 1900, the",5,4.0
+2829,"muse, the",5,3.0
+106916,american hustle,5,3.3
+110675,in your eyes,5,2.5
+2194,"untouchables, the",5,3.8
+202421,rim of the world,5,4.0
+62,mr. holland's opus,5,4.0
+191799,extinction,5,2.5
+257637,kate,5,4.0
+229,death and the maiden,5,4.5
+2153,"avengers, the",5,2.0
+257387,the innocents,5,4.0
+106540,delivery man,5,4.0
+27797,"man who copied, the",5,4.5
+40629,pride & prejudice,5,4.2
+159061,the wailing,5,5.0
+101283,"incredible burt wonderstone, the",5,4.0
+40870,c.r.a.z.y.,5,3.0
+223310,the wife of a spy,5,3.5
+5943,maid in manhattan,5,3.5
+3088,harvey,5,4.0
+142420,high rise,5,3.0
+135534,krampus,5,4.0
+3105,awakenings,5,5.0
+204646,the man from majorca,5,3.5
+832,ransom,5,1.5
+26540,demons,5,4.0
+94401,if a tree falls: a story of the earth liberation front,5,5.0
+3330,splendor in the grass,5,5.0
+26222,dodes'ka-den,5,5.0
+136016,the good dinosaur,5,3.9
+58315,"love guru, the",5,3.0
+58376,zeitgeist: the movie,5,5.0
+3397,"great muppet caper, the",5,5.0
+42958,little manhattan,5,4.5
+71205,jennifer's body,5,4.5
+94769,"rose seller, the",5,3.5
+3415,"mirror, the",5,4.5
+3418,thelma & louise,5,3.8
+205473,bait,5,4.5
+2085,101 dalmatians,5,4.5
+2082,"mighty ducks, the",5,4.5
+111362,x-men: days of future past,5,4.0
+88179,one day,5,4.5
+26084,"music man, the",5,4.5
+199430,svaha : the sixth finger,5,4.0
+175165,what the health,5,5.0
+449,fear of a black hat,5,4.0
+2084,newsies,5,4.5
+200110,the dirt,5,3.8
+2087,peter pan,5,4.5
+942,laura,5,4.5
+143476,where to invade next,5,4.6
+200372,knight rider 2000,5,3.0
+216,billy madison,5,4.1
+2935,"lady eve, the",5,3.9
+918,meet me in st. louis,5,3.0
+2139,"secret of nimh, the",5,5.0
+142509,hardcore henry,5,2.0
+902,breakfast at tiffany's,5,2.8
+1234,"sting, the",5,4.5
+2142,"american tail: fievel goes west, an",5,3.5
+6385,whale rider,5,4.2
+275079,chip 'n dale: rescue rangers,5,4.0
+2947,goldfinger,5,2.3
+202155,the art of self-defense,5,5.0
+37736,oliver twist,5,3.5
+176603,the snowman,5,2.0
+27273,crane world,5,4.0
+3292,"big combo, the",5,3.5
+34271,hustle & flow,5,4.7
+1507,paradise road,5,3.5
+720,wallace & gromit: the best of aardman animation,5,5.0
+265446,"paris, 13th district",5,4.0
+140329,hairbrained,5,1.0
+204268,rambo: last blood,5,2.3
+33288,kes,5,4.9
+102033,pain & gain,5,4.7
+100737,snitch,5,4.5
+2174,beetlejuice,5,3.9
+5276,crimes of passion,5,3.5
+4822,max keeble's big move,5,2.5
+99145,"impossible, the",5,4.0
+6548,bad boys ii,5,5.0
+55106,design for living,5,3.5
+709,oliver & company,5,3.0
+3063,poison ivy,5,3.0
+183981,cooley high,5,5.0
+206158,the beginning and end of the universe,5,4.5
+3624,shanghai noon,5,4.5
+227282,the c word,5,5.0
+3081,sleepy hollow,5,3.0
+2231,rounders,5,3.5
+69856,mélo,5,3.0
+206397,eternity,5,2.0
+27317,audition,5,3.1
+4794,opera,5,4.5
+134947,dirt! the movie,5,4.5
+2296,"night at the roxbury, a",5,1.2
+54272,"simpsons movie, the",5,3.0
+127311,the forbidden room,5,3.0
+6695,jeepers creepers 2,5,3.9
+53993,evan almighty,5,2.3
+124909,hollywood hotel,5,4.0
+1190,tie me up! tie me down!,5,3.6
+2398,miracle on 34th street,5,4.5
+33815,"perfect man, the",5,3.5
+91974,underworld: awakening,5,3.8
+2462,texas chainsaw massacre: the next generation,5,2.0
+48304,apocalypto,5,3.7
+83369,"way back, the",5,4.0
+7285,thirteen,5,3.5
+3974,"little vampire, the",5,2.5
+30816,"phantom of the opera, the",5,4.4
+80860,life as we know it,5,3.5
+243066,the art of losing,5,4.5
+208939,klaus,5,4.4
+173275,lana del rey: the greatest story never told,5,5.0
+184023,unsane,5,4.0
+209173,a beautiful day in the neighborhood,5,3.2
+2506,"other sister, the",5,3.0
+282835,65,5,2.5
+80350,vampires suck,5,3.0
+209497,the vast of night,5,4.5
+1148,wallace & gromit: the wrong trousers,5,3.8
+46723,babel,5,4.7
+80126,"american, the",5,3.8
+3098,"natural, the",5,4.0
+264,"enfer, l'",5,4.0
+91199,weekend,5,2.5
+4700,"princess diaries, the",5,4.6
+4205,mermaids,5,3.0
+249964,f9,5,3.5
+239428,barb and star go to vista del mar,5,4.0
+491,"man without a face, the",5,3.5
+71575,rudo y cursi,5,3.5
+171867,rough night,5,1.0
+4239,blow,5,4.0
+78088,buried,5,3.0
+171611,baahubali 2: the conclusion,5,5.0
+3386,jfk,5,3.8
+210331,black christmas,5,1.5
+605,one fine day,5,4.5
+26101,mclintock!,5,3.5
+252630,zapatistas. crónica de una rebelión,5,4.0
+7614,oklahoma!,5,3.5
+171165,hell,5,4.0
+7619,"miracle worker, the",5,4.0
+3121,"hitch-hiker, the",5,3.5
+76054,oceans,5,4.5
+254460,jungle cruise,5,3.5
+254724,the many saints of newark,5,2.0
+6291,lilya 4-ever,5,4.1
+256369,untold: malice at the palace,5,4.5
+174031,patchwork,5,4.0
+282561,operation fortune: ruse de guerre,5,5.0
+25875,that uncertain feeling,5,3.0
+314,"secret of roan inish, the",5,4.5
+280976,lamborghini: the man behind the legend,5,3.0
+594,snow white and the seven dwarfs,5,3.5
+8958,ray,5,4.2
+2596,slc punk!,5,3.5
+7366,jersey girl,5,3.2
+115680,time lapse,5,4.0
+71106,frequently asked questions about time travel,5,4.0
+74131,extraordinary measures,5,3.0
+43899,tony takitani,5,5.0
+8772,"spy who came in from the cold, the",5,3.5
+260665,eternals,5,3.0
+73804,asterix at the olympic games,5,3.5
+211466,this joint is jumpin',5,3.5
+53022,wheels on meals,5,3.5
+225171,scare me,5,3.0
+59604,"girl next door, the",5,3.0
+183837,the favourite,5,4.5
+8643,"cinderella story, a",5,4.0
+212281,mulan,5,3.0
+276,milk money,5,2.5
+114662,american sniper,5,4.5
+114060,the drop,5,2.9
+95165,dragon ball z the movie: the world's strongest,5,3.0
+113250,in order of disappearance,5,2.9
+68194,"damned united, the",5,4.0
+2729,lolita,5,4.2
+8035,"stendhal syndrome, the",5,4.5
+112175,how to train your dragon 2,5,3.5
+111804,jack the ripper,5,2.0
+1371,star trek: the motion picture,5,4.1
+169670,the void,5,2.5
+213914,greyhound,5,3.5
+1821,"object of my affection, the",5,2.5
+1238,local hero,5,3.0
+5635,"man from elysian fields, the",5,3.5
+63853,australia,5,3.5
+168778,the book of love,5,3.8
+168266,t2: trainspotting,5,3.9
+5464,road to perdition,5,3.8
+185545,the current war,5,3.5
+1073,willy wonka & the chocolate factory,5,4.5
+166721,bleed for this,5,4.0
+41997,munich,5,1.5
+1399,marvin's room,5,3.0
+5712,blow out,5,4.1
+60408,welcome to the sticks,5,4.5
+165539,michael moore in trumpland,5,4.0
+58156,semi-pro,5,2.5
+163931,billy lynn's long halftime walk,5,3.5
+58154,"other boleyn girl, the",5,3.0
+3408,erin brockovich,5,4.2
+110407,"machine, the",5,4.0
+2772,detroit rock city,5,3.5
+6358,kiss me kate,5,3.5
+2004,gremlins 2: the new batch,5,4.5
+274195,jurassic world dominion,5,1.5
+194200,hell fest,5,1.5
+26349,night moves,5,3.5
+1445,mchale's navy,5,3.0
+5853,scanners,5,4.3
+1037,"lawnmower man, the",5,3.0
+108932,the lego movie,5,4.4
+6978,slacker,5,4.3
+2042,d2: the mighty ducks,5,4.5
+194831,killer kate!,5,4.0
+57243,"band's visit, the",5,4.0
+1030,pete's dragon,5,4.5
+157232,"it's not you, it's me",5,3.5
+108791,"noordzee, texas",5,3.5
+2859,stop making sense,5,4.5
+177497,hostiles,5,4.0
+215951,the wretched,5,3.5
+156387,sing street,5,4.0
+1005,d3: the mighty ducks,5,4.0
+3734,prince of the city,5,1.0
+64716,seven pounds,5,4.2
+2059,"parent trap, the",5,4.5
+107348,anchorman 2: the legend continues,5,3.0
+188941,under the silver lake,5,4.7
+2863,"hard day's night, a",5,4.2
+237131,earthbound,5,2.5
+4766,our lady of the assassins,5,3.5
+2067,doctor zhivago,5,4.5
+5064,the count of monte cristo,5,3.8
+197663,happy death day 2u,5,3.5
+89190,conan the barbarian,5,3.5
+945,top hat,5,4.5
+1183,"english patient, the",5,4.5
+151493,the dancer and the thief,5,3.5
+2927,brief encounter,5,3.9
+56274,margot at the wedding,5,2.5
+104944,short term 12,5,3.9
+31770,night and the city,5,3.6
+1284,"big sleep, the",4,4.88
+61024,pineapple express,4,4.5
+1267,"manchurian candidate, the",4,4.0
+61236,waltz with bashir,4,4.0
+1253,"day the earth stood still, the",4,5.0
+184089,winchester,4,2.0
+1251,8 1/2,4,4.63
+184615,the tenth man,4,3.5
+1250,"bridge on the river kwai, the",4,4.63
+1243,rosencrantz and guildenstern are dead,4,4.5
+1211,wings of desire,4,5.0
+284291,tetris,4,3.5
+187717,won't you be my neighbor?,4,3.5
+62250,gomorrah,4,3.5
+1173,"cook the thief his wife & her lover, the",4,3.0
+5454,mo' money,4,4.5
+189527,the net,4,4.0
+1125,"return of the pink panther, the",4,4.0
+63273,captain mike across america,4,4.0
+190399,animal world,4,4.0
+190401,calibre,4,2.38
+191489,peppermint,4,3.5
+5433,silver bullet,4,4.0
+1092,basic instinct,4,3.0
+1078,bananas,4,3.75
+193115,the curse of the dragon,4,4.0
+1065,five angles on murder,4,2.5
+193759,power of grayskull: the definitive history of he-man and the masters of the universe,4,4.0
+194206,await further instructions,4,4.5
+263485,8-bit christmas,4,1.0
+195295,dragged across concrete,4,4.0
+5313,the scorpion king,4,4.0
+946,to be or not to be,4,4.0
+898,"philadelphia story, the",4,4.0
+65882,"uninvited, the",4,3.13
+786,eraser,4,2.88
+743,spy hard,4,3.5
+203222,the lion king,4,2.5
+66118,point of order,4,4.5
+204342,general magic,4,4.0
+5225,and your mother too,4,5.0
+205841,don't let go,4,2.0
+5218,ice age,4,4.38
+207367,little monsters,4,4.0
+5187,hopscotch,4,3.63
+590,dances with wolves,4,3.63
+212851,buffaloed,4,3.5
+68222,"final inquiry, the",4,3.5
+216338,jerry seinfeld: 23 hours to kill,4,3.0
+217587,the servant,4,5.0
+218195,let's make a dream,4,3.5
+69253,new in town,4,2.0
+270744,ultra low,4,3.0
+490,malice,4,4.0
+4867,riding in cars with boys,4,3.0
+4813,when worlds collide,4,4.0
+4802,operation petticoat,4,4.5
+243530,hot chicks,4,4.0
+243838,servants,4,3.0
+245444,wework: or the making and breaking of a $47 billion unicorn,4,3.5
+246224,the education of fredrick fitzell,4,1.0
+246296,basquiat: rage to riches,4,2.0
+248042,glaciär,4,3.0
+368,maverick,4,3.0
+250364,tides,4,3.0
+251268,spirit untamed,4,3.0
+71838,law abiding citizen,4,4.5
+256391,summer nights,4,4.0
+257967,zero an investigation into 9-11,4,4.5
+258637,the voyeurs,4,2.0
+258929,the guilty,4,4.0
+289,only you,4,3.5
+261275,ghostbusters: afterlife,4,5.0
+26662,kiki's delivery service,4,3.5
+43497,love in the afternoon,4,3.5
+4678,uhf,4,3.0
+8491,white heat,4,4.25
+7934,zelig,4,1.75
+8698,"comfort of strangers, the",4,3.5
+8702,dream lover,4,4.0
+6901,men of respect,4,3.0
+8801,in the soup,4,3.5
+7757,jason and the argonauts,4,3.75
+74370,"house of the devil, the",4,4.0
+8973,bad education,4,3.63
+271313,official competition,4,3.0
+44788,this film is not yet rated,4,2.5
+76860,razorback,4,4.0
+44840,"benchwarmers, the",4,5.0
+26947,pusher,4,4.5
+4259,"luzhin defence, the",4,3.5
+4236,keep the river on your right: a modern cannibal tale,4,5.0
+4128,"lost boys, the",4,2.88
+4116,hollywood shuffle,4,3.5
+4102,eddie murphy raw,4,3.63
+4002,"planes, trains & automobiles",4,4.5
+3986,"6th day, the",4,2.25
+47122,john tucker must die,4,5.0
+81751,uncle boonmee who can recall his past lives,4,4.0
+3945,digimon: the movie,4,3.5
+272323,surviving paradise: a family tale,4,4.0
+82030,"lesson in love, a",4,3.5
+82053,casino jack,4,4.0
+84137,"housemaid, the",4,4.13
+3821,nutty professor ii: the klumps,4,1.5
+85881,win win,4,4.0
+86059,hop,4,0.5
+88108,monte carlo,4,3.5
+3552,caddyshack,4,3.88
+176,living in oblivion,4,3.5
+89028,don't be afraid of the dark,4,3.0
+3477,empire records,4,3.5
+3459,gothic,4,3.5
+48596,"marine, the",4,5.0
+32179,elevator to the gallows,4,5.0
+3259,far and away,4,3.63
+3190,supernova,4,4.0
+95654,geri's game,4,3.75
+49396,tenacious d in the pick of destiny,4,2.5
+96815,v/h/s,4,4.0
+3018,re-animator,4,3.75
+100083,movie 43,4,5.0
+100163,hansel & gretel: witch hunters,4,3.0
+3006,"insider, the",4,4.5
+6537,terminator 3: rise of the machines,4,4.75
+7223,d.o.a.,4,3.75
+102123,this is the end,4,2.5
+2985,robocop,4,4.38
+2973,crimes and misdemeanors,4,4.5
+103141,monsters university,4,3.88
+2893,plunkett & macleane,4,4.5
+51939,tmnt,4,3.0
+111384,blue ruin,4,4.5
+265148,morbius,4,2.5
+114277,god help the girl,4,2.63
+52694,mr. bean's holiday,4,3.0
+117372,v/h/s: viral,4,1.0
+6273,in a lonely place,4,3.88
+53226,"great war, the",4,3.5
+53476,"iceberg, l'",4,3.0
+265270,michael che: shame the devil,4,4.0
+123431,three guys named mike,4,3.5
+54004,i now pronounce you chuck and larry,4,5.0
+126931,girl with hyacinths,4,4.0
+54171,re-cycle,4,4.5
+129490,twins of evil,4,3.5
+129779,ghost in the shell arise - border 1: ghost pain,4,4.0
+130490,insurgent,4,4.38
+2335,"waterboy, the",4,3.88
+131050,stargate sg-1 children of the gods - final cut,4,4.5
+6077,evil under the sun,4,3.5
+131830,samba,4,4.5
+132146,the harvest,4,1.0
+133749,reminiscence,4,0.5
+277024,the actress,4,3.5
+277566,fall,4,3.5
+136447,george carlin: you are all diseased,4,5.0
+136600,the concubine,4,5.0
+136936,88,4,2.5
+137381,the george mckenna story,4,3.5
+55176,in the shadow of the moon,4,5.0
+139642,southpaw,4,3.88
+139721,x+y,4,5.0
+139849,the capsule,4,2.5
+140701,harbinger down,4,1.5
+2117,1984,4,3.38
+5955,antwone fisher,4,3.5
+144482,circle,4,5.0
+146656,creed,4,3.5
+2081,"little mermaid, the",4,3.63
+26246,johnny got his gun,4,5.0
+56757,sweeney todd: the demon barber of fleet street,4,1.38
+154094,984: prisoner of the future,4,1.5
+154902,wind,4,3.0
+1959,out of africa,4,3.5
+162888,frankie boyle - live - the last days of sodom,4,4.5
+163985,arq,4,4.0
+164931,the siege of jadotville,4,3.5
+58347,penelope,4,5.0
+58509,sun valley serenade,4,3.5
+5680,auto focus,4,3.0
+167986,rupture,4,2.5
+5649,horror of dracula,4,3.5
+5644,"pride of the yankees, the",4,4.0
+1805,wild things,4,5.0
+5608,das experiment,4,4.75
+5604,"man in the white suit, the",4,3.5
+170891,the legend is born: ip man,4,4.5
+170917,the transfiguration,4,4.0
+281316,wirecard: the billion euro lie,4,4.0
+5516,read my lips,4,3.0
+173633,the dark side of the moon,4,4.5
+1661,switchback,4,3.0
+175945,the rendez-vous of déjà-vu,4,3.5
+1483,crash,4,4.0
+60141,st. trinian's,4,3.0
+176935,geostorm,4,1.5
+177871,victoria & abdul,4,4.0
+60494,borderline,4,3.5
+178447,cult of chucky,4,4.5
+1380,grease,4,3.88
+178737,the last party,4,3.5
+7071,"woman under the influence, a",4,3.0
+180227,god: serengeti,4,4.0
+38798,in her shoes,4,4.0
+180985,the greatest showman,4,2.75
+124119,love is a ball,4,4.5
+1431,beverly hills ninja,4,2.5
+180987,ferdinand,4,4.0
+128854,chris rock: bring the pain,4,4.0
+276231,dragon ball super: super hero,4,4.0
+133545,just before i go,4,4.0
+133945,deep web,4,4.5
+136445,george carlin: back in town,4,4.5
+137857,the jungle book,4,4.0
+138582,criminal passion,4,3.0
+140204,backmask,4,4.5
+148369,the wave,4,4.5
+150534,prescription: murder,4,4.0
+154256,the great global warming swindle,4,0.5
+155814,what we become,4,4.0
+157361,tickled,4,4.5
+160571,lights out,4,3.5
+162350,the magnificent seven,4,4.0
+162478,masterminds,4,4.5
+163126,terra,4,5.0
+174585,transformers: the last knight,4,0.5
+149,amateur,4,3.75
+1702,flubber,4,3.0
+167018,why him?,4,3.5
+167638,sleepless,4,3.5
+1747,wag the dog,4,4.25
+172449,he even has your eyes,4,4.0
+1954,rocky,4,3.88
+2001,lethal weapon 2,4,5.0
+269666,home team,4,4.0
+2094,"rocketeer, the",4,3.0
+175,kids,4,4.63
+266308,the dot-com bubble that never burst,4,2.5
+265170,ice on fire,4,4.5
+188,"prophecy, the",4,4.0
+2406,romancing the stone,4,3.5
+193,showgirls,4,1.5
+262663,play it safe,4,4.0
+208,waterworld,4,3.0
+2879,armour of god ii: operation condor,4,3.5
+2986,robocop 2,4,3.0
+2990,licence to kill,4,3.5
+2996,music of the heart,4,4.0
+3036,quest for fire,4,4.0
+3095,"grapes of wrath, the",4,4.5
+3108,"fisher king, the",4,4.5
+254484,trollhunters: rise of the titans,4,3.5
+3325,"next best thing, the",4,2.5
+253618,space jam: a new legacy,4,3.0
+251900,the forgotten battle,4,4.0
+251244,demonic,4,2.0
+3676,eraserhead,4,5.0
+3683,blood simple,4,3.88
+3697,predator 2,4,3.5
+249898,three celestial bodies,4,2.5
+3936,phantom of the opera,4,3.5
+249594,the gentleman driver,4,4.0
+3972,"legend of drunken master, the",4,5.0
+4005,"living daylights, the",4,3.5
+4061,the man in the moon,4,3.0
+4161,"mexican, the",4,2.0
+4167,15 minutes,4,3.5
+4220,"longest yard, the",4,3.5
+245068,held,4,3.0
+4299,"knight's tale, a",4,2.63
+244686,a week away,4,3.0
+4344,swordfish,4,1.5
+4467,"adventures of baron munchausen, the",4,3.5
+4621,look who's talking,4,2.5
+4636,"punisher, the",4,5.0
+4735,ghosts of mars,4,1.5
+4880,life as a house,4,3.0
+4881,"man who wasn't there, the",4,3.63
+235471,cherry,4,4.0
+234310,count basie: through his own eyes,4,4.0
+233171,death to 2020,4,3.0
+231153,the fiancés of the bridge mac donald,4,4.0
+21,get shorty,4,3.0
+229037,ma rainey's black bottom,4,3.5
+5451,pumpkin,4,2.0
+5498,red beard,4,5.0
+224324,synchronic,4,3.0
+5802,"world of henry orient, the",4,3.5
+224206,the human voice,4,3.0
+5942,"hot chick, the",4,5.0
+222949,summer of 85,4,4.5
+6156,shanghai knights,4,4.13
+6287,anger management,4,3.88
+565,cronos,4,4.0
+6593,freaky friday,4,4.75
+6611,umberto d.,4,4.0
+6618,shaolin soccer,4,4.38
+6650,kind hearts and coronets,4,3.75
+6709,once upon a time in mexico,4,4.5
+219392,relic,4,3.0
+219171,happy birthday,4,3.5
+6979,wargames,4,3.88
+7009,lorenzo's oil,4,3.0
+216963,possessor,4,4.13
+610,heavy metal,4,4.0
+7175,torque,4,3.5
+215147,after truth: disinformation and the cost of fake news,4,3.0
+214574,the intruder,4,3.0
+214240,altered carbon: resleeved,4,4.0
+673,space jam,4,4.0
+7456,valentin,4,4.0
+7459,carandiru,4,2.88
+212371,the new mutants,4,2.5
+211243,the beach house,4,3.0
+8604,taxi,4,4.63
+8752,"set-up, the",4,3.5
+208613,untitled,4,3.5
+207361,boro in the box,4,2.0
+207311,last christmas,4,4.63
+206499,between two ferns: the movie,4,3.5
+206156,the bomb,4,4.0
+206133,burn,4,3.0
+26122,onibaba,4,5.0
+205128,sherlock: the empty hearse,4,4.0
+27815,"chorus, the",4,4.13
+202415,when angels sleep,4,4.5
+202037,human nature,4,4.0
+32596,sahara,4,3.13
+909,"apartment, the",4,3.5
+200864,batman: hush,4,4.0
+38097,dumplings,4,4.0
+39427,stay,4,2.0
+39529,"race for your life, charlie brown",4,3.0
+40732,"descent, the",4,2.63
+199101,the prodigy,4,1.5
+42738,underworld: evolution,4,4.25
+196893,cold pursuit,4,3.5
+46640,why does herr r. run amok?,4,3.0
+48319,flyboys,4,4.0
+48520,employee of the month,4,4.5
+48696,little children,4,5.0
+48872,13 tzameti,4,4.38
+49355,"bête humaine, la",4,4.25
+50792,catch and release,4,0.5
+1022,cinderella,4,3.5
+193371,leading lady parts,4,4.0
+51471,amazing grace,4,4.0
+54648,rush hour 3,4,5.0
+55620,for the bible tells me so,4,4.0
+1034,freeway,4,4.0
+56848,ricochet,4,4.0
+58047,"definitely, maybe",4,2.5
+59026,99 francs,4,4.5
+1046,beautiful thing,4,3.0
+60074,hancock,4,4.5
+1061,sleepers,4,4.0
+60753,felon,4,3.25
+60832,pathology,4,2.5
+61250,"house bunny, the",4,4.5
+63229,feiern,4,4.5
+65682,underworld: rise of the lycans,4,4.25
+66639,street fighter: the legend of chun-li,4,1.5
+67923,fast & furious,4,4.5
+68073,pirate radio,4,3.5
+190555,searching,4,4.0
+72701,planet 51,4,3.0
+74619,mysterious island,4,3.5
+189031,feral,4,3.0
+75395,frozen,4,3.0
+188785,gewoon vrienden,4,4.5
+76158,air doll,4,4.5
+77540,solomon kane,4,2.75
+77780,virtuality,4,4.0
+1188,strictly ballroom,4,4.0
+79590,"rebound, the",4,3.5
+80939,conviction,4,5.0
+188177,wolves at the door,4,3.0
+85570,"die is cast, the",4,4.0
+86833,bridesmaids,4,3.5
+187125,head above water,4,5.0
+185725,rezeta,4,3.0
+90717,tower heist,4,3.5
+185437,take your pills,4,4.0
+279812,the menu,4,3.88
+92507,safe house,4,3.5
+93443,goon,4,3.0
+93512,"jeff, who lives at home",4,4.13
+93563,lockout,4,4.0
+94070,"best exotic marigold hotel, the",4,3.5
+94677,"dictator, the",4,3.5
+96606,samsara,4,4.0
+99917,upstream color,4,3.5
+100150,"color wheel, the",4,3.5
+184257,making a murderer,4,3.0
+105037,"to do list, the",4,4.0
+105250,"century of the self, the",4,4.5
+278386,"mord, lilla vän",4,3.5
+183855,terminal,4,2.0
+278312,black adam,4,3.5
+109673,300: rise of an empire,4,3.5
+111743,a million ways to die in the west,4,4.0
+112245,"dirties, the",4,4.0
+112946,wish i was here,4,3.0
+277001,"dokumentet – sex, sprit och solidaritet",4,3.0
+114762,two night stand,4,5.0
+116441,heart of a lion,4,4.0
+120625,the fool,4,3.0
+120827,the hound of the baskervilles,4,5.0
+121126,the car,4,2.5
+122896,pirates of the caribbean: dead men tell no tales,4,3.5
+8614,overboard,4,2.5
+58898,"aerial, the",3,5.0
+58803,21,3,3.0
+281314,the 1000 eyes of dr maddin,3,3.5
+176103,the lego ninjago movie,3,2.0
+56719,vitus,3,3.5
+55999,mr. magorium's wonder emporium,3,4.0
+55363,"assassination of jesse james by the coward robert ford, the",3,1.5
+55276,michael clayton,3,4.5
+281778,the statistical analysis of your failing relationship,3,2.5
+54372,tell no one,3,3.5
+54229,when the wind blows,3,2.5
+192999,blood fest,3,3.0
+54190,across the universe,3,2.17
+52579,"vie en rose, la",3,3.5
+52245,blades of glory,3,4.67
+51847,right at your door,3,3.5
+145307,strictly business,3,3.5
+193445,assassination nation,3,3.5
+50800,"messengers, the",3,3.5
+193950,free solo,3,4.5
+49518,moog,3,4.0
+145150,the dressmaker,3,3.5
+195161,mary poppins returns,3,2.5
+195175,monster party,3,2.5
+48165,"seventh continent, the",3,4.33
+196641,young and alive,3,1.5
+282357,stars,3,3.0
+45517,cars,3,5.0
+45172,23,3,4.0
+187001,wildling,3,3.5
+971,cat on a hot tin roof,3,4.5
+965,"39 steps, the",3,4.0
+196895,serenity,3,4.5
+43936,16 blocks,3,3.5
+42783,shadows of our forgotten ancestors,3,5.0
+197605,the dead center,3,2.5
+197697,once upon a deadpool,3,4.5
+197885,honey boy,3,4.5
+40491,"match factory girl, the",3,4.0
+38304,no direction home: bob dylan,3,5.0
+37386,aeon flux,3,5.0
+34532,"skeleton key, the",3,5.0
+89002,spy kids: all the time in the world in 4d,3,3.5
+911,charade,3,5.0
+32591,look at me,3,5.0
+201749,murder mystery,3,2.0
+31437,nobody knows,3,4.0
+30954,"naked jungle, the",3,3.0
+203954,take me somewhere nice,3,4.0
+89759,"separation, a",3,5.0
+89774,warrior,3,4.33
+27441,blood: the last vampire,3,3.5
+27304,female prisoner #701: scorpion,3,5.0
+26982,men with guns,3,4.0
+90314,no exit,3,3.5
+1569,my best friend's wedding,3,4.5
+26555,spies like us,3,4.0
+26354,sister street fighter,3,3.5
+26313,california split,3,3.0
+275849,"eccentrics, the sunny side of the street",3,2.5
+90719,j. edgar,3,3.5
+26150,andrei rublev,3,5.0
+788,"nutty professor, the",3,2.5
+205917,chess fever,3,2.5
+91077,"descendants, the",3,4.0
+206174,nova: prediction by the numbers,3,4.5
+783,"hunchback of notre dame, the",3,3.5
+25850,holiday,3,4.0
+206311,blood machines,3,3.0
+206451,bad education,3,3.5
+8799,little black book,3,2.5
+283709,titan,3,3.5
+8584,leave her to heaven,3,3.0
+91694,intruders,3,0.5
+141505,moscow-cassiopeia,3,4.0
+91890,"iron lady, the",3,2.0
+7984,from beyond,3,2.5
+141135,nuts in may,3,3.5
+211013,the overture,3,4.0
+7845,tremors ii: aftershocks,3,4.5
+92210,"disappearance of haruhi suzumiya, the",3,3.5
+745,wallace & gromit: a close shave,3,4.0
+140737,the lost room,3,5.0
+7450,laws of attraction,3,4.5
+179119,the death of stalin,3,4.0
+137561,saturn in opposition,3,4.5
+136980,ed gein: the butcher of plainfield,3,2.5
+7360,dawn of the dead,3,3.83
+7306,herod's law,3,3.5
+661,james and the giant peach,3,4.0
+215683,the willoughbys,3,3.0
+7102,dragnet,3,4.0
+119655,seventh son,3,3.5
+94266,"five-year engagement, the",3,2.5
+215911,beastie boys story,3,4.0
+136794,eat,3,3.0
+7056,"public enemy, the",3,3.67
+94780,snow white and the huntsman,3,2.5
+218465,the new testament,3,3.0
+185169,the strangers: prey at night,3,1.5
+6893,"italian job, the",3,4.0
+6785,seven brides for seven brothers,3,5.0
+6644,"green ray, the",3,3.0
+221334,bavaria - a magical journey,3,5.0
+279306,the greatest beer run ever,3,3.0
+95858,for the birds,3,4.0
+95873,ruby sparks,3,4.5
+95973,"classe américaine, la",3,4.0
+221754,broil,3,0.5
+6187,"life of david gale, the",3,3.5
+535,short cuts,3,4.5
+6075,"simple-minded murder, the",3,4.5
+6057,biker boyz,3,5.0
+120392,comet,3,4.0
+223944,the social dilemma,3,4.5
+285851,air: courting a legend,3,2.0
+96817,boxing gym,3,3.0
+515,"remains of the day, the",3,3.5
+5810,8 mile,3,3.17
+5800,how to murder your wife,3,2.5
+226292,we will never be alone again,3,3.0
+5541,hot shots!,3,4.0
+226294,the birth of the robot,3,2.5
+5489,nosferatu the vampyre,3,3.17
+5449,mr. deeds,3,3.0
+228515,nova lituania,3,3.5
+97692,we are legion: the story of the hacktivists,3,3.0
+285929,in your interest,3,2.5
+228791,guardians of the galaxy: inferno,3,3.0
+228907,coded bias,3,3.0
+229511,valparaiso,3,4.5
+5312,murder by numbers,3,3.0
+5304,"rome, open city",3,4.0
+5254,blade ii,3,3.33
+98961,zero dark thirty,3,5.0
+5171,"time machine, the",3,5.0
+5152,we were soldiers,3,3.83
+99594,offender,3,2.0
+231155,women reply,3,3.5
+5099,heidi,3,5.0
+127108,brooklyn,3,4.5
+184987,a wrinkle in time,3,1.0
+5022,"servant, the",3,4.0
+1396,sneakers,3,4.0
+233913,de djess,3,3.5
+4992,kate & leopold,3,4.33
+184903,joy road,3,5.0
+101106,sound city,3,3.5
+4989,how high,3,4.0
+4971,moscow on the hudson,3,4.0
+234957,the killing of two lovers,3,4.0
+4898,novocaine,3,4.0
+236111,sweat,3,3.5
+238184,la verónica,3,3.5
+239002,trance,3,4.5
+4844,bandits,3,4.5
+136227,the wicked,3,3.5
+4835,coal miner's daughter,3,4.0
+4811,quadrophenia,3,4.5
+4725,session 9,3,5.0
+241784,cosmic sin,3,0.5
+4717,battle creek brawl,3,4.0
+4689,"cat o' nine tails, the",3,3.5
+242640,so long at the fair,3,3.5
+4597,gleaming the cube,3,4.0
+4595,fat man and little boy,3,4.0
+94,beautiful girls,3,3.0
+103384,"lone ranger, the",3,3.0
+4469,appointment with death,3,3.5
+4381,"closet, the",3,4.0
+244562,going nuts - tales from the squirrel world,3,3.0
+103606,stuck in love,3,4.0
+244906,spiral: from the book of saw,3,2.0
+4095,cry freedom,3,4.0
+103849,new world,3,5.0
+103980,blue jasmine,3,4.0
+4086,"big easy, the",3,3.0
+104137,prince avalanche,3,1.0
+4085,beverly hills cop,3,4.83
+286777,blackberry,3,3.5
+104312,"mortal instruments: city of bones, the",3,2.0
+288849,colaholic,3,3.0
+104583,logorama,3,3.5
+250090,inspector lavardin,3,3.0
+3882,bring it on,3,3.5
+267,major payne,3,3.0
+3788,blow-up,3,4.0
+1529,nowhere,3,3.0
+3755,"perfect storm, the",3,3.0
+126591,the humanoid,3,4.0
+120867,tropico,3,5.0
+3675,white christmas,3,5.0
+252180,pig,3,5.0
+3521,mystery train,3,4.0
+120940,the hire: ambush,3,4.0
+3361,bull durham,3,5.0
+249,immortal beloved,3,4.0
+3072,moonstruck,3,4.0
+3068,"verdict, the",3,4.0
+106441,"book thief, the",3,4.5
+255337,venom: let there be carnage,3,0.5
+3029,nighthawks,3,5.0
+3008,last night,3,4.0
+257281,the tragedy of macbeth,3,4.0
+2983,"ipcress file, the",3,2.83
+134393,trainwreck,3,4.0
+106906,gamera vs. barugon,3,4.0
+2924,drunken master,3,4.0
+107052,"punk singer, the",3,4.0
+2871,deliverance,3,3.67
+2753,"bedroom window, the",3,4.0
+2724,runaway bride,3,3.83
+260931,hollywood chinese,3,3.0
+262061,night teeth,3,2.0
+2396,shakespeare in love,3,3.33
+2393,star trek: insurrection,3,3.17
+109183,date and switch,3,3.0
+2390,little voice,3,2.5
+2338,i still know what you did last summer,3,2.0
+2321,pleasantville,3,3.0
+133281,ricki and the flash,3,2.5
+2294,antz,3,3.5
+2287,them!,3,3.5
+110104,pioneer,3,3.0
+2278,ronin,3,4.5
+2265,nothing but trouble,3,4.5
+2204,saboteur,3,3.67
+2187,stage fright,3,4.0
+110882,locke,3,4.5
+2121,cujo,3,5.0
+168,first knight,3,3.67
+268762,arctic void,3,3.0
+268840,unraveling the mystery: a big bang farewell,3,3.5
+111680,at middleton,3,3.5
+111732,"dance of reality, the",3,5.0
+126090,hedgehog in the fog,3,5.0
+270540,in transit,3,5.0
+271194,no exit,3,3.0
+1953,"french connection, the",3,3.17
+132832,the chase,3,3.5
+273803,last film show,3,3.5
+274695,family camp,3,4.0
+170875,the fate of the furious,3,5.0
+277288,je t'aime john wayne,3,4.0
+170815,unforgettable,3,1.5
+112751,ju-on: the beginning of the end,3,1.5
+170263,trevor noah: afraid of the dark,3,5.0
+169486,invasion,3,2.0
+183353,proud mary,3,3.0
+180367,hot summer nights,3,4.0
+169268,cedric the entertainer: live from the ville,3,5.0
+275083,the valet,3,3.5
+165883,may god save us,3,3.0
+113378,"giver, the",3,2.0
+101,bottle rocket,3,4.5
+165867,pure pwnage: teh movie,3,4.0
+183161,journeyman,3,3.5
+1711,midnight in the garden of good and evil,3,3.0
+173735,the farthest,3,4.5
+114342,force majeure,3,4.5
+163541,guernica,3,4.0
+114494,who am i,3,5.0
+129227,out of nature,3,3.5
+114758,open windows,3,3.5
+180563,nightmare on the 13th floor,3,5.0
+1648,"house of yes, the",3,4.5
+175243,security,3,5.0
+155836,google and the world brain,3,2.5
+155288,eye in the sky,3,3.5
+155064,the neon demon,3,3.5
+154096,robo vampire,3,4.0
+154065,dad's army,3,3.0
+175765,pippi longstocking,3,2.0
+149650,childhood's end,3,5.0
+115667,"love, rosie",3,5.0
+1611,my own private idaho,3,3.5
+148984,the propaganda game,3,4.0
+182857,star wars: the legacy revealed,3,4.0
+148888,zoolander 2,3,3.5
+181671,the breadwinner,3,5.0
+116453,hateship loveship,3,1.0
+116668,dead snow 2: red vs. dead ,3,3.0
+148372,schneider vs. bax,3,3.0
+188773,shoplifters,3,4.5
+1194,cheech and chong's up in smoke,3,1.5
+80844,lake mungo,3,2.33
+78041,killers,3,3.5
+116837,the little fox,3,3.5
+81054,love is colder than death,3,3.0
+147016,the surprise,3,4.5
+77951,bonhoeffer: agent of grace,3,3.0
+74095,wicked city,3,2.5
+73824,abigail's party,3,4.5
+73319,leap year,3,4.0
+280868,guillermo del toro's pinocchio,3,4.5
+72866,sandra of a thousand delights,3,4.5
+72605,brothers,3,5.0
+72027,korczak,3,4.5
+71670,all about steve,3,3.0
+71416,hellzapoppin',3,4.5
+71108,"white ribbon, the",3,4.0
+82667,i saw the devil,3,5.0
+82848,one week,3,4.5
+70567,adam,3,5.0
+70315,friend zone,3,4.0
+83424,ghajini,3,1.5
+69275,dead snow,3,2.0
+69118,in the electric mist,3,3.0
+191441,the happytime murders,3,1.5
+191491,city of lies,3,3.5
+65899,12:01,3,4.0
+65631,battle in seattle,3,4.5
+65514,ip man,3,5.0
+64645,the wrecking crew,3,3.5
+62213,"sexo, amor e traição",3,2.0
+61948,100 feet,3,2.5
+60948,bottle shock,3,3.5
+59440,bella,3,5.0
+192579,johnny english strikes again,3,4.5
+37475,"unfinished life, an",3,4.0
+78218,unthinkable,3,4.0
+6856,yankee doodle dandy,3,5.0
+3977,charlie's angels,3,3.5
+276577,the last stage,3,3.5
+4251,chopper,3,3.33
+3296,to sir with love,3,5.0
+169370,kathleen madigan: bothering jesus,3,5.0
+45431,over the hedge,3,3.0
+269960,you won't be alone,3,3.5
+247458,obsessed,3,4.0
+228619,gore vidal's billy the kid,3,3.5
+54116,first snow,3,4.0
+87222,kung fu panda 2,3,4.0
+4177,"mirror crack'd, the",3,2.5
+233259,the skeleton of mrs. morales,3,3.0
+4144,in the mood for love,3,4.0
+128542,wyrmwood,3,4.0
+4709,paint your wagon,3,5.0
+128606,45 years,3,3.67
+128924,the 'high sign',3,4.0
+188953,diamantino,3,1.5
+192377,goosebumps: haunted halloween,3,2.0
+4103,empire of the sun,3,4.5
+1820,"proposition, the",3,3.0
+6120,q: the winged serpent,3,4.5
+80100,camila,3,3.5
+103027,much ado about nothing,3,3.0
+4027,"o brother, where art thou?",3,4.17
+1663,stripes,3,3.5
+227006,tremors: shrieker island,3,3.5
+663,kids in the hall: brain candy,3,5.0
+182551,mr. roosevelt,3,3.0
+245344,bad luck banging or loony porn,3,3.5
+242062,wheel of fortune and fantasy,3,4.0
+130482,too late for tears,3,4.0
+3264,buffy the vampire slayer,3,1.5
+31420,assault on precinct 13,3,5.0
+103335,despicable me 2,3,3.5
+51080,breach,3,2.0
+4736,summer catch,3,1.5
+1753,half baked,3,4.0
+7396,scenes from a marriage,3,4.5
+2315,bride of chucky,3,3.5
+187135,military intelligence and you!,3,3.0
+63329,christmas story,3,4.0
+3621,possession,3,5.0
+226684,woman without a face,3,3.0
+85072,"wild and wonderful whites of west virginia, the",3,4.0
+170151,the party,3,4.0
+62081,eagle eye,3,3.17
+2301,history of the world: part i,3,4.5
+237199,tigers,3,3.5
+67534,big stan,3,4.0
+6021,"american friend, the",3,4.0
+54785,halloween,3,0.5
+30749,hotel rwanda,3,5.0
+707,mulholland falls,3,3.0
+69251,special,3,4.5
+135143,fantastic beasts and where to find them,3,3.83
+23,assassins,3,4.0
+206176,the truth about alcohol,3,4.0
+5021,murder by death,3,3.0
+42629,tartuffe,3,3.5
+206168,nova: first face of america,3,5.0
+7154,mona lisa smile,3,3.67
+135643,the disappointments room,3,0.5
+6383,2 fast 2 furious,3,4.17
+5026,brotherhood of the wolf,3,2.0
+94325,"lucky one, the",3,5.0
+66659,tyler perry's madea goes to jail,3,2.17
+176987,the teacher,3,3.0
+5060,m*a*s*h,3,5.0
+177053,alive and kicking,3,3.5
+137278,cyberbully,3,5.0
+710,celtic pride,3,3.5
+187109,tremors: a cold day in hell,3,3.5
+263753,caprice,3,3.5
+277856,see how they run,3,3.5
+216671,have a good trip: adventures in psychedelics,3,3.0
+6624,agent cody banks,3,4.0
+278176,tár,3,4.0
+55286,things we lost in the fire,3,4.5
+714,dead man,3,5.0
+3551,marathon man,3,3.5
+1236,trust,3,4.0
+2867,fright night,3,4.0
+61994,so normal,3,4.5
+2179,topaz,3,3.5
+179815,"roman j. israel, esq.",3,3.5
+233,exotica,3,4.0
+216370,kingyo,3,2.5
+1453,"beautician and the beast, the",3,4.0
+731,heaven's prisoners,3,3.5
+140769,puella magi madoka magica the movie part i: beginnings,3,3.5
+83558,on the occasion of remembering the turning gate,3,5.0
+140816,tangerine,3,4.0
+85774,senna,3,5.0
+482,killing zoe,3,4.5
+4969,and then there were none,3,3.0
+202101,stuber,3,1.0
+95237,detention,3,5.0
+55768,bee movie,3,2.67
+7008,last tango in paris,3,3.5
+107827,swing,3,3.0
+3970,"beyond, the",3,4.0
+55805,before the devil knows you're dead,3,5.0
+3129,sweet and lowdown,3,4.5
+2841,stir of echoes,3,5.0
+143209,tremors 5: bloodline,3,4.5
+65225,zeitgeist: addendum,3,5.0
+215623,mortal kombat legends: scorpion’s revenge,3,4.0
+27911,howard zinn: you can't be neutral on a moving train,3,4.0
+51575,wild hogs,3,5.0
+214776,extraction,3,5.0
+5119,saturday night and sunday morning,3,4.5
+109203,"story of ruth, the",3,3.0
+186005,book club,3,1.5
+214376,hasse & tage - en kärlekshistoria,3,4.5
+199776,opera no. 1,3,2.5
+199580,maiden,3,3.5
+1305,"paris, texas",3,3.67
+95558,beasts of the southern wild,3,5.0
+146884,i basilischi,3,3.5
+109720,contracted,3,0.5
+109853,barefoot,3,3.5
+148172,the 5th wave,3,2.0
+185987,the rider,3,4.5
+214366,kalabaliken i bender,3,3.5
+149830,pride and prejudice and zombies,3,4.0
+110453,draft day,3,4.0
+288059,zlatan in the slopes,3,3.5
+5530,simone,3,3.5
+192227,dansa först,3,3.5
+56715,wristcutters: a love story,3,5.0
+152017,me before you,3,4.17
+89490,straw dogs,3,2.5
+2763,"thomas crown affair, the",3,3.83
+1641,"full monty, the",3,4.67
+52241,"lookout, the",3,2.5
+3868,"naked gun: from the files of police squad!, the",3,4.5
+214062,guilty bystander,3,3.5
+86345,louis c.k.: hilarious,3,4.5
+154898,dream work,3,0.5
+286107,renfield,3,4.0
+48543,antibodies,3,4.0
+2060,baseketball,3,2.5
+56801,avpr: aliens vs. predator - requiem,3,2.0
+196175,welcome to marwen,3,4.0
+47503,2:37,3,4.0
+222593,death on the nile,3,2.5
+5444,lilo & stitch,3,4.5
+52572,"mackintosh man, the",3,3.0
+2672,"thirteenth floor, the",3,3.5
+2664,invasion of the body snatchers,3,5.0
+112733,jonestown: paradise lost,3,4.0
+157186,veloce come il vento,3,4.0
+1013,"parent trap, the",3,5.0
+1029,dumbo,3,2.5
+86781,incendies,3,2.83
+194927,an evening with beverly luff linn,3,5.0
+212883,swallow,3,3.5
+63,don't be a menace to south central while drinking your juice in the hood,3,3.0
+113696,are you here,3,0.5
+194762,the clovehitch killer,3,4.0
+194729,the oath,3,4.5
+7028,quick change,3,3.5
+52604,fracture,3,5.0
+159690,teenage mutant ninja turtles: out of the shadows,3,1.5
+113780,"as above, so below",3,3.0
+52606,big nothing,3,4.0
+57873,dark angel,3,5.0
+194016,ralph breaks the internet,3,3.5
+222561,chemical hearts,3,4.0
+160992,aloys,3,2.5
+5364,unfaithful,3,5.0
+2614,chopping mall,3,3.0
+276087,vengeance,3,4.5
+161908,plum blossom,3,5.0
+27329,paradise lost 2: revelations,3,4.0
+193589,boy erased,3,3.5
+279414,black panther: wakanda forever,3,4.0
+587,ghost,3,3.83
+162414,moonlight,3,5.0
+181169,untold scandal,3,4.5
+114678,hector and the search for happiness,3,4.5
+7000,hudson hawk,3,3.5
+97188,sinister,3,2.83
+163390,chasing great,3,3.5
+1060,swingers,3,3.67
+1348,nosferatu,3,4.0
+3087,scrooged,3,2.83
+279428,significant other,3,3.5
+1927,all quiet on the western front,3,4.5
+222455,bill & ted face the music,3,4.0
+193357,gnomes,3,4.0
+6975,funny games,3,3.83
+82499,how do you know,3,3.0
+166423,black's game,3,4.0
+1273,down by law,3,5.0
+211195,pan t.,3,3.5
+116161,foxcatcher,3,3.5
+290407,no one will save you,3,2.5
+6592,"secret lives of dentists, the",3,5.0
+1069,"murder, my sweet",3,4.5
+116893,trash,3,4.0
+167036,sing,3,4.0
+6953,21 grams,3,3.67
+2539,analyze this,3,4.5
+8405,hour of the wolf,3,3.0
+8266,purple rain,3,3.5
+63859,bolt,3,4.5
+6292,marion bridge,3,2.5
+188753,unfriended: dark web,3,3.0
+8507,freaks,3,4.5
+274197,lightyear,3,2.0
+275899,babysitter,3,3.5
+4654,road house,3,3.5
+8008,brigadoon,3,2.0
+117517,listen up philip,3,4.0
+2533,escape from the planet of the apes,3,4.0
+6927,"human stain, the",3,5.0
+269254,summer place wanted,3,3.0
+5169,scarlet street,3,3.5
+8607,tokyo godfathers,3,4.5
+73344,"prophet, a",3,4.67
+188681,fast film,3,3.0
+49822,"good shepherd, the",3,3.5
+90439,margin call,3,4.0
+2531,battle for the planet of the apes,3,3.5
+8675,"enemy below, the",3,4.0
+209893,a house of your dreams,3,2.5
+6559,little giants,3,3.5
+167470,george carlin: complaints & grievances,3,5.0
+2517,christine,3,5.0
+299,priest,3,3.5
+90471,puncture,3,4.0
+27420,teknolust,3,3.0
+53468,fido,3,1.83
+189577,tau,3,2.67
+260495,my little pony: a new generation,3,3.5
+188207,cold war,3,4.17
+120783,son of a gun,3,4.0
+33681,"adventures of sharkboy and lavagirl 3-d, the",3,0.5
+7846,tremors 3: back to perfection,3,4.5
+7827,cypher,3,3.5
+260445,el planeta,3,3.0
+4614,kickboxer,3,2.5
+120938,the hire: chosen,3,4.0
+230625,helmut newton: the bad and the beautiful,3,3.5
+168326,the big sick,3,3.67
+43376,sophie scholl: the final days,3,4.5
+121169,the duke of burgundy,3,5.0
+4603,her alibi,3,3.5
+121263,summer's moon,3,4.5
+4574,blind fury,3,5.0
+183589,fifty shades freed,3,4.0
+31193,"many adventures of winnie the pooh, the",3,5.0
+53592,four minutes,3,5.0
+53827,sybil,3,3.5
+4994,"majestic, the",3,3.5
+7163,paycheck,3,3.5
+86896,jewel robbery,3,3.0
+208289,richard jewell,3,3.83
+4571,bill & ted's excellent adventure,3,4.5
+7636,raising cain,3,4.0
+257591,risen,3,1.0
+6869,bus 174,3,2.0
+25904,ministry of fear,3,4.0
+90870,trespass,3,4.5
+2407,cocoon,3,4.0
+42732,last holiday,3,4.5
+207511,can we do it ourselves?,3,4.0
+230129,der boandlkramer und die ewige liebe,3,2.5
+25940,"lady from shanghai, the",3,3.83
+5544,time after time,3,4.0
+25964,scandal,3,4.5
+337,what's eating gilbert grape,3,4.5
+4488,colors,3,3.0
+2371,fletch,3,4.5
+26072,murder she said,3,3.5
+71707,love hina spring special,3,3.5
+4426,kiss me deadly,3,5.0
+353,"crow, the",3,3.0
+50442,alpha dog,3,4.0
+3360,hoosiers,3,4.0
+1283,high noon,3,4.17
+659,purple noon,3,3.5
+220528,twelve angry men,3,4.5
+125916,fifty shades of grey,3,4.0
+169028,berlin syndrome,3,4.0
+87038,hollow triumph,3,4.0
+31973,germany year zero,3,3.0
+6126,veronika voss,3,4.0
+7460,coffee and cigarettes,3,4.67
+6780,"brief history of time, a",2,5.0
+3978,"legend of bagger vance, the",2,3.5
+81391,eastern plays,2,4.0
+6764,"rundown, the",2,4.0
+169842,the shack,2,2.0
+47261,"night listener, the",2,2.0
+1374,star trek ii: the wrath of khan,2,4.25
+81817,carlos,2,4.5
+7505,"kingdom, the",2,3.5
+6739,at war with the army,2,3.5
+1372,star trek vi: the undiscovered country,2,4.0
+82143,alone in the wilderness,2,3.5
+241960,moxie,2,5.0
+7265,"dreamers, the",2,4.0
+83163,princess aurora,2,4.5
+3832,black sabbath,2,3.5
+83619,just like me,2,3.5
+31672,"blade, the",2,3.0
+170289,species iii,2,2.0
+84450,tale of cinema,2,5.0
+241314,clapboard jungle,2,2.0
+427,boxing helena,2,3.0
+85020,"mechanic, the",2,5.0
+4789,phantom of the paradise,2,4.0
+237234,you’re always 20,2,3.0
+3727,near dark,2,3.0
+236115,slalom,2,3.5
+1093,"doors, the",2,4.5
+235317,the battle of the sexes,2,3.5
+3708,firestarter,2,3.5
+42385,yamakasi - les samouraïs des temps modernes,2,4.0
+26336,"adventure of sherlock holmes' smarter brother, the",2,1.5
+86898,"tree of life, the",2,2.0
+6666,"discreet charm of the bourgeoisie, the",2,3.0
+87270,"other woman, the",2,4.0
+3622,"twelve chairs, the",2,3.5
+6665,dracula,2,3.0
+233071,concrete plans,2,2.5
+7075,"court jester, the",2,5.0
+3587,inferno,2,4.0
+3581,human traffic,2,2.0
+287591,you hurt my feelings,2,3.0
+3531,all the vermeers in new york,2,2.0
+183361,nadja à paris,2,2.5
+3508,"outlaw josey wales, the",2,4.5
+231855,cold meridian,2,2.5
+231471,dear comrades,2,3.5
+170927,another evil,2,3.5
+1756,"prophecy ii, the",2,3.5
+231159,the pleasure of love in iran,2,3.0
+231157,"you've got beautiful stairs, you know...",2,3.0
+27192,"prophecy 3: the ascent, the",2,2.5
+230277,cracker,2,4.0
+230039,the christmas chronicles: part two,2,3.0
+3347,never cry wolf,2,3.5
+37382,domino,2,2.0
+32460,knockin' on heaven's door,2,5.0
+4839,death ship,2,2.5
+226758,the witches,2,2.0
+92719,tim and eric's billion dollar movie,2,1.0
+275243,elvis,2,3.5
+49007,arabesque,2,4.0
+226680,shadow in the cloud,2,3.0
+32657,"man who planted trees, the",2,5.0
+226612,medan porten var stängd,2,4.0
+226548,empire of lust,2,4.5
+3243,encino man,2,4.0
+49276,let's go to prison,2,2.0
+287425,the other fellow,2,3.5
+225762,the woman who ran,2,3.0
+95105,madagascar 3: europe's most wanted,2,3.5
+3133,go west,2,3.0
+95602,once upon a time in phuket,2,0.5
+1701,deconstructing harry,2,5.0
+224665,tove,2,3.0
+49280,bobby,2,3.75
+224052,wolfwalkers,2,4.5
+4978,lantana,2,4.5
+3094,maurice,2,4.0
+96829,"hunt, the",2,4.5
+97913,wreck-it ralph,2,4.0
+7234,"strada, la",2,5.0
+3061,holiday inn,2,3.5
+98361,byzantium,2,3.0
+98585,hitchcock,2,3.5
+3039,trading places,2,3.5
+500,mrs. doubtfire,2,3.5
+180205,dracula,2,3.5
+1339,dracula,2,4.0
+220540,the silencing,2,1.0
+1150,"return of martin guerre, the",2,4.0
+50541,dinner for one,2,3.5
+173255,"norm macdonald: hitler's dog, gossip & trickery",2,4.0
+1176,"double life of veronique, the",2,4.5
+101285,spring breakers,2,4.0
+101895,42,2,4.0
+220398,tale of people from here,2,2.0
+1370,die hard 2,2,2.75
+173771,mclaren,2,3.5
+102686,"hangover part iii, the",2,2.5
+509,"piano, the",2,2.75
+41712,"room for romeo brass, a",2,4.0
+6408,animals are beautiful people,2,4.5
+219669,jim jefferies: intolerant,2,3.0
+219490,the amaranth,2,3.5
+103867,night train to lisbon,2,2.5
+2939,niagara,2,4.25
+104218,grown ups 2,2,3.5
+218991,superman: man of tomorrow,2,1.0
+7219,they drive by night,2,3.5
+104441,"frozen ground, the",2,4.0
+69304,imagine that,2,5.0
+2931,time of the gypsies,2,4.5
+2921,high plains drifter,2,4.25
+6380,capturing the friedmans,2,3.0
+39292,"good night, and good luck.",2,3.75
+51545,pusher iii: i'm the angel of death,2,3.5
+519,robocop 3,2,2.5
+107354,good ol' freda,2,4.0
+107700,i am divine,2,4.5
+107702,grudge match,2,3.5
+2862,caligula,2,5.0
+216294,with closed windows,2,4.0
+215761,destination hitchcock: the making of 'north by northwest',2,3.5
+27618,"sound of thunder, a",2,2.5
+2765,"acid house, the",2,3.5
+110591,oculus,2,5.0
+214338,palmegruppen goes for a very long lunch,2,2.5
+6308,legal eagles,2,4.0
+213585,the way back,2,3.5
+111852,generation iron,2,3.5
+2734,"mosquito coast, the",2,3.0
+520,robin hood: men in tights,2,4.0
+553,tombstone,2,3.0
+62764,black moon,2,2.5
+113033,rasmus på luffen,2,3.5
+585,"brady bunch movie, the",2,3.0
+174815,the house,2,3.5
+5463,reign of fire,2,3.5
+27674,11:14,2,4.0
+211510,ronny chieng: asian comedian destroys america!,2,3.0
+115463,"dance party, usa",2,2.5
+288861,they cloned tyrone,2,2.0
+210877,super size me 2: holy chicken!,2,4.0
+210859,run,2,2.5
+210851,emma,2,4.5
+117438,when marnie was there,2,4.0
+210235,corpus christi,2,3.5
+6254,"awful truth, the",2,4.5
+118880,"girl walks home alone at night, a",2,3.5
+53349,ten canoes,2,4.0
+209193,marriage is a crazy thing,2,4.5
+2469,peggy sue got married,2,3.0
+120946,the hire: hostage,2,4.0
+7580,"man in the gray flannel suit, the",2,5.0
+1623,wishmaster,2,4.0
+653,dragonheart,2,3.5
+6185,dark blue,2,3.25
+2373,red sonja,2,1.5
+188023,garde alternée,2,0.5
+276441,toc toc,2,4.5
+207273,the collini case,2,2.5
+6140,tenebre,2,4.5
+1608,air force one,2,4.0
+126927,the heart of the world,2,3.5
+1597,conspiracy theory,2,4.5
+207243,deon cole: cole hearted,2,5.0
+116,anne frank remembered,2,4.5
+2357,central station,2,2.75
+183151,anna and the apocalypse,2,4.5
+2355,"bug's life, a",2,4.0
+129317,one on top of the other,2,2.5
+176081,the twin swords,2,2.0
+129659,"mcfarland, usa",2,3.0
+37720,"exorcism of emily rose, the",2,3.5
+2342,hard core logo,2,4.0
+176349,bad genius,2,4.5
+62203,martyrs,2,3.0
+2333,gods and monsters,2,3.5
+269828,hatching,2,3.5
+180451,sicilian ghost story,2,2.5
+132404,vita frun,2,3.0
+132430,man from reno,2,4.0
+7158,house of sand and fog,2,5.0
+27724,hitler: the rise of evil,2,4.5
+133505,everything for sale,2,5.0
+34111,"god who wasn't there, the",2,4.5
+6001,"king of comedy, the",2,4.5
+135137,pixels,2,1.75
+55052,atonement,2,4.0
+2269,indecent proposal,2,2.5
+5495,modesty blaise,2,1.0
+136018,black mass,2,4.0
+180869,fps: first person shooter,2,3.5
+2207,jamaica inn,2,3.5
+55232,resident evil: extinction,2,3.5
+205048,21 bridges,2,1.5
+177287,little evil,2,2.25
+139747,before we go,2,4.0
+204558,the red sea diving resort,2,3.5
+288061,acrimonius alfie atkins,2,3.0
+2143,legend,2,2.5
+140928,joy,2,3.5
+55626,gemini,2,3.5
+203160,the last black man in san francisco,2,3.0
+65802,paul blart: mall cop,2,5.0
+141956,contracted: phase ii,2,1.0
+142452,puella magi madoka magica the movie part ii: eternal,2,3.5
+905,it happened one night,2,3.25
+906,gaslight,2,4.0
+186447,the sweet sex and love,2,4.0
+56022,harrison bergeron,2,4.5
+933,to catch a thief,2,3.5
+186339,prodigy,2,1.5
+7010,"lover, the",2,3.0
+56152,enchanted,2,3.5
+64997,war of the worlds,2,2.0
+199426,the endless film,2,2.0
+185989,truth or dare,2,4.0
+198745,bed and sofa,2,3.5
+147831,anthony jeselnik: thoughts and prayers,2,3.5
+149780,love now,2,4.0
+150356,the rage of paris,2,4.5
+5944,star trek: nemesis,2,4.0
+185385,midnight sun,2,1.0
+198143,then came you,2,4.5
+64930,"more the merrier, the",2,3.5
+60943,frozen river,2,4.0
+152151,cannibal,2,3.5
+197207,arctic,2,4.0
+181075,the man who invented christmas,2,3.5
+56788,charlie wilson's war,2,4.0
+185039,roller coaster rabbit,2,2.5
+155018,emelie,2,3.0
+7149,something's gotta give,2,3.5
+195823,the christmas chronicles,2,3.0
+7345,agent cody banks 2: destination london,2,4.0
+156581,stutterer,2,4.0
+156605,paterson,2,4.0
+56931,"mission, the",2,4.5
+195343,rampant,2,3.5
+157318,perfect strangers,2,4.0
+36519,transporter 2,2,5.0
+2054,"honey, i shrunk the kids",2,3.0
+57648,"green man, the",2,3.5
+26283,charley varrick,2,5.0
+57776,cazuza - o tempo não pára,2,2.5
+160980,sully,2,2.5
+58107,step up 2 the streets,2,3.0
+1054,get on the bus,2,4.0
+193779,we have always lived in the castle,2,2.5
+1962,driving miss daisy,2,3.5
+1950,in the heat of the night,2,4.0
+162870,irreplaceable,2,2.5
+178477,on the beach at night alone,2,4.0
+287831,the makes,2,3.0
+182439,the lord of the g-strings: the femaleship of the string,2,3.0
+1255,bad taste,2,0.5
+165947,the true memoirs of an international assassin,2,1.5
+40278,jarhead,2,2.0
+179139,man divided,2,4.0
+192997,border,2,4.0
+166653,michael che matters,2,3.5
+166755,hacker,2,3.5
+8372,garfield: the movie,2,3.5
+8493,memphis belle,2,5.0
+4673,tango & cash,2,3.0
+8512,silent movie,2,3.0
+8516,"matter of life and death, a",2,3.0
+7991,death race 2000,2,3.5
+8542,"day at the races, a",2,3.5
+72919,did you hear about the morgans?,2,3.0
+4623,major league,2,4.5
+167248,kedi,2,3.0
+26630,moonwalker,2,2.0
+7932,dark days,2,5.0
+261239,rapture,2,3.5
+260929,dave chappelle: the closer,2,3.5
+73587,soul kitchen,2,3.5
+5679,"ring, the",2,4.0
+73808,"chaser, the",2,4.5
+8767,"big clock, the",2,3.25
+1376,star trek iv: the voyage home,2,3.0
+8771,sherlock holmes: terror by night,2,3.0
+7926,high and low,2,4.0
+7924,stray dog,2,4.0
+1894,six days seven nights,2,3.5
+259665,belfast,2,3.5
+192489,skate kitchen,2,3.5
+258307,news from ideological antiquity: marx/eisenstein/the capital,2,0.5
+43971,trauma,2,3.5
+8978,christmas with the kranks,2,5.0
+258001,beyond the infinite two minutes,2,4.5
+6873,intolerable cruelty,2,3.5
+9011,portrait of jennie,2,3.5
+36883,"jour se lève, le",2,3.0
+25750,sherlock jr.,2,4.5
+6858,knife in the water,2,4.25
+4519,"land before time, the",2,4.0
+168610,a ghost story,2,3.5
+4496,d.o.a.,2,3.5
+253976,reminiscence,2,4.5
+71902,spread,2,3.5
+26117,"killers, the",2,3.5
+26139,in harm's way,2,4.0
+1079,"fish called wanda, a",2,4.0
+355,"flintstones, the",2,2.5
+4406,"man who shot liberty valance, the",2,4.0
+4391,"vertical ray of the sun, the",2,5.0
+27005,"interview, the",2,3.0
+250764,the girl and the spider,2,5.0
+45062,"sentinel, the",2,2.5
+31263,torremolinos 73,2,3.0
+4275,krull,2,4.0
+169326,frankie boyle: hurt like you've never been loved,2,4.5
+250546,friends: the reunion,2,3.5
+249540,cruella,2,2.0
+31270,shivers,2,2.5
+46201,bob the butler,2,3.0
+78993,waiting women,2,3.0
+4151,"taste of others, the",2,5.0
+46322,jet li's fearless,2,5.0
+79505,north,2,3.5
+6830,sudden fear,2,4.5
+39659,teorema,2,3.5
+7286,simple men,2,4.0
+42723,hostel,2,1.0
+246304,cuatro paredes,2,2.5
+246032,the die is cast,2,2.5
+4020,"gift, the",2,3.0
+42718,district 13,2,4.0
+271927,unloved,2,3.5
+46965,snakes on a plane,2,1.5
+382,wolf,2,4.0
+192285,birds of passage,2,3.5
+31422,are we there yet?,2,5.0
+6800,cobra,2,2.0
+9,sudden death,2,3.0
+12,dracula: dead and loving it,2,1.0
+18,four rooms,2,3.5
+157,canadian bacon,2,3.0
+199,"umbrellas of cherbourg, the",2,4.0
+282,nell,2,3.5
+429,cabin boy,2,4.0
+529,searching for bobby fischer,2,4.0
+665,underground,2,4.5
+798,daylight,2,4.0
+838,emma,2,4.5
+1111,microcosmos,2,5.0
+1131,jean de florette,2,4.0
+1132,manon of the spring,2,4.0
+1164,2 ou 3 choses que je sais d'elle,2,2.5
+1230,annie hall,2,2.75
+1269,arsenic and old lace,2,3.5
+1333,"birds, the",2,2.5
+1357,shine,2,4.75
+1378,young guns,2,4.0
+1385,under siege,2,2.0
+1391,mars attacks!,2,2.0
+1476,private parts,2,3.5
+1674,witness,2,3.0
+1688,anastasia,2,4.0
+1726,"postman, the",2,3.0
+1785,king of new york,2,3.5
+1791,twilight,2,3.5
+1858,mr. nice guy,2,2.0
+1993,child's play 3,2,3.0
+2020,dangerous liaisons,2,4.5
+2096,sleeping beauty,2,3.0
+2178,frenzy,2,3.5
+2208,"lady vanishes, the",2,5.0
+2211,secret agent,2,3.5
+2316,practical magic,2,1.5
+2414,young sherlock holmes,2,3.0
+2478,¡three amigos!,2,3.0
+2485,she's all that,2,4.5
+2606,idle hands,2,2.0
+2670,run silent run deep,2,3.0
+2848,othello,2,3.0
+2880,armour of god,2,3.5
+2948,from russia with love,2,3.5
+3054,pokémon: the first movie,2,2.0
+3201,five easy pieces,2,2.0
+3317,wonder boys,2,3.5
+3422,she's gotta have it,2,3.0
+3430,death wish,2,3.0
+3479,ladyhawke,2,3.5
+3617,road trip,2,3.0
+3707,9 1/2 weeks,2,4.0
+3769,thunderbolt and lightfoot,2,3.0
+3791,footloose,2,3.0
+3826,hollow man,2,2.0
+3925,stranger than paradise,2,4.5
+3965,"strange love of martha ivers, the",2,3.25
+3979,little nicky,2,0.5
+4030,dracula 2000,2,2.5
+4176,madadayo,2,5.0
+4340,"animal, the",2,3.0
+4343,evolution,2,3.0
+4410,something wild,2,4.0
+4454,more,2,4.5
+4508,gorillas in the mist,2,4.75
+4640,brother,2,4.5
+4752,maniac,2,5.0
+4798,indiscreet,2,3.0
+5054,brainstorm,2,5.0
+5055,dragon: the bruce lee story,2,4.0
+5168,royal wedding,2,3.5
+5269,"piano teacher, the",2,5.0
+5283,national lampoon's van wilder,2,4.0
+5373,"cranes are flying, the",2,5.0
+5379,"believer, the",2,4.0
+5425,dark blue world,2,3.5
+5528,one hour photo,2,3.5
+5602,"ladykillers, the",2,1.0
+5609,ballistic: ecks vs. sever,2,0.5
+5792,roger dodger,2,4.0
+5812,far from heaven,2,2.0
+5832,left behind ii: tribulation force,2,4.0
+5891,i spit on your grave,2,4.5
+5980,black christmas,2,5.0
+6182,"thrill of it all, the",2,3.5
+6338,daddy day care,2,3.5
+6460,"trial, the",2,4.0
+6533,"what's up, doc?",2,4.5
+6620,american splendor,2,5.0
+6669,ikiru,2,4.0
+6888,scary movie 3,2,2.0
+6995,hercules in new york,2,3.5
+7004,kindergarten cop,2,3.25
+7017,passenger 57,2,4.0
+7115,deep red,2,4.5
+7116,diabolique,2,4.0
+7305,black widow,2,3.5
+7367,"ladykillers, the",2,2.5
+7373,hellboy,2,4.0
+7581,"fountainhead, the",2,2.5
+7748,pierrot le fou,2,3.0
+7782,sniper,2,3.0
+8666,catwoman,2,5.0
+8838,alice doesn't live here anymore,2,2.0
+8861,resident evil: apocalypse,2,3.5
+25788,scarface,2,4.0
+25855,"roaring twenties, the",2,3.25
+26090,"easy life, the",2,4.0
+26094,"eclisse, l'",2,3.0
+26134,dracula: prince of darkness,2,4.0
+26151,au hasard balthazar,2,1.5
+26391,"new york, new york",2,3.0
+26520,full moon in paris,2,3.5
+26629,killer klowns from outer space,2,5.0
+26875,"pure formality, a",2,4.0
+27704,battle royale 2: requiem,2,1.0
+30701,chimes at midnight,2,2.5
+30712,"narrow margin, the",2,3.5
+33162,kingdom of heaven,2,3.5
+33672,lords of dogtown,2,4.0
+33861,danger: diabolik,2,3.0
+33880,me and you and everyone we know,2,4.5
+33896,3 extremes,2,3.0
+34534,four brothers,2,5.0
+34536,the great raid,2,4.5
+37729,corpse bride,2,2.0
+40412,dead man's shoes,2,3.5
+40581,just friends,2,3.0
+40586,calamari union,2,3.0
+42015,casanova,2,3.5
+42725,grandma's boy,2,4.0
+44004,failure to launch,2,5.0
+44421,"personal journey with martin scorsese through american movies, a",2,3.5
+44763,"brothers lionheart, the",2,4.0
+45730,lady in the water,2,2.5
+45891,lady in the lake,2,4.0
+48997,perfume: the story of a murderer,2,2.0
+50798,epic movie,2,1.75
+53894,sicko,2,4.5
+55080,"brave one, the",2,5.0
+55094,in the valley of elah,2,4.0
+55705,secret sunshine,2,4.5
+58432,what just happened,2,2.5
+59103,"forbidden kingdom, the",2,4.5
+60397,mamma mia!,2,4.0
+60937,"mummy: tomb of the dragon emperor, the",2,2.5
+64278,"pervert's guide to cinema, the",2,4.0
+64522,patterns,2,3.0
+65133,blackadder back & forth,2,3.5
+67424,counter investigation,2,2.5
+68168,"strategy of the snail, the",2,4.5
+70728,bronson,2,3.0
+70862,it might get loud,2,4.0
+71325,love happens,2,1.5
+71462,"cove, the",2,4.0
+71745,where the wild things are,2,3.0
+73266,youth in revolt,2,2.5
+74944,brooklyn's finest,2,4.0
+76210,defendor,2,3.0
+77479,letting go of god,2,5.0
+77721,deathdream,2,2.0
+79006,empire of dreams: the story of the 'star wars' trilogy,2,4.0
+79139,"sorcerer's apprentice, the",2,3.0
+79720,animal kingdom,2,3.0
+81641,fair game,2,5.0
+82202,"tourist, the",2,4.5
+83540,"silence of the sea, the",2,3.0
+84189,i spit on your grave,2,4.5
+84613,sanctum,2,3.5
+85763,beneath hill 60,2,3.5
+85997,skeleton man,2,1.0
+86380,pushover,2,4.0
+86817,something borrowed,2,0.5
+86892,the man from nowhere,2,4.0
+87192,attack the block,2,3.75
+89118,"skin i live in, the",2,2.5
+89961,play,2,4.0
+90522,johnny english reborn,2,5.0
+91978,man on a ledge,2,3.5
+92422,"woman in black, the",2,5.0
+93805,iron sky,2,3.5
+95761,killer joe,2,3.5
+96488,searching for sugar man,2,2.0
+96832,holy motors,2,3.0
+96911,"royal affair, a",2,3.5
+97225,hotel transylvania,2,3.5
+97328,liberal arts,2,3.5
+98002,"madrid, 1987",2,5.0
+100108,parker,2,4.0
+101525,"place beyond the pines, the",2,4.0
+103271,sign 'o' the times,2,3.5
+103549,what's in a name,2,5.0
+103816,"battery, the",2,2.0
+104863,what if,2,4.0
+105355,blue is the warmest color,2,4.0
+106785,homefront,2,2.0
+107675,vendetta,2,3.5
+107883,the lunchbox,2,4.0
+109578,non-stop,2,5.0
+110130,"nut job, the",2,4.0
+112582,life itself,2,3.0
+113315,zero motivation,2,3.5
+113604,if i stay,2,3.5
+114044,honeymoon,2,4.0
+114552,"boxtrolls, the",2,3.5
+115414,left behind,2,1.0
+115703,"the hire: star, the",2,5.0
+116887,exodus: gods and kings,2,3.5
+116969,paths of hate,2,3.0
+118204,mcconkey,2,4.0
+118908,jack the ripper,2,3.5
+119141,the interview,2,5.0
+120635,taken 3,2,0.5
+120775,night train,2,3.5
+121013,the body of my enemy,2,3.5
+121129,the hungover games,2,2.0
+126753,the girls,2,3.5
+127116,experimenter,2,4.0
+127134,a walk in the woods,2,4.5
+127250,last chance,2,1.0
+127565,lost river,2,4.0
+130034,stand by me doraemon,2,4.0
+132157,paul blart: mall cop 2,2,0.5
+133645,carol,2,3.0
+135166,curfew,2,4.5
+135532,the last witch hunter,2,3.5
+136598,vacation,2,5.0
+142222,demolition,2,5.0
+142450,puella magi madoka magica the movie part iii: rebellion,2,3.0
+142721,the rite,2,3.5
+143237,freeheld,2,4.0
+144258,tazza: the high rollers,2,4.0
+148282,call me claus,2,3.5
+149218,"totò, peppino e i fuorilegge",2,4.5
+149354,sisters,2,2.5
+151695,the survivalist,2,5.0
+158872,sausage party,2,1.0
+160690,jeremiah,2,3.5
+160892,"right now, wrong then",2,5.0
+161626,happy end,2,4.0
+161966,elle,2,4.0
+162590,bridget jones's baby,2,5.0
+162842,david brent: life on the road,2,4.0
+163510,the happiest day in the life of olli mäki,2,3.0
+164137,my girl,2,3.5
+164449,teens in the universe,2,4.0
+164596,voyage to the sky,2,3.5
+165605,the head vanishes,2,4.0
+166777,the greasy strangler,2,5.0
+167642,beyond the edge,2,3.5
+167792,"what's opera, doc?",2,5.0
+168060,rings,2,2.0
+168330,i don't feel at home in this world anymore,2,4.5
+169164,song to song,2,4.0
+171295,doug stanhope: deadbeat hero,2,4.0
+171437,quo vadis,2,3.0
+173197,the square,2,5.0
+173241,becoming bond,2,4.0
+175603,anti matter,2,3.5
+175673,the life and death of john gotti,2,3.0
+176083,golden swallow,2,3.0
+177261,jackals,2,2.5
+178735,jeff dunham: relative disaster,2,3.0
+178891,when the cat comes,2,3.5
+180293,the damned don't cry,2,3.5
+182475,the ballad of lefty brown,2,4.0
+183499,promise at dawn,2,3.5
+184009,the cured,2,3.5
+184517,national parks adventures,2,4.0
+185013,the place,2,3.5
+185109,disobedience,2,4.0
+186311,the guernsey literary and potato peel pie society,2,3.5
+187129,"good bye, till tomorrow",2,4.5
+189381,superfly,2,4.0
+190105,my other husband,2,3.0
+191739,a man and a woman,2,4.0
+192375,elizabeth harvest,2,3.0
+194722,look away,2,3.0
+196191,nothing to hide,2,4.5
+196381,leprechaun returns,2,1.0
+196511,springsteen on broadway,2,3.5
+197689,polar,2,3.5
+199223,pet sematary,2,2.5
+199307,greta,2,4.5
+200256,dumbo,2,2.5
+200326,little,2,0.5
+201008,i'm just f*cking with you,2,3.5
+201236,rosaura at 10 o'clock,2,3.5
+202325,the whistlers,2,3.0
+202519,child's play,2,3.5
+204790,michael jackson: searching for neverland,2,3.5
+206309,film study,2,1.5
+206511,silvia prieto,2,3.5
+207461,shakti,2,2.5
+207678,the wolf house,2,3.0
+208108,dark waters,2,4.5
+210577,sonic the hedgehog,2,3.5
+214284,hängivelse,2,2.5
+214462,the apple war,2,4.0
+217146,the lovebirds,2,1.5
+218613,doraemon: nobita and the new steel troops: ~winged angels~,2,4.0
+221244,kajillionaire,2,3.0
+224222,aalto - architect of emotions,2,3.5
+224721,there is no evil,2,3.0
+225984,another round,2,4.0
+229721,brave blue world: racing to solve our water crisis,2,4.0
+237232,the night train,2,3.0
+241780,crisis,2,4.0
+245812,thunder force,2,0.5
+246480,separation,2,0.5
+258691,mortal kombat legends: battle of the realms,2,4.0
+259249,i and the stupid boy,2,2.5
+261241,turbulent,2,3.5
+262129,petite maman,2,4.0
+268916,the turk shop,2,3.5
+268918,ghetto swedish,2,3.0
+269786,navalny,2,1.25
+271631,metal lords,2,3.5
+275463,norm macdonald: nothing special,2,3.5
+276047,where the crawdads sing,2,1.0
+280030,skandal! bringing down wirecard,2,3.0
+280036,sophia loren,2,3.0
+280208,the invisible,2,4.0
+281062,"big data, big brother",2,3.0
+281328,judgement,2,2.5
+281556,god's crooked lines,2,4.5
+281974,when darkness falls,2,3.0
+282125,ant-man and the wasp: quantumania,2,3.5
+282893,elvakaffe,2,3.5
+284747,chris rock: selective outrage,2,3.5
+285785,lena,2,3.0
+287443,indiana jones: the search for the lost golden age,2,3.0
+288529,the last voyage of the demeter,2,3.5
+289985,abc book,2,2.0
+121093,the crooked way,1,3.5
+116957,the reunion,1,4.0
+115921,dead in tombstone,1,2.5
+115040,"children of noisy village, the",1,3.5
+113889,angry video game nerd: the movie,1,3.5
+112940,a most wanted man,1,2.5
+112689,miss violence,1,4.0
+183495,golden time,1,2.0
+112550,white god,1,3.0
+1344,cape fear,1,4.0
+110134,belle and sebastien,1,4.5
+108188,jack ryan: shadow recruit,1,3.0
+106452,ida,1,2.5
+105769,"congress, the",1,2.5
+104685,"suicide shop, the ",1,3.0
+1297,real genius,1,5.0
+103665,ip man: the final fight,1,2.0
+102986,rapado,1,3.0
+102481,"internship, the",1,4.0
+184315,hellraiser: judgment,1,4.0
+1296,"room with a view, a",1,4.0
+101741,trance,1,3.0
+101068,"solitude of prime numbers, the",1,3.0
+100081,bad luck,1,3.5
+99064,"red shoes, the",1,3.5
+1282,fantasia,1,3.0
+95197,bel ami,1,3.5
+1256,duck soup,1,5.0
+94931,take this waltz,1,4.5
+92118,"terrorizers, the",1,3.5
+91697,pitfall,1,3.5
+91513,intimate lighting,1,3.5
+90345,"thing, the",1,2.5
+185729,tattoo,1,3.5
+278966,muru,1,1.0
+89343,red state,1,3.5
+88380,dylan dog: dead of night,1,5.0
+186983,three identical strangers,1,2.0
+88135,"kind of loving, a",1,3.5
+187051,transit ,1,4.0
+87194,the way,1,5.0
+187121,damen i svart,1,4.0
+86922,nothing to declare,1,4.0
+279000,jeepers creepers: reborn,1,2.5
+187137,pilkarski poker,1,3.5
+187139,the teacher,1,3.5
+86762,attenberg,1,3.5
+86206,dark city,1,3.0
+86000,boy,1,3.0
+84844,brother 2,1,5.0
+82167,love and other drugs,1,3.5
+188067,toc toc,1,3.5
+81072,konopielka,1,3.5
+80864,you will meet a tall dark stranger,1,3.5
+80097,mother joan of the angels,1,3.5
+79525,human desire,1,3.5
+76108,tom and jerry: the movie,1,2.5
+74731,eden log,1,5.0
+74688,dear john,1,1.5
+74434,"wounds, the",1,4.5
+73572,"my son, my son, what have ye done",1,3.0
+1231,"right stuff, the",1,2.5
+73117,marriage italian style,1,3.0
+73015,it's complicated,1,4.0
+72737,"princess and the frog, the",1,3.5
+71976,"tiger of eschnapur, the",1,2.5
+71027,"good marriage, a",1,3.0
+70015,polytechnique,1,4.0
+69644,ice age: dawn of the dinosaurs,1,5.0
+69559,"file on thelma jordan, the",1,3.5
+279594,luckiest girl alive,1,2.5
+190349,"juliet, naked",1,2.5
+69489,how i unleashed world war ii,1,4.5
+68941,"last house on the left, the",1,5.0
+68919,suzanne's career,1,3.0
+191143,the trial,1,2.5
+191233,i fine..thank you..love you,1,3.0
+68205,crank: high voltage,1,5.0
+66947,two men in manhattan,1,3.0
+65907,game over,1,1.0
+65868,repo! the genetic opera,1,3.5
+65263,high and dizzy,1,3.0
+1223,"grand day out with wallace and gromit, a",1,4.0
+64575,doubt,1,4.0
+62718,"angus, thongs and perfect snogging",1,5.0
+62153,look back in anger,1,3.0
+60990,"end of summer, the",1,4.5
+60599,flakes,1,4.0
+59725,sex and the city,1,4.5
+292057,complicity,1,2.0
+59369,taken,1,5.0
+59116,virgin territory,1,3.5
+58162,run fatboy run,1,3.0
+57421,hatchet,1,2.5
+56015,kansas city confidential,1,3.5
+55577,saw iv,1,2.0
+54196,brand upon the brain!,1,3.5
+52668,in the land of women,1,3.0
+52462,aqua teen hunger force colon movie film for theaters,1,2.5
+51354,emil i lönneberga,1,2.5
+51084,music and lyrics,1,3.5
+51077,ghost rider,1,5.0
+50806,norbit,1,2.5
+193942,instant family,1,4.0
+50794,smokin' aces,1,2.5
+194308,ride,1,1.5
+50253,david and bathsheba,1,3.5
+194620,x&y,1,2.5
+49910,freedom writers,1,3.5
+287605,the film might be white,1,3.0
+49649,eragon,1,4.0
+48851,spies,1,4.0
+48678,feast,1,3.5
+48242,mondo topless,1,3.0
+195479,9 fingers,1,2.0
+195645,something useful,1,3.5
+47952,"covenant, the",1,3.5
+1178,paths of glory,1,5.0
+196223,hellboy,1,1.5
+1153,raw deal,1,3.0
+47117,tears of the black tiger,1,3.5
+287607,the potemkinists,1,3.0
+46948,monster house,1,2.5
+196747,where is the third king?,1,3.5
+196769,incident by a bank,1,3.5
+196885,sportowiec mimo woli,1,3.0
+45224,secret beyond the door,1,3.5
+45210,united 93,1,4.5
+44397,"hills have eyes, the",1,1.0
+43928,ultraviolet,1,3.0
+43022,hellraiser: hellseeker,1,3.0
+42938,confidentially yours,1,4.0
+197491,brexit: the uncivil war,1,3.0
+42734,hoodwinked!,1,2.5
+42007,rumor has it...,1,5.0
+280350,fanny & lova steal a car,1,3.0
+41974,"ambushers, the",1,3.5
+197849,i love to singa,1,4.0
+197875,"extremely wicked, shockingly evil and vile",1,5.0
+41912,slim susie,1,3.5
+41716,"matador, the",1,4.5
+198537,a useful life,1,3.5
+198549,berlin troika,1,4.0
+41714,dona flor and her two husbands,1,2.5
+40959,"ice harvest, the",1,3.5
+40738,summer interlude,1,3.0
+40339,chicken little,1,4.0
+1152,he walked by night,1,3.5
+231,dumb & dumber,1,4.0
+1091,weekend at bernie's,1,2.5
+281190,babylon,1,3.0
+200330,troop zero,1,0.5
+39896,south central,1,3.5
+200794,asako i & ii,1,3.0
+39869,manderlay,1,3.0
+37733,"history of violence, a",1,2.5
+36276,hidden,1,2.0
+34520,"dukes of hazzard, the",1,5.0
+33834,land of the dead,1,3.0
+1041,secrets & lies,1,4.5
+33110,phantom lady,1,4.0
+154,beauty of the day,1,3.0
+32917,boccaccio '70,1,3.5
+32509,this sporting life,1,4.0
+32369,panic in the streets,1,3.5
+32298,guess who,1,2.5
+32174,"green berets, the",1,3.0
+201737,the lodge,1,2.5
+32019,be cool,1,3.0
+31963,bed & board,1,3.5
+31590,hands off the loot,1,4.0
+135,down periscope,1,3.0
+31188,"milky way, the",1,1.5
+30791,hellraiser: inferno,1,3.5
+27878,born into brothels,1,5.0
+281602,le pupille,1,4.0
+202533,game of thrones: the last watch,1,3.0
+203068,get big,1,4.5
+27876,schultze gets the blues,1,3.0
+27821,"interpreter, the",1,4.5
+203619,anima,1,3.5
+203936,zombies,1,2.5
+27808,spanglish,1,3.0
+27721,"very long engagement, a",1,5.0
+27685,bring it on again,1,5.0
+27193,taxi 2,1,4.0
+26985,nirvana,1,2.5
+26663,monsieur hire,1,4.5
+26492,twilight zone: the movie,1,5.0
+26479,"pirates of penzance, the",1,3.5
+204710,extra ordinary.,1,4.0
+1032,alice in wonderland,1,4.0
+26471,eddie murphy delirious,1,4.0
+26302,scarecrow,1,3.5
+26231,performance,1,3.5
+205287,bacurau,1,3.5
+26152,batman,1,1.5
+26131,"battle of algiers, the",1,5.0
+26085,mutiny on the bounty,1,2.5
+25993,magnificent obsession,1,2.5
+205661,maleficent: mistress of evil,1,2.5
+25930,odd man out,1,3.5
+25927,"stranger, the",1,4.0
+25923,great expectations,1,4.0
+25920,"blue dahlia, the",1,4.0
+25865,"letter, the",1,3.0
+25839,nothing sacred,1,3.5
+104,happy gilmore,1,0.5
+25793,vampyr,1,4.5
+25773,little caesar,1,3.0
+25764,"cameraman, the",1,2.5
+292033,mrs. noisy,1,3.0
+25759,october,1,3.5
+8968,after the sunset,1,3.0
+8967,seed of chucky,1,3.0
+8952,falling angels,1,4.5
+8852,lord jim,1,4.5
+972,"last time i saw paris, the",1,2.5
+207632,an officer and a spy,1,4.0
+943,"ghost and mrs. muir, the",1,4.0
+89,nick of time,1,3.0
+8836,wicker park,1,4.5
+8835,paparazzi,1,3.0
+8805,attack the gas station!,1,4.0
+8766,black angel,1,3.5
+8751,gun crazy,1,3.0
+8623,roxanne,1,4.0
+208853,at the gate of the ghost,1,4.0
+8337,"caine mutiny, the",1,2.5
+8330,our man in havana,1,3.0
+210571,fantasy island,1,0.5
+8014,"spring, summer, fall, winter... and spring",1,5.0
+282939,a short story,1,2.0
+8012,kikujiro,1,4.5
+7942,summer with monika,1,3.5
+7937,"silence, the",1,5.0
+7914,berlin: symphony of a great city,1,3.0
+7896,ride the high country,1,3.5
+7771,zorba the greek,1,5.0
+212387,the translators,1,3.5
+7388,"brother sun, sister moon",1,4.5
+212863,nimic,1,3.5
+213011,coffee to go,1,3.5
+7336,"damned, the",1,1.5
+7335,pickup on south street,1,4.0
+213934,house of hummingbird,1,4.0
+7241,kanal,1,4.0
+214006,agatha christie: the queen of crime,1,3.5
+7230,"silencers, the",1,3.0
+214282,conspiracy '58,1,3.5
+823,"collector, the",1,3.5
+818,"very brady sequel, a",1,0.5
+7217,dark passage,1,4.0
+214951,only,1,3.0
+7215,to have and have not,1,3.5
+7160,monster,1,4.0
+7135,shoot the piano player,1,4.0
+7134,"element of crime, the",1,3.0
+7112,accident,1,3.5
+7076,bullitt,1,3.0
+216531,dear dakanda,1,3.5
+216585,my friend nietzsche,1,2.5
+7042,betty blue,1,3.5
+7036,teen wolf,1,2.0
+7016,over the top,1,4.5
+216975,one day,1,3.5
+746,force of evil,1,3.0
+6948,tupac: resurrection,1,4.0
+217817,olla,1,3.5
+6947,master and commander: the far side of the world,1,5.0
+6936,elf,1,3.0
+283873,john wick: chapter 4,1,1.5
+218619,brother of the year,1,3.5
+218621,new year's gift,1,4.5
+6902,interstate 60,1,5.0
+219081,theory of achievement,1,3.0
+6863,school of rock,1,2.0
+6721,once upon a time in china,1,2.0
+219984,never like the first time!,1,3.5
+6643,tokyo story,1,4.5
+6541,"league of extraordinary gentlemen, the",1,3.5
+6438,633 squadron,1,4.0
+6370,"spanish apartment, the",1,4.5
+284187,an irish goodbye,1,2.5
+6266,what a girl wants,1,1.0
+6263,basic,1,3.0
+6241,pauline at the beach,1,4.0
+6135,still of the night,1,3.0
+6022,american me,1,4.0
+6003,confessions of a dangerous mind,1,2.5
+5945,about schmidt,1,3.5
+5888,brother,1,4.5
+223880,the marriage game,1,2.5
+5883,they,1,2.0
+5878,talk to her,1,3.5
+284189,night ride,1,4.0
+5820,standing in the shadows of motown,1,4.0
+5797,"company of wolves, the",1,4.0
+224545,american pie presents: girls' rules,1,3.5
+284191,the red suitcase,1,5.0
+5782,"professional, the",1,5.0
+5764,looker,1,3.5
+5763,lola,1,3.5
+700,angus,1,2.5
+5684,naqoyqatsi,1,4.0
+5620,sweet home alabama,1,2.5
+5572,barbershop,1,3.5
+5517,nightcap,1,4.0
+226590,in omaggio all'arte italiana!,1,1.0
+5509,biggie and tupac,1,2.0
+227096,street dreams,1,3.5
+5434,"sorry, wrong number",1,4.0
+5339,husbands and wives,1,5.0
+5325,dogtown and z-boyz,1,4.0
+5316,enigma,1,5.0
+5314,behind the sun,1,3.5
+19,ace ventura: when nature calls,1,3.0
+230713,love me tender,1,3.5
+230745,véronique and her dunce,1,3.0
+5236,"tale of springtime, a",1,3.5
+5145,loves of a blonde,1,4.5
+5105,don't look now,1,4.5
+5017,"big heat, the",1,3.5
+233911,farewell meu amor,1,3.5
+5015,monster's ball,1,1.0
+5013,gosford park,1,3.5
+4974,not another teen movie,1,0.5
+234213,flowers of taipei: taiwan new cinema,1,3.0
+234257,the dry,1,4.0
+4938,"aviator's wife, the",1,3.5
+4920,"now, voyager",1,4.0
+4914,breathless,1,3.5
+235021,exterior/night,1,3.0
+4893,when a stranger calls,1,3.0
+4889,heist,1,4.0
+285109,to catch a killer,1,4.5
+4876,thirteen ghosts,1,1.5
+4866,"last castle, the",1,4.0
+4846,iron monkey,1,3.5
+239256,prisoners of the ghostland,1,2.0
+241032,tom & jerry,1,4.0
+606,candyman: farewell to the flesh,1,4.5
+4718,american pie 2,1,3.0
+4677,turner & hooch,1,4.0
+4649,wet hot american summer,1,2.5
+4624,meet the feebles,1,0.5
+4489,coming to america,1,4.0
+4378,sexy beast,1,2.5
+4368,dr. dolittle 2,1,5.0
+4355,youngblood,1,4.5
+4333,throw momma from the train,1,3.5
+4329,rio bravo,1,5.0
+4287,paris when it sizzles,1,3.5
+534,shadowlands,1,5.0
+13,balto,1,3.5
+4142,left behind: the movie,1,3.5
+4037,house of games,1,4.0
+247638,the resort,1,1.5
+4036,shadow of the vampire,1,3.0
+4034,traffic,1,4.5
+3959,"time machine, the",1,4.5
+249292,four roads,1,3.0
+3938,"slumber party massacre, the",1,1.5
+3919,hellraiser iii: hell on earth,1,2.5
+3918,hellbound: hellraiser ii,1,3.0
+3728,one false move,1,2.5
+3682,magnum force,1,3.5
+251234,the conjuring: the devil made me do it,1,3.0
+3654,"guns of navarone, the",1,4.5
+251890,the house next door: meet the blacks 2,1,3.5
+3645,cleo from 5 to 7,1,4.0
+3638,moonraker,1,3.0
+252462,playlist,1,3.5
+3615,dinosaur,1,3.0
+3608,pee-wee's big adventure,1,0.5
+252986,the warm money,1,3.0
+3409,final destination,1,3.5
+3340,bride of the monster,1,1.0
+254178,lamb,1,5.0
+3255,"league of their own, a",1,4.5
+254388,ambition,1,3.5
+3210,fast times at ridgemont high,1,4.5
+3198,papillon,1,5.0
+3060,"commitments, the",1,3.5
+3037,little big man,1,3.0
+3034,robin hood,1,4.0
+2993,thunderball,1,3.0
+2991,live and let die,1,3.5
+2940,gilda,1,3.5
+2860,blue streak,1,2.5
+2812,in too deep,1,4.0
+522,romper stomper,1,3.0
+259023,martyrs lane,1,4.0
+2747,"little shop of horrors, the",1,3.0
+466,hot shots! part deux,1,4.0
+259525,ulysse,1,3.0
+2728,spartacus,1,4.0
+2704,"lovers on the bridge, the",1,3.5
+2612,mildred pierce,1,3.5
+2605,entrapment,1,5.0
+380,true lies,1,4.0
+2488,peeping tom,1,4.0
+261599,ljuvlig är sommarnatten,1,3.0
+2473,soul man,1,4.0
+370,naked gun 33 1/3: the final insult,1,4.5
+2423,christmas vacation,1,4.5
+262759,paranormal activity: next of kin,1,1.0
+2410,rocky iii,1,5.0
+2409,rocky ii,1,5.0
+2376,"view to a kill, a",1,3.0
+2351,nights of cabiria,1,3.5
+2300,"producers, the",1,3.5
+2221,blackmail,1,3.5
+2206,suspicion,1,3.5
+2159,henry: portrait of a serial killer,1,2.5
+2132,who's afraid of virginia woolf?,1,5.0
+267474,the lodger,1,3.5
+267660,marilyn monroe: auction of a lifetime,1,3.0
+267784,swêdî,1,2.5
+2066,out of the past,1,3.5
+2058,"negotiator, the",1,4.0
+2033,"black cauldron, the",1,4.0
+333,tommy boy,1,4.0
+319,shallow grave,1,3.5
+2022,"last temptation of christ, the",1,4.0
+286625,the all-around reduced personality: outtakes,1,3.0
+1998,exorcist ii: the heretic,1,1.5
+1992,child's play 2,1,5.0
+1963,take the money and run,1,3.5
+271230,the night,1,1.5
+290,once were warriors,1,5.0
+271989,propeller: a vans skateboarding video,1,4.5
+1916,buffalo '66,1,5.0
+1892,"perfect murder, a",1,3.0
+1859,taste of cherry,1,5.0
+1846,nil by mouth,1,5.0
+1772,blues brothers 2000,1,3.0
+1746,senseless,1,2.5
+169900,the lost city of z,1,4.0
+172241,secret santa,1,0.5
+169404,the man who cheated himself,1,4.0
+172743,somnio,1,3.5
+275191,ricky gervais: supernature,1,4.5
+273,mary shelley's frankenstein,1,4.0
+165699,angel has fallen,1,3.5
+165549,manchester by the sea,1,5.0
+165101,inferno,1,0.5
+173465,the last day of summer,1,3.0
+164411,my life as a courgette,1,4.5
+164200,storks,1,3.0
+164139,freelance,1,3.0
+164135,bangkok traffic love story,1,4.0
+163809,over the garden wall,1,5.0
+162210,lie detector,1,3.0
+160565,the purge: election year,1,4.0
+160114,gridlocked,1,4.0
+157373,it's such a beautiful day,1,5.0
+157296,finding dory,1,1.0
+175281,tour de pharmacy,1,4.5
+157176,a storm in the stars,1,3.5
+156547,the girl in the photographs,1,3.5
+175441,the black hole,1,3.5
+153614,new mischief by emil,1,2.5
+1627,u turn,1,4.0
+152591,ip man 3,1,3.0
+1545,ponette,1,4.0
+151707,the eagle huntress,1,2.5
+150896,walesa: man of hope,1,4.0
+175827,cedric the entertainer: taking you higher,1,5.0
+175849,shirley: visions of reality,1,4.0
+175879,hydrozagadka,1,4.5
+175937,the structure of crystals,1,4.0
+265,like water for chocolate,1,4.0
+146678,the girls in the band,1,3.5
+145058,pee mak phrakanong,1,3.5
+176175,pickpocket,1,3.0
+145050,suckseed,1,3.5
+144692,gunhed,1,2.5
+143815,poor but beautiful,1,4.5
+177057,murderers' row,1,3.0
+143259,4got10,1,3.0
+142969,virgin mountain,1,4.0
+276157,les secrets de l'invisible,1,3.0
+142286,the long hair of death,1,3.5
+177583,ostende,1,4.0
+141866,green room,1,4.0
+141642,the bad education movie,1,1.5
+140523,"visit, the",1,3.5
+1513,romy and michele's high school reunion,1,4.5
+178769,the good soldier švejk,1,4.5
+1446,kolya,1,5.0
+179029,poor cow,1,3.0
+140106,our little sister,1,4.0
+139343,noi 4,1,3.5
+179135,blue planet ii,1,0.5
+139195,jim henson's the storyteller,1,5.0
+179497,boo 2! a madea halloween,1,1.0
+135528,escape from sobibor,1,4.0
+135141,allegiant: part 1,1,3.5
+133933,deadlier than the male,1,3.0
+132952,sarfarosh,1,4.0
+180087,the prophecy: uprising,1,2.0
+132883,testament of youth,1,4.0
+1359,jingle all the way,1,1.0
+130518,the amazing screw-on head,1,2.0
+180497,the post,1,3.0
+127152,going clear: scientology and the prison of belief,1,4.5
+180565,starbucking,1,4.0
+127052,operation 'y' & other shurik's adventures,1,5.0
+126981,the wayward girl,1,4.0
+181243,one summer of happiness,1,3.5
+126793,two shots fired,1,3.0
+125093,playing house,1,4.0
+124230,i love trouble,1,4.0
+1358,sling blade,1,5.0
+122940,clear history,1,3.0
+26208,my night at maud's,1,4.5
+26215,"joke, the",1,3.0
+26225,claire's knee,1,3.5
+26383,demon seed,1,4.0
+26386,high anxiety,1,4.0
+26498,boy meets girl,1,4.0
+7569,you only live twice,1,3.0
+58576,made in u.s.a.,1,3.0
+27434,darkness,1,2.0
+7449,godsend,1,2.5
+7439,"punisher, the",1,3.5
+27731,"cat returns, the",1,1.0
+27811,buddy,1,3.5
+7334,"front, the",1,3.0
+7325,starsky & hutch,1,3.5
+7320,dirty dancing: havana nights,1,4.5
+7307,flesh & blood,1,5.0
+31201,pippi on the run,1,2.0
+31221,elektra,1,5.0
+31374,hobson's choice,1,3.5
+31435,rory o'shea was here,1,4.0
+31932,fallen angel,1,4.0
+7238,ashes and diamonds,1,3.5
+32649,"special day, a",1,4.0
+32799,maidens in uniform,1,3.5
+7236,"boy and his dog, a",1,5.0
+33072,f for fake,1,4.5
+33454,léolo,1,4.5
+263549,två kvinnor,1,2.5
+33585,9 songs,1,1.5
+7173,along came polly,1,2.0
+7156,"fog of war: eleven lessons from the life of robert s. mcnamara, the",1,5.0
+34323,"devil's rejects, the",1,3.5
+34548,"tree of wooden clogs, the",1,4.0
+7136,stolen kisses,1,3.5
+36525,just like heaven,1,4.5
+37727,flightplan,1,5.0
+7073,"shot in the dark, a",1,4.0
+7069,macbeth,1,3.5
+7043,vivre sa vie: film en douze tableaux,1,4.0
+40422,count dracula,1,3.5
+40583,syriana,1,4.5
+40752,takeshis',1,1.0
+41136,"driver, the",1,3.5
+6993,hannah and her sisters,1,4.0
+6961,damage,1,4.5
+6954,"barbarian invasions, the",1,5.0
+42546,passport to pimlico,1,3.0
+264135,the hand of god,1,3.0
+43396,"world's fastest indian, the",1,3.5
+43415,as tears go by,1,4.0
+44022,ice age 2: the meltdown,1,3.5
+44911,magic,1,3.0
+44929,candy,1,4.0
+45179,"glass key, the",1,3.0
+6837,love affair,1,3.0
+46441,"sheriff and the satellite kid, the",1,1.0
+46869,dames,1,3.0
+46967,scoop,1,3.5
+6811,pcu,1,4.0
+47382,step up,1,2.0
+47518,accepted,1,4.5
+6731,day of the dead,1,2.0
+6713,millennium actress,1,4.5
+48142,"black dahlia, the",1,4.0
+48262,"bridge, the",1,4.0
+6662,"pink panther, the",1,4.0
+48575,brute force,1,3.0
+48711,facing the giants,1,4.5
+48744,shortbus,1,4.5
+6660,"red shoes, the",1,4.5
+6641,code unknown,1,5.0
+264400,"me, my sex and i",1,2.5
+6639,wait until dark,1,4.5
+49422,"oss 117: cairo, nest of spies",1,4.0
+6616,grind,1,3.5
+49651,rocky balboa,1,5.0
+49902,"decameron, the",1,2.0
+50685,waitress,1,3.5
+6422,shenandoah,1,1.5
+51207,street trash,1,2.5
+51857,"taste of honey, a",1,3.0
+6357,high society,1,2.0
+53000,28 weeks later,1,3.5
+53121,shrek the third,1,3.5
+53207,88 minutes,1,0.5
+6223,spun,1,3.5
+6195,stone reader,1,4.5
+6188,old school,1,4.0
+6035,pépé le moko,1,3.0
+6023,band of outsiders,1,4.0
+54378,man's job,1,3.0
+55063,my winnipeg,1,4.0
+55369,chronicle of a summer,1,3.5
+55726,"year my parents went on vacation, the",1,2.0
+5966,"kiss before dying, a",1,3.5
+56169,awake,1,0.5
+56432,"swimming pool, the",1,3.5
+5915,victory,1,3.5
+56941,p.s. i love you,1,1.5
+57528,rambo,1,5.0
+5867,thief,1,3.5
+5766,madman,1,4.0
+58632,terror's advocate,1,4.5
+266802,a world without women,1,3.5
+268800,aloners,1,3.0
+5522,rollerball,1,4.0
+269234,resurrection,1,2.5
+5507,xxx,1,5.0
+59832,where the sidewalk ends,1,3.0
+269800,prejudice and pride: swedish film queer,1,3.0
+60189,archangel,1,3.0
+60508,pan tadeusz: the last foray in lithuania,1,3.0
+60566,just another love story,1,5.0
+60737,watching the detectives,1,3.0
+5479,k-19: the widowmaker,1,4.0
+61350,babylon a.d.,1,2.0
+62849,rocknrolla,1,5.0
+62916,"wicked lady, the",1,2.0
+63222,jcvd,1,4.0
+63698,three monkeys,1,3.0
+5382,every which way but loose,1,4.0
+64197,hunger,1,4.0
+5352,the big sleep,1,2.0
+64280,hospital,1,4.5
+64499,che: part one,1,3.5
+5348,hollywood ending,1,3.0
+5303,joe versus the volcano,1,4.0
+65126,choke,1,4.0
+65585,bride wars,1,3.0
+5198,"long good friday, the",1,3.5
+5154,"arena, the",1,2.5
+5096,baby's day out,1,4.0
+270544,warp speed chic,1,4.0
+69604,whatever works,1,4.5
+4887,"one, the",1,4.0
+180,mallrats,1,4.0
+70703,christopher columbus: the discovery,1,4.0
+70871,"day in the country, a",1,3.0
+70978,boyfriends and girlfriends,1,5.0
+4783,"endurance: shackleton's legendary antarctic expedition, the",1,5.0
+4733,"curse of the jade scorpion, the",1,3.5
+71350,scandal sheet,1,4.0
+71372,hellraiser: deader,1,1.5
+71374,hellraiser: hellworld,1,2.5
+4699,original sin,1,3.0
+72129,saw vi,1,2.5
+72276,"indian tomb, the",1,2.5
+4687,billy liar,1,3.5
+72380,"box, the",1,2.5
+72626,"billy blazes, esq.",1,2.5
+4626,miracle mile,1,4.0
+4616,lean on me,1,3.5
+73881,3 idiots,1,5.0
+74450,valentine's day,1,4.0
+74510,"girl who played with fire, the",1,4.0
+74685,"crazies, the",1,3.0
+4572,black rain,1,3.0
+4562,without a clue,1,3.5
+74791,"town called panic, a",1,5.0
+74820,"fall of the roman empire, the",1,3.5
+75423,"devil's eye, the",1,3.5
+77201,valhalla rising,1,4.0
+77774,big river man,1,5.0
+4371,baby boy,1,5.0
+4325,"night, the",1,3.5
+78209,get him to the greek,1,4.5
+78264,"back-up plan, the",1,2.5
+4224,exit wounds,1,3.0
+4198,battle beyond the stars,1,4.0
+4190,elmer gantry,1,2.5
+78905,whirlpool,1,3.0
+4141,head over heels,1,3.0
+79519,trans-europ-express,1,3.5
+4084,beverly hills cop ii,1,4.0
+271865,x,1,3.0
+3999,vertical limit,1,3.0
+80617,cats & dogs: the revenge of kitty galore,1,4.0
+3997,dungeons & dragons,1,3.0
+80928,david cross: bigger & blackerer,1,3.5
+3984,diamonds are forever,1,3.0
+81075,"temptation of st. tony, the",1,4.0
+81385,of gods and men,1,4.0
+81669,"castle, the",1,3.5
+3947,get carter,1,2.5
+3896,"way of the gun, the",1,2.5
+3869,"naked gun 2 1/2: the smell of fear, the",1,1.0
+82463,another year,1,4.0
+82854,gulliver's travels,1,3.0
+3858,cecil b. demented,1,3.0
+3825,coyote ugly,1,2.0
+84483,"magic gloves, the",1,3.5
+3801,anatomy of a murder,1,3.5
+85394,cave of forgotten dreams,1,3.5
+3726,assault on precinct 13,1,4.5
+3710,action jackson,1,2.0
+87040,"housemaid, the",1,4.0
+87522,larry crowne,1,3.5
+87999,i am curious,1,3.0
+3421,animal house,1,2.0
+3407,"carriers are waiting, the",1,4.5
+173,judge dredd,1,3.0
+3363,american graffiti,1,4.0
+91571,coriolanus,1,5.0
+3334,key largo,1,3.5
+3302,beautiful people,1,5.0
+92008,haywire,1,1.5
+3267,"mariachi, el",1,3.5
+3257,"bodyguard, the",1,5.0
+93598,snowtown,1,4.0
+3235,where the buffalo roam,1,3.5
+3196,stalag 17,1,3.5
+94978,i wish,1,3.0
+3113,end of days,1,1.0
+96283,diary of a wimpy kid: dog days,1,3.0
+3107,backdraft,1,5.0
+172,johnny mnemonic,1,5.0
+96985,"report on the party and the guests, a",1,3.0
+3066,tora! tora! tora!,1,3.0
+275433,crimes of the future,1,2.0
+98239,red dawn,1,1.5
+98381,hellraiser: revelations,1,2.5
+3040,meatballs,1,4.0
+99117,this is 40,1,3.0
+276011,you are my adventure,1,3.0
+3007,american movie,1,5.0
+2989,for your eyes only,1,3.5
+101362,olympus has fallen,1,5.0
+2971,all that jazz,1,5.0
+2949,dr. no,1,3.5
+103655,r.i.p.d.,1,3.5
+104272,blackfish,1,4.5
+2937,"palm beach story, the",1,3.0
+106212,root of all evil?,1,4.0
+2915,risky business,1,4.5
+2894,romance,1,5.0
+107067,pianomania,1,5.0
+2826,"13th warrior, the",1,4.5
+109185,night on the galactic railroad,1,5.0
+2785,tales of terror,1,4.0
+109627,mystery road,1,4.0
+109687,particle fever,1,4.0
+111661,"two faces of january, the",1,4.0
+2745,"mission, the",1,5.0
+2739,"color purple, the",1,3.5
+2714,"wood, the",1,4.5
+112316,jersey boys,1,5.0
+2660,"thing from another world, the",1,4.0
+113902,"holy man, the",1,3.0
+115042,more about the children of noisy village,1,3.5
+115381,"alexander and the terrible, horrible, no good, very bad day",1,1.0
+115417,"presentation, or charlotte and her steak",1,2.5
+2580,go,1,4.0
+2535,earthquake,1,2.0
+117420,the boy who cried werewolf,1,3.0
+117545,asterix: the land of the gods,1,4.5
+117710,murder on the orient express,1,2.5
+117851,penguins of madagascar,1,2.0
+2532,conquest of the planet of the apes,1,3.5
+2511,"long goodbye, the",1,3.0
+119667,the prophecy: forsaken,1,2.0
+120777,somersault,1,2.5
+120936,the hire: powder keg,1,4.0
+122853,seduction,1,4.0
+2467,"name of the rose, the",1,4.5
+2460,"texas chainsaw massacre 2, the",1,4.0
+2450,howard the duck,1,3.5
+2416,back to school,1,2.0
+2387,very bad things,1,4.0
+125479,the unknown,1,2.5
+2366,king kong,1,3.5
+126745,lotta 2: lotta flyttar hemifrån,1,2.5
+126751,karlsson on the roof,1,1.5
+127390,family guy presents: blue harvest,1,1.0
+128316,"the tree, the mayor and the mediatheque",1,3.0
+129370,"spongebob movie: sponge out of water, the",1,3.0
+277003,all the crows in the world,1,3.0
+131056,the vexxer,1,2.5
+132846,woman on the run,1,3.0
+133276,the dead lands,1,3.0
+134122,voyage to the planet of prehistoric women,1,1.5
+134528,aloha,1,3.5
+134763,to trap a spy,1,2.0
+2285,if....,1,4.0
+135242,on the way to school,1,3.5
+135504,little boy,1,4.5
+137296,heaven knows what,1,2.0
+137563,stung,1,5.0
+2205,mr. & mrs. smith,1,3.0
+138210,13 hours,1,4.0
+2201,"paradine case, the",1,3.5
+140397,animal farm,1,3.5
+140731,company limited,1,4.0
+141133,green snake,1,4.0
+141389,my 20th century,1,3.0
+141702,drishyam,1,3.5
+141725,all the boys are called patrick,1,3.0
+142492,son of saul,1,4.0
+2136,"nutty professor, the",1,2.0
+2114,"outsiders, the",1,4.0
+2106,swing kids,1,3.5
+144172,february,1,3.0
+145572,aenigma,1,3.5
+146050,the elusive revengers,1,3.5
+146329,the master and margarita,1,4.5
+147750,rams,1,4.5
+151615,hello stranger,1,4.0
+151723,symphonie diagonale,1,2.5
+2071,and the band played on,1,3.5
+2065,"purple rose of cairo, the",1,3.5
+105,"bridges of madison county, the",1,2.0
+154532,red eagle,1,3.5
+155245,the patriarch,1,3.0
+65,bio-dome,1,4.0
+156755,things to come,1,2.5
+156767,ghosts before breakfast,1,3.0
+157797,special correspondents,1,2.5
+158224,dernier atout,1,3.0
+58,"postman, the",1,4.0
+159195,"i, daniel blake",1,4.0
+159994,eroica,1,4.0
+160694,patterns of evidence: the exodus,1,4.5
+2005,"goonies, the",1,5.0
+160848,the red turtle,1,3.0
+161754,ernst thälmann - führer seiner klasse,1,3.5
+161932,poi e: the story of our song,1,3.5
+1944,from here to eternity,1,3.5
+165579,utu,1,3.0
+1920,small soldiers,1,4.0
+279562,hellraiser,1,3.0
+1911,dr. dolittle,1,5.0
+167166,7 years,1,4.0
+167564,the little hours,1,3.5
+168498,resident evil: the final chapter,1,2.0
+1862,species ii,1,1.5
+168712,fifty shades darker,1,4.0
+1835,city of angels,1,0.5
+279728,project wolf hunting,1,3.5
+170273,the tommyknockers,1,3.5
+170647,max and the junkmen,1,3.5
+42,dead presidents,1,4.0
+280692,v/h/s/85,1,3.5
+171351,lil rel: relevent,1,5.0
+1689,"man who knew too little, the",1,1.5
+173495,rock 'n roll,1,3.0
+1639,chasing amy,1,4.0
+175247,final cut: ladies and gentlemen,1,4.0
+1539,twin town,1,3.5
+176599,naked,1,0.5
+176625,message from the king,1,4.0
+1465,rosewood,1,3.0
+1459,absolute power,1,3.5
+177289,vixen: the movie,1,3.0
+1411,hamlet,1,3.5
+177913,back to burgundy,1,3.0
+178053,farewells,1,3.5
+1375,star trek iii: the search for spock,1,2.5
+180325,"i love you, daddy",1,1.5
+1356,star trek: first contact,1,5.0
+183143,planet of storms,1,4.5
+183815,the open house,1,1.0
+283735,ivalu,1,3.5
+184393,the criminal excellency fund,1,4.0
+283947,"love is gay, love is sad",1,3.5
+186853,killed the family and went to the movies,1,4.0
+187133,knights of the teutonic order,1,4.0
+1216,"big blue, the",1,4.5
+1202,withnail & i,1,4.0
+188217,summer,1,4.0
+1185,my left foot,1,4.5
+11,"american president, the",1,3.5
+188829,capernaum,1,4.0
+188939,waru,1,2.5
+189061,in darkness,1,1.5
+1154,t-men,1,3.0
+1126,drop dead fred,1,2.5
+190085,how it ends,1,2.0
+1103,rebel without a cause,1,4.0
+191483,the nun,1,2.5
+192081,like father,1,3.0
+1087,madame butterfly,1,1.5
+1084,bonnie and clyde,1,2.5
+192545,pity,1,3.0
+193147,the house that jack built,1,4.5
+193960,wildlife,1,3.5
+194222,der wixxer,1,3.0
+1047,"long kiss goodnight, the",1,4.5
+194492,fighting the sky,1,1.5
+288035,a radiant life,1,1.5
+195481,dharma guns,1,3.5
+195869,the so-called caryatids,1,2.5
+991,michael collins,1,4.0
+197529,the upside,1,3.5
+974,algiers,1,3.0
+199910,the professor and the madman,1,2.5
+200122,goodland,1,3.5
+931,spellbound,1,3.5
+830,"first wives club, the",1,4.5
+202099,batman vs. teenage mutant ninja turtles,1,4.5
+807,rendezvous in paris,1,3.0
+203940,zeroville,1,2.5
+204292,aaliyah: the princess of r&b,1,3.0
+715,"horseman on the roof, the",1,3.5
+204702,"where'd you go, bernadette",1,3.0
+288269,no hard feelings,1,1.5
+205475,killing michael jackson,1,3.5
+206805,in the shadow of the moon,1,2.5
+668,song of the little road,1,5.0
+207097,veslemøy's song,1,4.0
+208695,vi på saltkråkan,1,3.0
+210073,pay day,1,3.5
+611,hellraiser: bloodline,1,3.5
+210847,bloodshot,1,3.0
+211560,les misérables,1,3.0
+212975,more than god,1,4.0
+213992,the coma,1,2.5
+214454,emil and the piglet,1,2.5
+214772,michael jackson's thriller,1,4.5
+215593,pensionat paradiset,1,3.0
+215607,accomplice,1,2.0
+289651,blue jeans,1,2.5
+216871,an ecology of mind,1,4.0
+217057,atm,1,3.5
+289737,the march on rome,1,3.0
+217831,my father was right,1,2.5
+217973,sniper: assassin's end,1,3.5
+218197,21 con 40,1,3.0
+218615,hormones,1,3.5
+218617,seasons change,1,4.0
+220018,varg veum - yours 'till death,1,2.5
+512,"puppet masters, the",1,2.5
+220922,the rental,1,2.0
+495,in the realm of the senses,1,5.0
+224026,freeze-frame,1,2.5
+224314,the recorder exam,1,4.0
+484,lassie,1,2.0
+225415,femme,1,2.5
+290515,truth or dare,1,3.0
+227086,eva,1,3.0
+227250,the death of a projectionist,1,3.0
+440,dave,1,5.0
+231145,what lies below,1,2.0
+231181,penguin bloom,1,5.0
+435,coneheads,1,4.0
+235025,edward hopper and the blank canvas,1,3.5
+236991,coda,1,4.5
+237227,raya and the last dragon,1,3.5
+237372,coming 2 america,1,1.5
+237458,hacksaw,1,1.0
+237696,gritt,1,1.5
+434,cliffhanger,1,3.5
+241020,please turn over,1,4.0
+241480,the reporter,1,3.5
+408,8 seconds,1,0.5
+290521,couple fucking,1,3.5
+373,red rock west,1,4.0
+3,grumpier old men,1,3.0
+248934,hidden in the fog,1,3.0
+250362,censor,1,3.0
+252646,false positive,1,1.0
+346,backbeat,1,4.0
+253690,the worst person in the world,1,4.5
+256379,x-cross,1,4.5
+259233,azor,1,3.0
+261593,aileen wuornos: american boogeywoman,1,3.0
+291258,spring fever,1,2.5
+8128,au revoir les enfants,1,4.5
+8154,"dolce vita, la",1,5.0
+8195,"avventura, l'",1,3.5
+8042,mean streets,1,3.5
+8364,baadasssss!,1,0.5
+8010,"power of one, the",1,5.0
+8593,juice,1,5.0
+8600,angels with dirty faces,1,4.0
+8605,taxi 3,1,4.0
+263149,the good boss,1,4.0
+8664,mr. klein,1,3.5
+8694,you were never lovelier,1,3.5
+8724,"leopard, the",1,2.5
+8765,this gun for hire,1,4.5
+8768,criss cross,1,3.0
+8906,cannibal holocaust,1,5.0
+8912,taxi,1,5.0
+7826,"secret life of walter mitty, the",1,4.0
+7749,weekend,1,1.5
+7745,"scent of green papaya, the",1,3.0
+8962,fade to black,1,3.0
+8969,bridget jones: the edge of reason,1,4.0
+7728,"postman always rings twice, the",1,3.5
+8974,"spongebob squarepants movie, the",1,3.5
+8983,house of flying daggers,1,4.0
+7716,"lonely guy, the",1,4.5
+25739,"idle class, the",1,3.0
+25805,"atalante, l'",1,4.0
+25891,heaven can wait,1,4.0
+25911,"woman in the window, the",1,3.5
+25921,"dark mirror, the",1,3.5
+25929,nightmare alley,1,3.5
+25932,"two mrs. carrolls, the",1,3.5
+25938,fort apache,1,4.5
+25943,"naked city, the",1,3.5
+26049,fires on the plain,1,4.0
+26083,"loneliness of the long distance runner, the",1,4.0
+26157,manos: the hands of fate,1,0.5
+26183,asterix and cleopatra,1,4.5
