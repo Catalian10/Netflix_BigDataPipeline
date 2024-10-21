@@ -1,0 +1,208 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fmodern Consolas;}{\f1\fmodern\fcharset0 Consolas;}{\f2\fnil\fcharset129 Courier New;}}
+{\colortbl ;\red20\green20\blue20;\red142\green142\blue142;\red16\green158\blue98;\red148\green146\blue12;\red170\green51\blue170;\red170\green64\blue64;\red56\green136\blue159;}
+\viewkind4\uc1\pard\f0\fs20 Authenticating with public key "Imported-Openssh-Key"\cf1\highlight2 
+\par \cf0\highlight0     \u9484?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9488?\cf1\highlight2 
+\par \cf0\highlight0     \u9474?                 \cf3\f1\bullet  MobaXterm Personal Edition v24.2 \bullet\cf0\f0                  \u9474?\cf1\highlight2 
+\par \cf0\highlight0     \u9474?               \cf4 (SSH client, X server and network tools)\cf0                \u9474?\cf1\highlight2 
+\par \cf0\highlight0     \u9474?                                                                      \u9474?\cf1\highlight2 
+\par \cf0\highlight0     \u9474? \u11166? SSH session to \cf5 ec2-user@18.132.73.146                    \cf0           \u9474?\cf1\highlight2 
+\par \cf0\highlight0     \u9474?\f1    \bullet  Direct SSH      :  \cf3\f0\u10003?\cf0                                              \u9474?\cf1\highlight2 
+\par \cf0\highlight0     \u9474?\f1    \bullet  SSH compression :  \cf3\f0\u10003?\cf0                                              \u9474?\cf1\highlight2 
+\par \cf0\highlight0     \u9474?\f1    \bullet  SSH-browser     :  \cf3\f0\u10003?\cf0                                              \u9474?\cf1\highlight2 
+\par \cf0\highlight0     \u9474?\f1    \bullet  X11-forwarding  :  \cf6\f0\u10007?\cf0   (disabled or not supported by server)      \u9474?\cf1\highlight2 
+\par \cf0\highlight0     \u9474?                                                                      \u9474?\cf1\highlight2 
+\par \cf0\highlight0     \u9474? \u11166? For more info, ctrl+click on \cf7\ul help\cf0\ulnone  or visit our \cf7\ul website\cf0\ulnone .            \u9474?\cf1\highlight2 
+\par \cf0\highlight0     \u9492?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9472?\u9496?\cf1\highlight2 
+\par 
+\par \cf0\highlight0 Register this system with Red Hat Insights: insights-client --register\cf1\highlight2 
+\par \cf0\highlight0 Create an account or view all your systems at https://red.ht/insights-dashboard\cf1\highlight2 
+\par \cf0\highlight0 Last login: Tue Oct 15 12:33:25 2024 from 24.125.137.30\cf1\highlight2 
+\par \cf0\highlight0 [ec2-user@ip-172-31-14-3 ~]$ psql -U consultants -d testdb\cf1\highlight2 
+\par \cf0\highlight0 Password for user consultants:\cf1\highlight2 
+\par \cf0\highlight0 psql (13.10)\cf1\highlight2 
+\par \cf0\highlight0 Type "help" for help.\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=> CREATE TABLE netflix_sid_movies (\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     movieId INT PRIMARY KEY,\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     title TEXT,\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     genres TEXT\cf1\highlight2 
+\par \cf0\highlight0 testdb(> );\cf1\highlight2 
+\par \cf0\highlight0 CREATE TABLE\cf1\highlight2 
+\par \cf0\highlight0 testdb=> CREATE TABLE netflix_sid_ratings (\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     userId INT,\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     movieId INT,\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     rating DECIMAL(2, 1),\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     timestamp BIGINT,\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     PRIMARY KEY (userId, movieId)\cf1\highlight2 
+\par \cf0\highlight0 testdb(> );\cf1\highlight2 
+\par \cf0\highlight0 CREATE TABLE\cf1\highlight2 
+\par \cf0\highlight0 testdb=> CREATE TABLE netflix_sid_tags (\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     userId INT,\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     movieId INT,\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     tag TEXT,\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     timestamp BIGINT,\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     PRIMARY KEY (userId, movieId, tag)\cf1\highlight2 
+\par \cf0\highlight0 testdb(> );\cf1\highlight2 
+\par \cf0\highlight0 CREATE TABLE\cf1\highlight2 
+\par \cf0\highlight0 testdb=> CREATE TABLE netflix_sid_links (\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     movieId INT PRIMARY KEY,\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     imdbId INT,\cf1\highlight2 
+\par \cf0\highlight0 testdb(>     tmdbId INT\cf1\highlight2 
+\par \cf0\highlight0 testdb(> );\cf1\highlight2 
+\par \cf0\highlight0 CREATE TABLE\cf1\highlight2 
+\par \cf0\highlight0 testdb=> \\d netflix_sid_movies\cf1\highlight2 
+\par \cf0\highlight0          Table "public.netflix_sid_movies"\cf1\highlight2 
+\par \cf0\highlight0  Column  |  Type   | Collation | Nullable | Default\cf1\highlight2 
+\par \cf0\highlight0 ---------+---------+-----------+----------+---------\cf1\highlight2 
+\par \cf0\highlight0  movieid | integer |           | not null |\cf1\highlight2 
+\par \cf0\highlight0  title   | text    |           |          |\cf1\highlight2 
+\par \cf0\highlight0  genres  | text    |           |          |\cf1\highlight2 
+\par \cf0\highlight0 Indexes:\cf1\highlight2 
+\par \cf0\highlight0     "netflix_sid_movies_pkey" PRIMARY KEY, btree (movieid)\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=> \\d netflix_sid_ratings\cf1\highlight2 
+\par \cf0\highlight0             Table "public.netflix_sid_ratings"\cf1\highlight2 
+\par \cf0\highlight0   Column   |     Type     | Collation | Nullable | Default\cf1\highlight2 
+\par \cf0\highlight0 -----------+--------------+-----------+----------+---------\cf1\highlight2 
+\par \cf0\highlight0  userid    | integer      |           | not null |\cf1\highlight2 
+\par \cf0\highlight0  movieid   | integer      |           | not null |\cf1\highlight2 
+\par \cf0\highlight0  rating    | numeric(2,1) |           |          |\cf1\highlight2 
+\par \cf0\highlight0  timestamp | bigint       |           |          |\cf1\highlight2 
+\par \cf0\highlight0 Indexes:\cf1\highlight2 
+\par \cf0\highlight0     "netflix_sid_ratings_pkey" PRIMARY KEY, btree (userid, movieid)\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=> \\d netflix_sid_tags\cf1\highlight2 
+\par \cf0\highlight0            Table "public.netflix_sid_tags"\cf1\highlight2 
+\par \cf0\highlight0   Column   |  Type   | Collation | Nullable | Default\cf1\highlight2 
+\par \cf0\highlight0 -----------+---------+-----------+----------+---------\cf1\highlight2 
+\par \cf0\highlight0  userid    | integer |           | not null |\cf1\highlight2 
+\par \cf0\highlight0  movieid   | integer |           | not null |\cf1\highlight2 
+\par \cf0\highlight0  tag       | text    |           | not null |\cf1\highlight2 
+\par \cf0\highlight0  timestamp | bigint  |           |          |\cf1\highlight2 
+\par \cf0\highlight0 Indexes:\cf1\highlight2 
+\par \cf0\highlight0     "netflix_sid_tags_pkey" PRIMARY KEY, btree (userid, movieid, tag)\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=> \\d netflix_sid_links\cf1\highlight2 
+\par \cf0\highlight0           Table "public.netflix_sid_links"\cf1\highlight2 
+\par \cf0\highlight0  Column  |  Type   | Collation | Nullable | Default\cf1\highlight2 
+\par \cf0\highlight0 ---------+---------+-----------+----------+---------\cf1\highlight2 
+\par \cf0\highlight0  movieid | integer |           | not null |\cf1\highlight2 
+\par \cf0\highlight0  imdbid  | integer |           |          |\cf1\highlight2 
+\par \cf0\highlight0  tmdbid  | integer |           |          |\cf1\highlight2 
+\par \cf0\highlight0 Indexes:\cf1\highlight2 
+\par \cf0\highlight0     "netflix_sid_links_pkey" PRIMARY KEY, btree (movieid)\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=> COPY netflix_sid_movies (movieId, title, genres)\cf1\highlight2 
+\par \cf0\highlight0 testdb-> FROM '/home/ec2-user/UKUSSeptBatch/Siddhesh/Project/DataIngestion/movies.csv'\cf1\highlight2 
+\par \cf0\highlight0 testdb-> DELIMITER ',' CSV HEADER;\cf1\highlight2 
+\par \cf0\highlight0 ERROR:  must be superuser or a member of the pg_read_server_files role to COPY from a file\cf1\highlight2 
+\par \cf0\highlight0 HINT:  Anyone can COPY to stdout or from stdin. psql's \\copy command also works for anyone.\cf1\highlight2 
+\par \cf0\highlight0 testdb=> COPY netflix_sid_movies (movieId, title, genres) FROM '/home/ec2-user/UKUSSeptBatch/Siddhesh/Project/DataIngestion/movies.csv' DELIMITER ',' CSV HEADER;\cf1\highlight2 
+\par \cf0\highlight0 ERROR:  must be superuser or a member of the pg_read_server_files role to COPY from a file\cf1\highlight2 
+\par \cf0\highlight0 HINT:  Anyone can COPY to stdout or from stdin. psql's \\copy command also works for anyone.\cf1\highlight2 
+\par \cf0\highlight0 testdb=> \\copy netflix_sid_movies (movieId, title, genres) FROM '/home/ec2-user/UKUSSeptBatch/Siddhesh/Project/DataIngestion/movies.csv' DELIMITER ',' CSV HEADER;\cf1\highlight2 
+\par \cf0\highlight0 /home/ec2-user/UKUSSeptBatch/Siddhesh/Project/DataIngestion/movies.csv: No such file or directory\cf1\highlight2 
+\par \cf0\highlight0 testdb=> \\copy netflix_sid_movies (movieId, title, genres) FROM '/home/ec2-user/UKUSSeptBatch/Siddhesh/Project/DataIngestion/movielens/movies.csv' DELIMITER ',' CSV HEADER;\cf1\highlight2 
+\par \cf0\highlight0 /home/ec2-user/UKUSSeptBatch/Siddhesh/Project/DataIngestion/movielens/movies.csv: No such file or directory\cf1\highlight2 
+\par \cf0\highlight0 testdb=> \\copy netflix_sid_movies (movieId, title, genres) FROM '/home/ec2-user/UKUSSeptBatch/Siddhesh/Project/DataIngestion/Movielens/movies.csv' DELIMITER ',' CSV HEADER;\cf1\highlight2 
+\par \cf0\highlight0 COPY 87585\cf1\highlight2 
+\par \cf0\highlight0 testdb=> \\copy netflix_sid_ratings (userId, movieId, rating, timestamp) FROM '/home/ec2-user/UKUSSeptBatch/Siddhesh/Project/DataIngestion/Movielens/ratings.csv' DELIMITER ',' CSV HEADER;\cf1\highlight2 
+\par \cf0\highlight0 ERROR:  extra data after last expected column\cf1\highlight2 
+\par \cf0\highlight0 CONTEXT:  COPY netflix_sid_ratings, line 2: "1,1,17,4,944249077"\cf1\highlight2 
+\par \cf0\highlight0 testdb=> \\copy netflix_sid_ratings (userId, movieId, rating, timestamp) FROM '/home/ec2-user/UKUSSeptBatch/Siddhesh/Project/DataIngestion/Movielens/ratings.csv' DELIMITER ',' CSV HEADER;\cf1\highlight2 
+\par \cf0\highlight0 COPY 1048575\cf1\highlight2 
+\par \cf0\highlight0 testdb=> \\copy netflix_sid_ratings (userId, movieId, rating, timestamp) FROM '/home/ec2-user/UKUSSeptBatch/Siddhesh/Project/DataIngestion/Movielens/tags.csv' DELIMITER ',' CSV HEADER;\cf1\highlight2 
+\par \cf0\highlight0 ERROR:  invalid input syntax for type numeric: "Kevin Kline"\cf1\highlight2 
+\par \cf0\highlight0 CONTEXT:  COPY netflix_sid_ratings, line 2, column rating: "Kevin Kline"\cf1\highlight2 
+\par \cf0\highlight0 testdb=> \\copy netflix_sid_tags (userId, movieId, tag, timestamp) FROM '/home/ec2-user/UKUSSeptBatch/Siddhesh/Project/DataIngestion/Movielens/tags.csv'  DELIMITER ',' CSV HEADER;\cf1\highlight2 
+\par \cf0\highlight0 COPY 2000072\cf1\highlight2 
+\par \cf0\highlight0 testdb=> \\copy netflix_sid_links (movieId, imdbId, tmdbId) FROM '/home/ec2-user/UKUSSeptBatch/Siddhesh/Project/DataIngestion/Movielens/links.csv' DELIMITER ',' CSV HEADER;\cf1\highlight2 
+\par \cf0\highlight0 COPY 87585\cf1\highlight2 
+\par \cf0\highlight0 testdb=> select * from netflix_sid_movies limit 10;\cf1\highlight2 
+\par \cf0\highlight0  movieid |               title                |                   genres\cf1\highlight2 
+\par \cf0\highlight0 ---------+------------------------------------+---------------------------------------------\cf1\highlight2 
+\par \cf0\highlight0        1 | Toy Story (1995)                   | Adventure|Animation|Children|Comedy|Fantasy\cf1\highlight2 
+\par \cf0\highlight0        2 | Jumanji (1995)                     | Adventure|Children|Fantasy\cf1\highlight2 
+\par \cf0\highlight0        3 | Grumpier Old Men (1995)            | Comedy|Romance\cf1\highlight2 
+\par \cf0\highlight0        4 | Waiting to Exhale (1995)           | Comedy|Drama|Romance\cf1\highlight2 
+\par \cf0\highlight0        5 | Father of the Bride Part II (1995) | Comedy\cf1\highlight2 
+\par \cf0\highlight0        6 | Heat (1995)                        | Action|Crime|Thriller\cf1\highlight2 
+\par \cf0\highlight0        7 | Sabrina (1995)                     | Comedy|Romance\cf1\highlight2 
+\par \cf0\highlight0        8 | Tom and Huck (1995)                | Adventure|Children\cf1\highlight2 
+\par \cf0\highlight0        9 | Sudden Death (1995)                | Action\cf1\highlight2 
+\par \cf0\highlight0       10 | GoldenEye (1995)                   | Action|Adventure|Thriller\cf1\highlight2 
+\par \cf0\highlight0 (10 rows)\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=> select * from netflix_sid_ratings limit 10;\cf1\highlight2 
+\par \cf0\highlight0  userid | movieid | rating | timestamp\cf1\highlight2 
+\par \cf0\highlight0 --------+---------+--------+-----------\cf1\highlight2 
+\par \cf0\highlight0       1 |      17 |    4.0 | 944249077\cf1\highlight2 
+\par \cf0\highlight0       1 |      25 |    1.0 | 944250228\cf1\highlight2 
+\par \cf0\highlight0       1 |      29 |    2.0 | 943230976\cf1\highlight2 
+\par \cf0\highlight0       1 |      30 |    5.0 | 944249077\cf1\highlight2 
+\par \cf0\highlight0       1 |      32 |    5.0 | 943228858\cf1\highlight2 
+\par \cf0\highlight0       1 |      34 |    2.0 | 943228491\cf1\highlight2 
+\par \cf0\highlight0       1 |      36 |    1.0 | 944249008\cf1\highlight2 
+\par \cf0\highlight0       1 |      80 |    5.0 | 944248943\cf1\highlight2 
+\par \cf0\highlight0       1 |     110 |    3.0 | 943231119\cf1\highlight2 
+\par \cf0\highlight0       1 |     111 |    5.0 | 944249008\cf1\highlight2 
+\par \cf0\highlight0 (10 rows)\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=> select * from netflix_sid_tags limit 10;\cf1\highlight2 
+\par \cf0\highlight0  userid | movieid |           tag            | timestamp\cf1\highlight2 
+\par \cf0\highlight0 --------+---------+--------------------------+------------\cf1\highlight2 
+\par \cf0\highlight0      22 |   26479 | Kevin Kline              | 1583038886\cf1\highlight2 
+\par \cf0\highlight0      22 |   79592 | misogyny                 | 1581476297\cf1\highlight2 
+\par \cf0\highlight0      22 |  247150 | acrophobia               | 1622483469\cf1\highlight2 
+\par \cf0\highlight0      34 |    2174 | music                    | 1249808064\cf1\highlight2 
+\par \cf0\highlight0      34 |    2174 | weird                    | 1249808102\cf1\highlight2 
+\par \cf0\highlight0      34 |    8623 | Steve Martin             | 1249808497\cf1\highlight2 
+\par \cf0\highlight0      55 |    5766 | the killls and the score | 1319322078\cf1\highlight2 
+\par \cf0\highlight0      58 |    7451 | bullying                 | 1672551536\cf1\highlight2 
+\par \cf0\highlight0      58 |    7451 | clique                   | 1672551510\cf1\highlight2 
+\par \cf0\highlight0      58 |    7451 | coming of age            | 1672551502\cf1\highlight2 
+\par \cf0\highlight0 (10 rows)\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=> select * from netflix_sid_links limit 10;\cf1\highlight2 
+\par \cf0\highlight0  movieid | imdbid | tmdbid\cf1\highlight2 
+\par \cf0\highlight0 ---------+--------+--------\cf1\highlight2 
+\par \cf0\highlight0        1 | 114709 |    862\cf1\highlight2 
+\par \cf0\highlight0        2 | 113497 |   8844\cf1\highlight2 
+\par \cf0\highlight0        3 | 113228 |  15602\cf1\highlight2 
+\par \cf0\highlight0        4 | 114885 |  31357\cf1\highlight2 
+\par \cf0\highlight0        5 | 113041 |  11862\cf1\highlight2 
+\par \cf0\highlight0        6 | 113277 |    949\cf1\highlight2 
+\par \cf0\highlight0        7 | 114319 |  11860\cf1\highlight2 
+\par \cf0\highlight0        8 | 112302 |  45325\cf1\highlight2 
+\par \cf0\highlight0        9 | 114576 |   9091\cf1\highlight2 
+\par \cf0\highlight0       10 | 113189 |    710\cf1\highlight2 
+\par \cf0\highlight0 (10 rows)\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=> SELECT COUNT(*) FROM netflix_sid_movies;\cf1\highlight2 
+\par \cf0\highlight0  count\cf1\highlight2 
+\par \cf0\highlight0 -------\cf1\highlight2 
+\par \cf0\highlight0  87585\cf1\highlight2 
+\par \cf0\highlight0 (1 row)\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=> SELECT COUNT(*) FROM netflix_sid_ratings;\cf1\highlight2 
+\par \cf0\highlight0   count\cf1\highlight2 
+\par \cf0\highlight0 ---------\cf1\highlight2 
+\par \cf0\highlight0  1048575\cf1\highlight2 
+\par \cf0\highlight0 (1 row)\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=> SELECT COUNT(*) FROM netflix_sid_links;\cf1\highlight2 
+\par \cf0\highlight0  count\cf1\highlight2 
+\par \cf0\highlight0 -------\cf1\highlight2 
+\par \cf0\highlight0  87585\cf1\highlight2 
+\par \cf0\highlight0 (1 row)\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=> SELECT COUNT(*) FROM netflix_sid_tags;\cf1\highlight2 
+\par \cf0\highlight0   count\cf1\highlight2 
+\par \cf0\highlight0 ---------\cf1\highlight2 
+\par \cf0\highlight0  2000072\cf1\highlight2 
+\par \cf0\highlight0 (1 row)\cf1\highlight2 
+\par 
+\par \cf0\highlight0 testdb=>\cf1\highlight2 
+\par \pard\cf0\highlight0\f2\fs16 
+\par }
+ 
