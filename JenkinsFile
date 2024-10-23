@@ -2,65 +2,46 @@ pipeline {
     agent any
 
     stages {
-        stage('Transfer Files') {
+        stage('Clone Repository') {
             steps {
-                echo 'Running file transfer script...'
-                sh 'python DataIngestion/Sqoop/fileTransfer.py'
+                git branch: 'main', url: 'https://github.com/Catalian10/Netflix_BigDataPipeline.git'
             }
         }
 
-        stage('Sqoop Full Load') {
+        stage('Deploy to EC2') {
             steps {
-                echo 'Running Sqoop full load script...'
-                sh 'python DataIngestion/Sqoop/sqoop_full_load.py'
+                sshagent(['72c493c4-cb5d-41e2-add5-0509549afaef']) {
+                    // Copy project folder to EC2
+                    sh 'scp -r ./Netflix_BigDataPipeline ec2-user@your-ec2-ip:/path/to/deployment/'
+                }
             }
         }
 
-        stage('Sqoop Incremental Load') {
+        stage('Run Python Scripts') {
             steps {
-                echo 'Running Sqoop incremental load script...'
-                sh 'python DataIngestion/Sqoop/sqoop_incremental_load.py'
+                sshagent(['72c493c4-cb5d-41e2-add5-0509549afaef']) {
+                    // SSH into EC2 and run the main Python script
+                    sh 'ssh ec2-user@your-ec2-ip "cd /home/ec2-user/BigdataProject_Final_S/Jenkins/Netflix_BigDataPipeline && python3 main_script.py"'
+                }
             }
         }
 
-        stage('Convert to Parquet') {
+        stage('Verify Output') {
             steps {
-                echo 'Converting to Parquet...'
-                sh 'python DataTransformationFinal/ConvertParquetFile.py'
-            }
-        }
-
-        stage('Data Processing') {
-            steps {
-                echo 'Running data processing script...'
-                sh 'python DataTransformationFinal/dataprocessingFinal.py'
-            }
-        }
-
-        stage('Movie Superset Processing') {
-            steps {
-                echo 'Running movie superset processing script...'
-                sh 'python DataTransformationFinal/movieSupersetFinal.py'
-            }
-        }
-        stage('Execute Hive Queries and Generate CSV') {
-            steps {
-                echo 'Executing Hive queries and generating CSV for data visualization...'
-                sh 'python Hive/output/hivequeries.py' // Replace with your actual Python file name
-            }
-        }
-        
-        stage('Execute Data Visualization') {
-            steps {
-                echo 'Executing data visualization...'
-                sh 'python DataVisualization/datavisualization.py' // Replace with your actual Python file name
+                sshagent(['72c493c4-cb5d-41e2-add5-0509549afaef']) {
+                    // Check for script logs or output after execution
+                    sh 'ssh ec2-user@ip-172-31-14-3 "cat /home/ec2-user/BigdataProject_Final_S/Jenkins/log_file.txt"'
+                }
             }
         }
     }
 
     post {
-        always {
-            echo 'Pipeline completed.'
+        success {
+            echo 'Python script ran successfully on EC2!'
+        }
+        failure {
+            echo 'Pipeline failed. Check the logs for details.'
         }
     }
 }
