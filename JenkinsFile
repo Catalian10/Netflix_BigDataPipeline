@@ -4,14 +4,15 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
+                echo 'Cloning GitHub Repository...'
                 git branch: 'main', url: 'https://github.com/Catalian10/Netflix_BigDataPipeline.git'
             }
         }
 
         stage('Deploy to EC2') {
             steps {
+                echo 'Deploying code to EC2...'
                 sshagent(['72c493c4-cb5d-41e2-add5-0509549afaef']) {
-                    // Copy project folder to EC2
                     sh 'scp -r ./Netflix_BigDataPipeline ec2-user@your-ec2-ip:/home/ec2-user/BigdataProject_Final_S/Jenkins/Netflix_BigDataPipeline/'
                 }
             }
@@ -19,8 +20,8 @@ pipeline {
 
         stage('Run Python Script') {
             steps {
+                echo 'Running Python script on EC2...'
                 sshagent(['72c493c4-cb5d-41e2-add5-0509549afaef']) {
-                    // SSH into EC2 and run the fileTransfer.py script
                     sh 'ssh ec2-user@your-ec2-ip "cd /home/ec2-user/BigdataProject_Final_S/Jenkins/Netflix_BigDataPipeline/DataIngestion/csv && python3 fileTransfer.py"'
                 }
             }
@@ -28,8 +29,8 @@ pipeline {
 
         stage('Verify Output') {
             steps {
+                echo 'Verifying output...'
                 sshagent(['72c493c4-cb5d-41e2-add5-0509549afaef']) {
-                    // Check for logs or output after script execution
                     sh 'ssh ec2-user@your-ec2-ip "cat /home/ec2-user/BigdataProject_Final_S/Jenkins/log_file.txt"'
                 }
             }
