@@ -4,34 +4,25 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                echo 'Cloning GitHub Repository...'
+                // Clone the GitHub repository
                 git branch: 'main', url: 'https://github.com/Catalian10/Netflix_BigDataPipeline.git'
             }
         }
 
         stage('Deploy to EC2') {
             steps {
-                echo 'Deploying code to EC2...'
-                sshagent(['72c493c4-cb5d-41e2-add5-0509549afaef']) {
-                    sh 'scp -r ./Netflix_BigDataPipeline ec2-user@your-ec2-ip:/home/ec2-user/BigdataProject_Final_S/Jenkins/Netflix_BigDataPipeline/'
+                sshagent(['my-ssh-key']) {  // Use the SSH key from Jenkins credentials
+                    // Copy project folder to EC2
+                    sh 'scp -r ./Netflix_BigDataPipeline ec2-user@18.132.73.146:/home/ec2-user/Netflix_BigDataPipeline/'
                 }
             }
         }
 
         stage('Run Python Script') {
             steps {
-                echo 'Running Python script on EC2...'
-                sshagent(['72c493c4-cb5d-41e2-add5-0509549afaef']) {
-                    sh 'ssh ec2-user@your-ec2-ip "cd /home/ec2-user/BigdataProject_Final_S/Jenkins/Netflix_BigDataPipeline/DataIngestion/csv && python3 fileTransfer.py"'
-                }
-            }
-        }
-
-        stage('Verify Output') {
-            steps {
-                echo 'Verifying output...'
-                sshagent(['72c493c4-cb5d-41e2-add5-0509549afaef']) {
-                    sh 'ssh ec2-user@your-ec2-ip "cat /home/ec2-user/BigdataProject_Final_S/Jenkins/log_file.txt"'
+                sshagent(['my-ssh-key']) {
+                    // SSH into EC2 and run the Python script
+                    sh 'ssh ec2-user@18.132.73.146 "cd /home/ec2-user/Netflix_BigDataPipeline/DataIngestion/csv && python3 fileTransfer.py"'
                 }
             }
         }
